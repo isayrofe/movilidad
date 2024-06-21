@@ -1,0 +1,56 @@
+[
+    {
+        "id": "tramite1",
+        "modalidad": "Presencial",
+        "tipo": "Trámite",
+        "titulo": "Derechos de control vehicular (pago de tenencia y tarjetas de circulación)",
+        "descripcion": "Emisión de Formatos de pago de pago de tenencia y tarjetas de circulación",
+        "area": "Dirección de Licencias y Emplacamiento Vehicular",
+        "depto": "Departamento de Licencias y Emplacamiento Vehicular"
+    },
+    {
+        "id": "tramite2",
+        "modalidad": "Presencial",
+        "tipo": "Trámite",
+        "titulo": "Alta de vehículos (Servicio Privado)",
+        "descripcion": "Entrega de constancia del alta vehícular ",
+        "area": "Dirección de Licencias y Emplacamiento Vehicular",
+        "depto": "Departamento de Licencias y Emplacamiento Vehicular"
+    },
+    {
+        "id": "tramite3",
+        "modalidad": "Presencial",
+        "tipo": "Trámite",
+        "titulo": "Renovación de Licencias de Conducir",
+        "descripcion": "Emisión de Licencias de conducir vehículos del servicio público y privado",
+        "area": "Dirección de Licencias y Emplacamiento Vehicular",
+        "depto": "Departamento de Licencias y Emplacamiento Vehicular"
+    },
+    {
+        "id": "tramite4",
+        "modalidad": "Presencial",
+        "tipo": "Trámite",
+        "titulo": "Cambio de propietario",
+        "descripcion": "Cambio de propietario vehicular",
+        "area": "Dirección de Licencias y Emplacamiento Vehicular",
+        "depto": "Departamento de Licencias y Emplacamiento Vehicular"
+    },
+    {
+        "id": "tramite5",
+        "modalidad": "Presencial",
+        "tipo": "Trámite",
+        "titulo": "Reposición de Licencias de Conducir",
+        "descripcion": "Emisión de Licencias de conducir vehículos del servicio público y privado",
+        "area": "Dirección de Licencias y Emplacamiento Vehicular",
+        "depto": "Departamento de Licencias y Emplacamiento Vehicular"
+    },
+    {
+        "id": "tramite6",
+        "modalidad": "Presencial",
+        "tipo": "Trámite",
+        "titulo": "Expedición de Licencias de Conducir A, B, C y D",
+        "descripcion": "Emisión de Licencias de conducir vehículos del servicio público y privado",
+        "area": "Dirección de Licencias y Emplacamiento Vehicular",
+        "depto": "Departamento de Licencias y Emplacamiento Vehicular"
+    } 
+]
