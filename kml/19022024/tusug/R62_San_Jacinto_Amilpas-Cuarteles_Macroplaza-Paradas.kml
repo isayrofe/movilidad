@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>R62. San Jacinto Amilpas - Cuarteles, Macroplaza - Paradas.kml</name>
+	<visibility>0</visibility>
+	<Schema name="C:/Users/isayr/OneDrive - UNIR/wordpress-paginaoficial/KML-19-02-2024/Paradas/TUSUG/R62. San Jacinto Amilpas - Cuarteles, Macroplaza - Paradas.kml" id="temp">
+		<SimpleField type="string" name="descripción"></SimpleField>
+		<SimpleField type="string" name="Ida"></SimpleField>
+		<SimpleField type="string" name="Descripción"></SimpleField>
+		<SimpleField type="string" name="descriptio"></SimpleField>
+		<SimpleField type="string" name="Estructura Disponible"></SimpleField>
+	</Schema>
+	<Placemark>
+		<name>P-01</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-01<br>Ida: <br>Descripción: Heriberto Castillo - Libertad<br>descriptio: Heriberto Castillo - Libertad<br>Estructura Disponible: Aprobada<br>Ida: I-01<br>Ida: <br>Descripción: Heriberto Castillo - Libertad<br>descriptio: Heriberto Castillo - Libertad<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-01
+Ida: 
+Descripción: Heriberto Castillo - Libertad
+descriptio: Heriberto Castillo - Libertad
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-01</SimpleData>
+				<SimpleData name="Descripción">Heriberto Castillo - Libertad</SimpleData>
+				<SimpleData name="descriptio">Heriberto Castillo - Libertad</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7612,17.10149,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-02</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-02<br>Ida: <br>Descripción: Heriberto Castillo - Hidalgo<br>descriptio: Heriberto Castillo - Hidalgo<br>Estructura Disponible: Aprobada<br>Ida: I-02<br>Ida: <br>Descripción: Heriberto Castillo - Hidalgo<br>descriptio: Heriberto Castillo - Hidalgo<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-02
+Ida: 
+Descripción: Heriberto Castillo - Hidalgo
+descriptio: Heriberto Castillo - Hidalgo
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-02</SimpleData>
+				<SimpleData name="Descripción">Heriberto Castillo - Hidalgo</SimpleData>
+				<SimpleData name="descriptio">Heriberto Castillo - Hidalgo</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.76087999999999,17.10114,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-03</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-03<br>Ida: <br>Descripción: Camino A San Jacinto - Amapolas<br>descriptio: Camino A San Jacinto - Amapolas<br>Estructura Disponible: Aprobada<br>Ida: I-03<br>Ida: <br>Descripción: Camino A San Jacinto - Amapolas<br>descriptio: Camino A San Jacinto - Amapolas<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-03
+Ida: 
+Descripción: Camino A San Jacinto - Amapolas
+descriptio: Camino A San Jacinto - Amapolas
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-03</SimpleData>
+				<SimpleData name="Descripción">Camino A San Jacinto - Amapolas</SimpleData>
+				<SimpleData name="descriptio">Camino A San Jacinto - Amapolas</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75837999999999,17.10161,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-04</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-04<br>Ida: <br>Descripción: Camino A San Jacinto - alamos<br>descriptio: Camino A San Jacinto - alamos<br>Estructura Disponible: Aprobada<br>Ida: I-04<br>Ida: <br>Descripción: Camino A San Jacinto - alamos<br>descriptio: Camino A San Jacinto - alamos<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-04
+Ida: 
+Descripción: Camino A San Jacinto - alamos
+descriptio: Camino A San Jacinto - alamos
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-04</SimpleData>
+				<SimpleData name="Descripción">Camino A San Jacinto - alamos</SimpleData>
+				<SimpleData name="descriptio">Camino A San Jacinto - alamos</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75440510000001,17.1027535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-05</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-05<br>Ida: <br>Descripción: Camino A San Jacinto - Cristobal Colon<br>descriptio: Camino A San Jacinto - Cristobal Colon<br>Estructura Disponible: Aprobada<br>Ida: I-05<br>Ida: <br>Descripción: Camino A San Jacinto - Cristobal Colon<br>descriptio: Camino A San Jacinto - Cristobal Colon<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-05
+Ida: 
+Descripción: Camino A San Jacinto - Cristobal Colon
+descriptio: Camino A San Jacinto - Cristobal Colon
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-05</SimpleData>
+				<SimpleData name="Descripción">Camino A San Jacinto - Cristobal Colon</SimpleData>
+				<SimpleData name="descriptio">Camino A San Jacinto - Cristobal Colon</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75288999999999,17.10331,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-06</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-06<br>Ida: <br>Descripción: Carretera 190 - Reforma Col. Del Maestro<br>descriptio: Carretera 190 - Reforma Col. Del Maestro<br>Estructura Disponible: Aprobada<br>Ida: I-06<br>Ida: <br>Descripción: Carretera 190 - Reforma Col. Del Maestro<br>descriptio: Carretera 190 - Reforma Col. Del Maestro<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-06
+Ida: 
+Descripción: Carretera 190 - Reforma Col. Del Maestro
+descriptio: Carretera 190 - Reforma Col. Del Maestro
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-06</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Reforma Col. Del Maestro</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Reforma Col. Del Maestro</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75192999999999,17.10146,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-07</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-07<br>Ida: <br>Descripción: Carretera 190 - Buganvilias<br>descriptio: Carretera 190 - Buganvilias<br>Estructura Disponible: Aprobada<br>Ida: I-07<br>Ida: <br>Descripción: Carretera 190 - Buganvilias<br>descriptio: Carretera 190 - Buganvilias<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-07
+Ida: 
+Descripción: Carretera 190 - Buganvilias
+descriptio: Carretera 190 - Buganvilias
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-07</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Buganvilias</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Buganvilias</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75097,17.09928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-08</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-08<br>Ida: <br>Descripción: Carretera 190 - Aurrera<br>descriptio: Carretera 190 - Aurrera<br>Estructura Disponible: Aprobada<br>Ida: I-08<br>Ida: <br>Descripción: Carretera 190 - Aurrera<br>descriptio: Carretera 190 - Aurrera<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-08
+Ida: 
+Descripción: Carretera 190 - Aurrera
+descriptio: Carretera 190 - Aurrera
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-08</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Aurrera</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Aurrera</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75028,17.0976,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-09</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-09<br>Ida: <br>Descripción: Carretera 190 - Mercado Zonal<br>descriptio: Carretera 190 - Mercado Zonal<br>Estructura Disponible: Aprobada<br>Ida: I-09<br>Ida: <br>Descripción: Carretera 190 - Mercado Zonal<br>descriptio: Carretera 190 - Mercado Zonal<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-09
+Ida: 
+Descripción: Carretera 190 - Mercado Zonal
+descriptio: Carretera 190 - Mercado Zonal
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-09</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Mercado Zonal</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Mercado Zonal</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74857,17.09374,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-010</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-010<br>Ida: <br>Descripción: Carretera 190 - Calle Dos<br>descriptio: Carretera 190 - Calle Dos<br>Estructura Disponible: Aprobada<br>Ida: I-010<br>Ida: <br>Descripción: Carretera 190 - Calle Dos<br>descriptio: Carretera 190 - Calle Dos<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-010
+Ida: 
+Descripción: Carretera 190 - Calle Dos
+descriptio: Carretera 190 - Calle Dos
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-010</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Calle Dos</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Calle Dos</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74736,17.09095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-011</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-011<br>Ida: <br>Descripción: Carretera 190 - Calle De La Pepsi<br>descriptio: Carretera 190 - Calle De La Pepsi<br>Estructura Disponible: Aprobada<br>Ida: I-011<br>Ida: <br>Descripción: Carretera 190 - Calle De La Pepsi<br>descriptio: Carretera 190 - Calle De La Pepsi<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-011
+Ida: 
+Descripción: Carretera 190 - Calle De La Pepsi
+descriptio: Carretera 190 - Calle De La Pepsi
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-011</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Calle De La Pepsi</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Calle De La Pepsi</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74652999999999,17.08896,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-012</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-012<br>Ida: <br>Descripción: Carretera 190 - oficinal del PRI<br>descriptio: Carretera 190 - oficinal del PRI<br>Estructura Disponible: Aprobada<br>Ida: I-012<br>Ida: <br>Descripción: Carretera 190 - oficinal del PRI<br>descriptio: Carretera 190 - oficinal del PRI<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-012
+Ida: 
+Descripción: Carretera 190 - oficinal del PRI
+descriptio: Carretera 190 - oficinal del PRI
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-012</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - oficinal del PRI</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - oficinal del PRI</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7439,17.08291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-013</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-013<br>Ida: <br>Descripción: Parada<br>descriptio: Parada<br>Estructura Disponible: Aprobada<br>Ida: I-013<br>Ida: <br>Descripción: Parada<br>descriptio: Parada<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-013
+Ida: 
+Descripción: Parada
+descriptio: Parada
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-013</SimpleData>
+				<SimpleData name="Descripción">Parada</SimpleData>
+				<SimpleData name="descriptio">Parada</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.743657,17.0811483,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-014</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-014<br>Ida: <br>Descripción: Calz. Madero - Tecnologico<br>descriptio: Calz. Madero - Tecnologico<br>Estructura Disponible: Aprobada<br>Ida: I-014<br>Ida: <br>Descripción: Calz. Madero - Tecnologico<br>descriptio: Calz. Madero - Tecnologico<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-014
+Ida: 
+Descripción: Calz. Madero - Tecnologico
+descriptio: Calz. Madero - Tecnologico
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-014</SimpleData>
+				<SimpleData name="Descripción">Calz. Madero - Tecnologico</SimpleData>
+				<SimpleData name="descriptio">Calz. Madero - Tecnologico</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74331999999998,17.07956,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-015</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-015<br>Ida: <br>Descripción: Calz. Madero - Chedraui<br>descriptio: Calz. Madero - Chedraui<br>Estructura Disponible: Aprobada<br>Ida: I-015<br>Ida: <br>Descripción: Calz. Madero - Chedraui<br>descriptio: Calz. Madero - Chedraui<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-015
+Ida: 
+Descripción: Calz. Madero - Chedraui
+descriptio: Calz. Madero - Chedraui
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-015</SimpleData>
+				<SimpleData name="Descripción">Calz. Madero - Chedraui</SimpleData>
+				<SimpleData name="descriptio">Calz. Madero - Chedraui</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74279,17.0787,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-016</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-016<br>Ida: <br>Descripción: Canada Madero - Hotel Los Olivos<br>descriptio: Canada Madero - Hotel Los Olivos<br>Estructura Disponible: Aprobada<br>Ida: I-016<br>Ida: <br>Descripción: Canada Madero - Hotel Los Olivos<br>descriptio: Canada Madero - Hotel Los Olivos<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-016
+Ida: 
+Descripción: Canada Madero - Hotel Los Olivos
+descriptio: Canada Madero - Hotel Los Olivos
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-016</SimpleData>
+				<SimpleData name="Descripción">Canada Madero - Hotel Los Olivos</SimpleData>
+				<SimpleData name="descriptio">Canada Madero - Hotel Los Olivos</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74182,17.07701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-017</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-017<br>Ida: <br>Descripción: Calz. Madero - Enrique Herro<br>descriptio: Calz. Madero - Enrique Herro<br>Estructura Disponible: Aprobada<br>Ida: I-017<br>Ida: <br>Descripción: Calz. Madero - Enrique Herro<br>descriptio: Calz. Madero - Enrique Herro<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-017
+Ida: 
+Descripción: Calz. Madero - Enrique Herro
+descriptio: Calz. Madero - Enrique Herro
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-017</SimpleData>
+				<SimpleData name="Descripción">Calz. Madero - Enrique Herro</SimpleData>
+				<SimpleData name="descriptio">Calz. Madero - Enrique Herro</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74129000000001,17.07594,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-018</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-018<br>Ida: <br>Descripción: Calz. Madero - Juan Escutia<br>descriptio: Calz. Madero - Juan Escutia<br>Estructura Disponible: Aprobada<br>Ida: I-018<br>Ida: <br>Descripción: Calz. Madero - Juan Escutia<br>descriptio: Calz. Madero - Juan Escutia<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-018
+Ida: 
+Descripción: Calz. Madero - Juan Escutia
+descriptio: Calz. Madero - Juan Escutia
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-018</SimpleData>
+				<SimpleData name="Descripción">Calz. Madero - Juan Escutia</SimpleData>
+				<SimpleData name="descriptio">Calz. Madero - Juan Escutia</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7408001,17.0753377,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-019</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-019<br>Ida: <br>Descripción: Canada Madero<br>descriptio: Canada Madero<br>Estructura Disponible: Aprobada<br>Ida: I-019<br>Ida: <br>Descripción: Canada Madero<br>descriptio: Canada Madero<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-019
+Ida: 
+Descripción: Canada Madero
+descriptio: Canada Madero
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-019</SimpleData>
+				<SimpleData name="Descripción">Canada Madero</SimpleData>
+				<SimpleData name="descriptio">Canada Madero</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74036220000001,17.0746979,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-020</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-020<br>Ida: <br>Descripción: Canada Madero<br>descriptio: Canada Madero<br>Estructura Disponible: Aprobada<br>Ida: I-020<br>Ida: <br>Descripción: Canada Madero<br>descriptio: Canada Madero<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-020
+Ida: 
+Descripción: Canada Madero
+descriptio: Canada Madero
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-020</SimpleData>
+				<SimpleData name="Descripción">Canada Madero</SimpleData>
+				<SimpleData name="descriptio">Canada Madero</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73928720000001,17.0732654,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-021</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-021<br>Ida: <br>Descripción: Canada Madero - Privada Vicente Suarez<br>descriptio: Canada Madero - Privada Vicente Suarez<br>Estructura Disponible: Aprobada<br>Ida: I-021<br>Ida: <br>Descripción: Canada Madero - Privada Vicente Suarez<br>descriptio: Canada Madero - Privada Vicente Suarez<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-021
+Ida: 
+Descripción: Canada Madero - Privada Vicente Suarez
+descriptio: Canada Madero - Privada Vicente Suarez
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-021</SimpleData>
+				<SimpleData name="Descripción">Canada Madero - Privada Vicente Suarez</SimpleData>
+				<SimpleData name="descriptio">Canada Madero - Privada Vicente Suarez</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73852699999999,17.072193,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-022</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-022<br>Ida: <br>Descripción: Calz. Madero - Museo Del Ferrocarril<br>descriptio: Calz. Madero - Museo Del Ferrocarril<br>Estructura Disponible: Aprobada<br>Ida: I-022<br>Ida: <br>Descripción: Calz. Madero - Museo Del Ferrocarril<br>descriptio: Calz. Madero - Museo Del Ferrocarril<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-022
+Ida: 
+Descripción: Calz. Madero - Museo Del Ferrocarril
+descriptio: Calz. Madero - Museo Del Ferrocarril
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-022</SimpleData>
+				<SimpleData name="Descripción">Calz. Madero - Museo Del Ferrocarril</SimpleData>
+				<SimpleData name="descriptio">Calz. Madero - Museo Del Ferrocarril</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73669399999999,17.068365,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-023</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-023<br>Ida: <br>Descripción: Parada Parque Madero<br>descriptio: Parada Parque Madero<br>Estructura Disponible: Aprobada<br>Ida: I-023<br>Ida: <br>Descripción: Parada Parque Madero<br>descriptio: Parada Parque Madero<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-023
+Ida: 
+Descripción: Parada Parque Madero
+descriptio: Parada Parque Madero
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-023</SimpleData>
+				<SimpleData name="Descripción">Parada Parque Madero</SimpleData>
+				<SimpleData name="descriptio">Parada Parque Madero</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.736053,17.066549,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-024</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-024<br>Ida: <br>Descripción: Calz. Madero - Ferrocarril<br>descriptio: Calz. Madero - Ferrocarril<br>Estructura Disponible: Aprobada<br>Ida: I-024<br>Ida: <br>Descripción: Calz. Madero - Ferrocarril<br>descriptio: Calz. Madero - Ferrocarril<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-024
+Ida: 
+Descripción: Calz. Madero - Ferrocarril
+descriptio: Calz. Madero - Ferrocarril
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-024</SimpleData>
+				<SimpleData name="Descripción">Calz. Madero - Ferrocarril</SimpleData>
+				<SimpleData name="descriptio">Calz. Madero - Ferrocarril</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73533999999999,17.06607,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-025</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-025<br>Ida: <br>Descripción: Calz. Madero - Guadalupe Victoria<br>descriptio: Calz. Madero - Guadalupe Victoria<br>Estructura Disponible: Aprobada<br>Ida: I-025<br>Ida: <br>Descripción: Calz. Madero - Guadalupe Victoria<br>descriptio: Calz. Madero - Guadalupe Victoria<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-025
+Ida: 
+Descripción: Calz. Madero - Guadalupe Victoria
+descriptio: Calz. Madero - Guadalupe Victoria
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-025</SimpleData>
+				<SimpleData name="Descripción">Calz. Madero - Guadalupe Victoria</SimpleData>
+				<SimpleData name="descriptio">Calz. Madero - Guadalupe Victoria</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.734131,17.064566,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-026</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-026<br>Ida: <br>Descripción: Independencia - Victoria<br>descriptio: Independencia - Victoria<br>Estructura Disponible: Aprobada<br>Ida: I-026<br>Ida: <br>Descripción: Independencia - Victoria<br>descriptio: Independencia - Victoria<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-026
+Ida: 
+Descripción: Independencia - Victoria
+descriptio: Independencia - Victoria
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-026</SimpleData>
+				<SimpleData name="Descripción">Independencia - Victoria</SimpleData>
+				<SimpleData name="descriptio">Independencia - Victoria</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7318054,17.0632937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-027</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-027<br>Ida: <br>Descripción: Independencia - Galeana<br>descriptio: Independencia - Galeana<br>Estructura Disponible: Aprobada<br>Ida: I-027<br>Ida: <br>Descripción: Independencia - Galeana<br>descriptio: Independencia - Galeana<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-027
+Ida: 
+Descripción: Independencia - Galeana
+descriptio: Independencia - Galeana
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-027</SimpleData>
+				<SimpleData name="Descripción">Independencia - Galeana</SimpleData>
+				<SimpleData name="descriptio">Independencia - Galeana</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7304829,17.063054,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-028</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-028<br>Ida: <br>Descripción:  Independencia - Diaz Ordaz <br>descriptio:  Independencia - Diaz Ordaz <br>Estructura Disponible: Aprobada<br>Ida: I-028<br>Ida: <br>Descripción:  Independencia - Diaz Ordaz <br>descriptio:  Independencia - Diaz Ordaz <br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-028
+Ida: 
+Descripción:  Independencia - Diaz Ordaz 
+descriptio:  Independencia - Diaz Ordaz 
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-028</SimpleData>
+				<SimpleData name="Descripción">Independencia - Diaz Ordaz</SimpleData>
+				<SimpleData name="descriptio">Independencia - Diaz Ordaz</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72855,17.06268,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-029</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-029<br>Ida: <br>Descripción: Crespo - Morelos<br>descriptio: Crespo - Morelos<br>Estructura Disponible: Aprobada<br>Ida: I-029<br>Ida: <br>Descripción: Crespo - Morelos<br>descriptio: Crespo - Morelos<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-029
+Ida: 
+Descripción: Crespo - Morelos
+descriptio: Crespo - Morelos
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-029</SimpleData>
+				<SimpleData name="Descripción">Crespo - Morelos</SimpleData>
+				<SimpleData name="descriptio">Crespo - Morelos</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72821999999999,17.0635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-030</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-030<br>Ida: <br>Descripción: Crespo - Allende<br>descriptio: Crespo - Allende<br>Estructura Disponible: Aprobada<br>Ida: I-030<br>Ida: <br>Descripción: Crespo - Allende<br>descriptio: Crespo - Allende<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-030
+Ida: 
+Descripción: Crespo - Allende
+descriptio: Crespo - Allende
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-030</SimpleData>
+				<SimpleData name="Descripción">Crespo - Allende</SimpleData>
+				<SimpleData name="descriptio">Crespo - Allende</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72789,17.06522,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-031</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-031<br>Ida: <br>Descripción: Crespo - Callejon Boca del Monte<br>descriptio: Crespo - Callejon Boca del Monte<br>Estructura Disponible: Aprobada<br>Ida: I-031<br>Ida: <br>Descripción: Crespo - Callejon Boca del Monte<br>descriptio: Crespo - Callejon Boca del Monte<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-031
+Ida: 
+Descripción: Crespo - Callejon Boca del Monte
+descriptio: Crespo - Callejon Boca del Monte
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-031</SimpleData>
+				<SimpleData name="Descripción">Crespo - Callejon Boca del Monte</SimpleData>
+				<SimpleData name="descriptio">Crespo - Callejon Boca del Monte</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7276,17.0667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-032</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-032<br>Ida: <br>Descripción: Crespo - Faustino Olivera<br>descriptio: Crespo - Faustino Olivera<br>Estructura Disponible: Aprobada<br>Ida: I-032<br>Ida: <br>Descripción: Crespo - Faustino Olivera<br>descriptio: Crespo - Faustino Olivera<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-032
+Ida: 
+Descripción: Crespo - Faustino Olivera
+descriptio: Crespo - Faustino Olivera
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-032</SimpleData>
+				<SimpleData name="Descripción">Crespo - Faustino Olivera</SimpleData>
+				<SimpleData name="descriptio">Crespo - Faustino Olivera</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72752999999999,17.07014,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-033</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-033<br>Ida: <br>Descripción: Crespo - Marcos Perez<br>descriptio: Crespo - Marcos Perez<br>Estructura Disponible: Aprobada<br>Ida: I-033<br>Ida: <br>Descripción: Crespo - Marcos Perez<br>descriptio: Crespo - Marcos Perez<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-033
+Ida: 
+Descripción: Crespo - Marcos Perez
+descriptio: Crespo - Marcos Perez
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-033</SimpleData>
+				<SimpleData name="Descripción">Crespo - Marcos Perez</SimpleData>
+				<SimpleData name="descriptio">Crespo - Marcos Perez</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.727328,17.071208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-034</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-034<br>Ida: <br>Descripción: Crespo - Centro Recreativo<br>descriptio: Crespo - Centro Recreativo<br>Estructura Disponible: Aprobada<br>Ida: I-034<br>Ida: <br>Descripción: Crespo - Centro Recreativo<br>descriptio: Crespo - Centro Recreativo<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-034
+Ida: 
+Descripción: Crespo - Centro Recreativo
+descriptio: Crespo - Centro Recreativo
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-034</SimpleData>
+				<SimpleData name="Descripción">Crespo - Centro Recreativo</SimpleData>
+				<SimpleData name="descriptio">Crespo - Centro Recreativo</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.727,17.07289,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-035</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-035<br>Ida: <br>Descripción: Carretera 190 - Porfirio Diaz<br>descriptio: Carretera 190 - Porfirio Diaz<br>Estructura Disponible: Aprobada<br>Ida: I-035<br>Ida: <br>Descripción: Carretera 190 - Porfirio Diaz<br>descriptio: Carretera 190 - Porfirio Diaz<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-035
+Ida: 
+Descripción: Carretera 190 - Porfirio Diaz
+descriptio: Carretera 190 - Porfirio Diaz
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-035</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Porfirio Diaz</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Porfirio Diaz</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72457,17.07244,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-036</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-036<br>Ida: <br>Descripción: Calz. De Chapultepec - Diaz Quintas<br>descriptio: Calz. De Chapultepec - Diaz Quintas<br>Estructura Disponible: Aprobada<br>Ida: I-036<br>Ida: <br>Descripción: Calz. De Chapultepec - Diaz Quintas<br>descriptio: Calz. De Chapultepec - Diaz Quintas<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-036
+Ida: 
+Descripción: Calz. De Chapultepec - Diaz Quintas
+descriptio: Calz. De Chapultepec - Diaz Quintas
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-036</SimpleData>
+				<SimpleData name="Descripción">Calz. De Chapultepec - Diaz Quintas</SimpleData>
+				<SimpleData name="descriptio">Calz. De Chapultepec - Diaz Quintas</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7219133,17.0719987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-037</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-037<br>Ida: <br>Descripción: Carretera 190 - Priv De Reforma<br>descriptio: Carretera 190 - Priv De Reforma<br>Estructura Disponible: Aprobada<br>Ida: I-037<br>Ida: <br>Descripción: Carretera 190 - Priv De Reforma<br>descriptio: Carretera 190 - Priv De Reforma<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-037
+Ida: 
+Descripción: Carretera 190 - Priv De Reforma
+descriptio: Carretera 190 - Priv De Reforma
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-037</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Priv De Reforma</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Priv De Reforma</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72127999999999,17.07186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-038</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-038<br>Ida: <br>Descripción: Carretera 190 - 5 De Mayo<br>descriptio: Carretera 190 - 5 De Mayo<br>Estructura Disponible: Aprobada<br>Ida: I-038<br>Ida: <br>Descripción: Carretera 190 - 5 De Mayo<br>descriptio: Carretera 190 - 5 De Mayo<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-038
+Ida: 
+Descripción: Carretera 190 - 5 De Mayo
+descriptio: Carretera 190 - 5 De Mayo
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-038</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - 5 De Mayo</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - 5 De Mayo</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71699,17.07083,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-039</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-039<br>Ida: <br>Descripción: Carretera 190 - Comex<br>descriptio: Carretera 190 - Comex<br>Estructura Disponible: Aprobada<br>Ida: I-039<br>Ida: <br>Descripción: Carretera 190 - Comex<br>descriptio: Carretera 190 - Comex<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-039
+Ida: 
+Descripción: Carretera 190 - Comex
+descriptio: Carretera 190 - Comex
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-039</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Comex</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Comex</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71636000000001,17.07071,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-040</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-040<br>Ida: <br>Descripción: Carretera 190 - Derechos Humanos<br>descriptio: Carretera 190 - Derechos Humanos<br>Estructura Disponible: Aprobada<br>Ida: I-040<br>Ida: <br>Descripción: Carretera 190 - Derechos Humanos<br>descriptio: Carretera 190 - Derechos Humanos<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-040
+Ida: 
+Descripción: Carretera 190 - Derechos Humanos
+descriptio: Carretera 190 - Derechos Humanos
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-040</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Derechos Humanos</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Derechos Humanos</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71169999999998,17.07012,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-041</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-041<br>Ida: <br>Descripción: Carretera 190 - Argentina<br>descriptio: Carretera 190 - Argentina<br>Estructura Disponible: Aprobada<br>Ida: I-041<br>Ida: <br>Descripción: Carretera 190 - Argentina<br>descriptio: Carretera 190 - Argentina<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-041
+Ida: 
+Descripción: Carretera 190 - Argentina
+descriptio: Carretera 190 - Argentina
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-041</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Argentina</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Argentina</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.709541,17.069908,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-042</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-042<br>Ida: <br>Descripción: Carretera 190 - Esquina Argentina<br>descriptio: Carretera 190 - Esquina Argentina<br>Estructura Disponible: Aprobada<br>Ida: I-042<br>Ida: <br>Descripción: Carretera 190 - Esquina Argentina<br>descriptio: Carretera 190 - Esquina Argentina<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-042
+Ida: 
+Descripción: Carretera 190 - Esquina Argentina
+descriptio: Carretera 190 - Esquina Argentina
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-042</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Esquina Argentina</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Esquina Argentina</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.707915,17.069777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-043</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-043<br>Ida: <br>Descripción: Carretera 190 - Las Canteras<br>descriptio: Carretera 190 - Las Canteras<br>Estructura Disponible: Aprobada<br>Ida: I-043<br>Ida: <br>Descripción: Carretera 190 - Las Canteras<br>descriptio: Carretera 190 - Las Canteras<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-043
+Ida: 
+Descripción: Carretera 190 - Las Canteras
+descriptio: Carretera 190 - Las Canteras
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-043</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Las Canteras</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Las Canteras</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7050436,17.0695366,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-044</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-044<br>Ida: <br>Descripción: Carretera 190 - 16 De Septiembre<br>descriptio: Carretera 190 - 16 De Septiembre<br>Estructura Disponible: Aprobada<br>Ida: I-044<br>Ida: <br>Descripción: Carretera 190 - 16 De Septiembre<br>descriptio: Carretera 190 - 16 De Septiembre<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-044
+Ida: 
+Descripción: Carretera 190 - 16 De Septiembre
+descriptio: Carretera 190 - 16 De Septiembre
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-044</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - 16 De Septiembre</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - 16 De Septiembre</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7022829,17.0692857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-045</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-045<br>Ida: <br>Descripción: Carretera 190 - Zona Militar<br>descriptio: Carretera 190 - Zona Militar<br>Estructura Disponible: Aprobada<br>Ida: I-045<br>Ida: <br>Descripción: Carretera 190 - Zona Militar<br>descriptio: Carretera 190 - Zona Militar<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-045
+Ida: 
+Descripción: Carretera 190 - Zona Militar
+descriptio: Carretera 190 - Zona Militar
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-045</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Zona Militar</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Zona Militar</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7001659,17.069106,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-046</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-046<br>Ida: <br>Descripción: Carretera 190 - Zona Militar<br>descriptio: Carretera 190 - Zona Militar<br>Estructura Disponible: Aprobada<br>Ida: I-046<br>Ida: <br>Descripción: Carretera 190 - Zona Militar<br>descriptio: Carretera 190 - Zona Militar<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-046
+Ida: 
+Descripción: Carretera 190 - Zona Militar
+descriptio: Carretera 190 - Zona Militar
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-046</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Zona Militar</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Zona Militar</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.6977583,17.068922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-047</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-047<br>Ida: <br>Descripción: Carretera 190 - Calicanto<br>descriptio: Carretera 190 - Calicanto<br>Estructura Disponible: Aprobada<br>Ida: I-047<br>Ida: <br>Descripción: Carretera 190 - Calicanto<br>descriptio: Carretera 190 - Calicanto<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-047
+Ida: 
+Descripción: Carretera 190 - Calicanto
+descriptio: Carretera 190 - Calicanto
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-047</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Calicanto</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Calicanto</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.69604699999999,17.0687665,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-048</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-048<br>Ida: <br>Descripción: Carretera 190 - Macroplaza<br>descriptio: Carretera 190 - Macroplaza<br>Estructura Disponible: Aprobada<br>Ida: I-048<br>Ida: <br>Descripción: Carretera 190 - Macroplaza<br>descriptio: Carretera 190 - Macroplaza<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-048
+Ida: 
+Descripción: Carretera 190 - Macroplaza
+descriptio: Carretera 190 - Macroplaza
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-048</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Macroplaza</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Macroplaza</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.69467999999999,17.06862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-049</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-049<br>Ida: <br>Descripción: Carretera 190 - Siracusa<br>descriptio: Carretera 190 - Siracusa<br>Estructura Disponible: Aprobada<br>Ida: I-049<br>Ida: <br>Descripción: Carretera 190 - Siracusa<br>descriptio: Carretera 190 - Siracusa<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-049
+Ida: 
+Descripción: Carretera 190 - Siracusa
+descriptio: Carretera 190 - Siracusa
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Ida">I-049</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Siracusa</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Siracusa</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.69094,17.06834,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-050</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Ida: I-050<br>Ida: <br>Descripción: Carretera 190 - Camino a San Agustin<br>descriptio: Carretera 190 - Camino a San Agustin<br>Estructura Disponible: Aprobada<br>Ida: I-050<br>Ida: <br>Descripción: Carretera 190 - Camino a San Agustin<br>descriptio: Carretera 190 - Camino a San Agustin<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Ida: I-050
+Regreso: 
+Descripción: Carretera 190 - Camino a San Agustin
+descriptio: Carretera 190 - Camino a San Agustin
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-050</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Camino a San Agustin</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Camino a San Agustin</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.69072,17.06864,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-051</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-051<br>Regreso: <br>Descripción: Macro Plaza<br>descriptio: Macro Plaza<br>Estructura Disponible: Aprobada<br>Regreso: I-051<br>Regreso: <br>Descripción: Macro Plaza<br>descriptio: Macro Plaza<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-051
+Regreso: 
+Descripción: Macro Plaza
+descriptio: Macro Plaza
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-051</SimpleData>
+				<SimpleData name="Descripción">Macro Plaza</SimpleData>
+				<SimpleData name="descriptio">Macro Plaza</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.69423000000002,17.06891,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-052</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-052<br>Regreso: <br>Descripción: Parada del IEEPO<br>descriptio: Parada del IEEPO<br>Estructura Disponible: Aprobada<br>Regreso: I-052<br>Regreso: <br>Descripción: Parada del IEEPO<br>descriptio: Parada del IEEPO<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-052
+Regreso: 
+Descripción: Parada del IEEPO
+descriptio: Parada del IEEPO
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-052</SimpleData>
+				<SimpleData name="Descripción">Parada del IEEPO</SimpleData>
+				<SimpleData name="descriptio">Parada del IEEPO</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.69759000000001,17.06921,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-053</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-053<br>Regreso: <br>Descripción: Carretera 190 - Chapultepec<br>descriptio: Carretera 190 - Chapultepec<br>Estructura Disponible: Aprobada<br>Regreso: I-053<br>Regreso: <br>Descripción: Carretera 190 - Chapultepec<br>descriptio: Carretera 190 - Chapultepec<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-053
+Regreso: 
+Descripción: Carretera 190 - Chapultepec
+descriptio: Carretera 190 - Chapultepec
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-053</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Chapultepec</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Chapultepec</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.69992000000001,17.06943,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-054</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-054<br>Regreso: <br>Descripción: Internacional - Jacarandas<br>descriptio: Internacional - Jacarandas<br>Estructura Disponible: Aprobada<br>Regreso: I-054<br>Regreso: <br>Descripción: Internacional - Jacarandas<br>descriptio: Internacional - Jacarandas<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-054
+Regreso: 
+Descripción: Internacional - Jacarandas
+descriptio: Internacional - Jacarandas
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-054</SimpleData>
+				<SimpleData name="Descripción">Internacional - Jacarandas</SimpleData>
+				<SimpleData name="descriptio">Internacional - Jacarandas</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.702,17.0696,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-055</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-055<br>Regreso: <br>Descripción: Carretera 190 - Orquideas<br>descriptio: Carretera 190 - Orquideas<br>Estructura Disponible: Aprobada<br>Regreso: I-055<br>Regreso: <br>Descripción: Carretera 190 - Orquideas<br>descriptio: Carretera 190 - Orquideas<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-055
+Regreso: 
+Descripción: Carretera 190 - Orquideas
+descriptio: Carretera 190 - Orquideas
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-055</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Orquideas</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Orquideas</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7032974,17.0697097,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-056</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-056<br>Regreso: <br>Descripción: Carretera 190 - Mercado Las Flores<br>descriptio: Carretera 190 - Mercado Las Flores<br>Estructura Disponible: Aprobada<br>Regreso: I-056<br>Regreso: <br>Descripción: Carretera 190 - Mercado Las Flores<br>descriptio: Carretera 190 - Mercado Las Flores<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-056
+Regreso: 
+Descripción: Carretera 190 - Mercado Las Flores
+descriptio: Carretera 190 - Mercado Las Flores
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-056</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Mercado Las Flores</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Mercado Las Flores</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.70461,17.0698,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-057</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-057<br>Regreso: <br>Descripción: Carretera 190 - Colombia<br>descriptio: Carretera 190 - Colombia<br>Estructura Disponible: Aprobada<br>Regreso: I-057<br>Regreso: <br>Descripción: Carretera 190 - Colombia<br>descriptio: Carretera 190 - Colombia<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-057
+Regreso: 
+Descripción: Carretera 190 - Colombia
+descriptio: Carretera 190 - Colombia
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-057</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Colombia</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Colombia</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.70771000000001,17.07007,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-058</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-058<br>Regreso: <br>Descripción: Carretera 190 - Pera<br>descriptio: Carretera 190 - Pera<br>Estructura Disponible: Aprobada<br>Regreso: I-058<br>Regreso: <br>Descripción: Carretera 190 - Pera<br>descriptio: Carretera 190 - Pera<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-058
+Regreso: 
+Descripción: Carretera 190 - Pera
+descriptio: Carretera 190 - Pera
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-058</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Pera</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Pera</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71008999999998,17.0703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-059</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-059<br>Regreso: <br>Descripción: Carretera 190 - Manuel Ruiz<br>descriptio: Carretera 190 - Manuel Ruiz<br>Estructura Disponible: Aprobada<br>Regreso: I-059<br>Regreso: <br>Descripción: Carretera 190 - Manuel Ruiz<br>descriptio: Carretera 190 - Manuel Ruiz<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-059
+Regreso: 
+Descripción: Carretera 190 - Manuel Ruiz
+descriptio: Carretera 190 - Manuel Ruiz
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-059</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Manuel Ruiz</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Manuel Ruiz</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71127,17.07037,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-060</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-060<br>Regreso: <br>Descripción: Carretera 190 - Emilio Carranza<br>descriptio: Carretera 190 - Emilio Carranza<br>Estructura Disponible: Aprobada<br>Regreso: I-060<br>Regreso: <br>Descripción: Carretera 190 - Emilio Carranza<br>descriptio: Carretera 190 - Emilio Carranza<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-060
+Regreso: 
+Descripción: Carretera 190 - Emilio Carranza
+descriptio: Carretera 190 - Emilio Carranza
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-060</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Emilio Carranza</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Emilio Carranza</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71653999999999,17.07099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-061</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-061<br>Regreso: <br>Descripción: Carretera 190 - IMSS<br>descriptio: Carretera 190 - IMSS<br>Estructura Disponible: Aprobada<br>Regreso: I-061<br>Regreso: <br>Descripción: Carretera 190 - IMSS<br>descriptio: Carretera 190 - IMSS<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-061
+Regreso: 
+Descripción: Carretera 190 - IMSS
+descriptio: Carretera 190 - IMSS
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-061</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - IMSS</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - IMSS</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.721616,17.0721991,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-062</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-062<br>Regreso: <br>Descripción: Carretera 190 - Porfirio Diaz<br>descriptio: Carretera 190 - Porfirio Diaz<br>Estructura Disponible: Aprobada<br>Regreso: I-062<br>Regreso: <br>Descripción: Carretera 190 - Porfirio Diaz<br>descriptio: Carretera 190 - Porfirio Diaz<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-062
+Regreso: 
+Descripción: Carretera 190 - Porfirio Diaz
+descriptio: Carretera 190 - Porfirio Diaz
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-062</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Porfirio Diaz</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Porfirio Diaz</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72423999999999,17.07264,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-063</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-063<br>Regreso: <br>Descripción: Joaquin Amaro - Aldama<br>descriptio: Joaquin Amaro - Aldama<br>Estructura Disponible: Aprobada<br>Regreso: I-063<br>Regreso: <br>Descripción: Joaquin Amaro - Aldama<br>descriptio: Joaquin Amaro - Aldama<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-063
+Regreso: 
+Descripción: Joaquin Amaro - Aldama
+descriptio: Joaquin Amaro - Aldama
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-063</SimpleData>
+				<SimpleData name="Descripción">Joaquin Amaro - Aldama</SimpleData>
+				<SimpleData name="descriptio">Joaquin Amaro - Aldama</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72584000000001,17.07199,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-064</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-064<br>Regreso: <br>Descripción: Joaquin Amaro - Marcos Perez<br>descriptio: Joaquin Amaro - Marcos Perez<br>Estructura Disponible: Aprobada<br>Regreso: I-064<br>Regreso: <br>Descripción: Joaquin Amaro - Marcos Perez<br>descriptio: Joaquin Amaro - Marcos Perez<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-064
+Regreso: 
+Descripción: Joaquin Amaro - Marcos Perez
+descriptio: Joaquin Amaro - Marcos Perez
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-064</SimpleData>
+				<SimpleData name="Descripción">Joaquin Amaro - Marcos Perez</SimpleData>
+				<SimpleData name="descriptio">Joaquin Amaro - Marcos Perez</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72602000000002,17.07101,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-065</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-065<br>Regreso: <br>Descripción: Tinoco Y Palacios - Quetzalcoatl<br>descriptio: Tinoco Y Palacios - Quetzalcoatl<br>Estructura Disponible: Aprobada<br>Regreso: I-065<br>Regreso: <br>Descripción: Tinoco Y Palacios - Quetzalcoatl<br>descriptio: Tinoco Y Palacios - Quetzalcoatl<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-065
+Regreso: 
+Descripción: Tinoco Y Palacios - Quetzalcoatl
+descriptio: Tinoco Y Palacios - Quetzalcoatl
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-065</SimpleData>
+				<SimpleData name="Descripción">Tinoco Y Palacios - Quetzalcoatl</SimpleData>
+				<SimpleData name="descriptio">Tinoco Y Palacios - Quetzalcoatl</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72649,17.06818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-066</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-066<br>Regreso: <br>Descripción: Tinoco - Carranza<br>descriptio: Tinoco - Carranza<br>Estructura Disponible: Aprobada<br>Regreso: I-066<br>Regreso: <br>Descripción: Tinoco - Carranza<br>descriptio: Tinoco - Carranza<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-066
+Regreso: 
+Descripción: Tinoco - Carranza
+descriptio: Tinoco - Carranza
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-066</SimpleData>
+				<SimpleData name="Descripción">Tinoco - Carranza</SimpleData>
+				<SimpleData name="descriptio">Tinoco - Carranza</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72656000000001,17.06707,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-067</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-067<br>Regreso: <br>Descripción: Tinoco - Allende<br>descriptio: Tinoco - Allende<br>Estructura Disponible: Aprobada<br>Regreso: I-067<br>Regreso: <br>Descripción: Tinoco - Allende<br>descriptio: Tinoco - Allende<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-067
+Regreso: 
+Descripción: Tinoco - Allende
+descriptio: Tinoco - Allende
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-067</SimpleData>
+				<SimpleData name="Descripción">Tinoco - Allende</SimpleData>
+				<SimpleData name="descriptio">Tinoco - Allende</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72668999999999,17.06644,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-068</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-068<br>Regreso: <br>Descripción: Tinoco - Bravo<br>descriptio: Tinoco - Bravo<br>Estructura Disponible: Aprobada<br>Regreso: I-068<br>Regreso: <br>Descripción: Tinoco - Bravo<br>descriptio: Tinoco - Bravo<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-068
+Regreso: 
+Descripción: Tinoco - Bravo
+descriptio: Tinoco - Bravo
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-068</SimpleData>
+				<SimpleData name="Descripción">Tinoco - Bravo</SimpleData>
+				<SimpleData name="descriptio">Tinoco - Bravo</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7269,17.06538,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-069</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-069<br>Regreso: <br>Descripción: Tinoco Y Palacios - Matamoros<br>descriptio: Tinoco Y Palacios - Matamoros<br>Estructura Disponible: Aprobada<br>Regreso: I-069<br>Regreso: <br>Descripción: Tinoco Y Palacios - Matamoros<br>descriptio: Tinoco Y Palacios - Matamoros<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-069
+Regreso: 
+Descripción: Tinoco Y Palacios - Matamoros
+descriptio: Tinoco Y Palacios - Matamoros
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-069</SimpleData>
+				<SimpleData name="Descripción">Tinoco Y Palacios - Matamoros</SimpleData>
+				<SimpleData name="descriptio">Tinoco Y Palacios - Matamoros</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72708000000002,17.06451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-070</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-070<br>Regreso: <br>Descripción: Tinoco Y Palacios - Independencia<br>descriptio: Tinoco Y Palacios - Independencia<br>Estructura Disponible: Aprobada<br>Regreso: I-070<br>Regreso: <br>Descripción: Tinoco Y Palacios - Independencia<br>descriptio: Tinoco Y Palacios - Independencia<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-070
+Regreso: 
+Descripción: Tinoco Y Palacios - Independencia
+descriptio: Tinoco Y Palacios - Independencia
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-070</SimpleData>
+				<SimpleData name="Descripción">Tinoco Y Palacios - Independencia</SimpleData>
+				<SimpleData name="descriptio">Tinoco Y Palacios - Independencia</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72749,17.06263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-071</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-071<br>Regreso: <br>Descripción: Jp. Garcia - Truja<br>descriptio: Jp. Garcia - Truja<br>Estructura Disponible: Aprobada<br>Regreso: I-071<br>Regreso: <br>Descripción: Jp. Garcia - Truja<br>descriptio: Jp. Garcia - Truja<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-071
+Regreso: 
+Descripción: Jp. Garcia - Truja
+descriptio: Jp. Garcia - Truja
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-071</SimpleData>
+				<SimpleData name="Descripción">Jp. Garcia - Truja</SimpleData>
+				<SimpleData name="descriptio">Jp. Garcia - Truja</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72788,17.06076,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-072</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-072<br>Regreso: <br>Descripción: Jp Garcia - Las Casas<br>descriptio: Jp Garcia - Las Casas<br>Estructura Disponible: Aprobada<br>Regreso: I-072<br>Regreso: <br>Descripción: Jp Garcia - Las Casas<br>descriptio: Jp Garcia - Las Casas<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-072
+Regreso: 
+Descripción: Jp Garcia - Las Casas
+descriptio: Jp Garcia - Las Casas
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-072</SimpleData>
+				<SimpleData name="Descripción">Jp Garcia - Las Casas</SimpleData>
+				<SimpleData name="descriptio">Jp Garcia - Las Casas</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72806,17.05987,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-073</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-073<br>Regreso: <br>Descripción: Las Casas - Mier Y Teran<br>descriptio: Las Casas - Mier Y Teran<br>Estructura Disponible: Aprobada<br>Regreso: I-073<br>Regreso: <br>Descripción: Las Casas - Mier Y Teran<br>descriptio: Las Casas - Mier Y Teran<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-073
+Regreso: 
+Descripción: Las Casas - Mier Y Teran
+descriptio: Las Casas - Mier Y Teran
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-073</SimpleData>
+				<SimpleData name="Descripción">Las Casas - Mier Y Teran</SimpleData>
+				<SimpleData name="descriptio">Las Casas - Mier Y Teran</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72985,17.06013,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-074</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-074<br>Regreso: <br>Descripción: Las Casas - Victoria<br>descriptio: Las Casas - Victoria<br>Estructura Disponible: Aprobada<br>Regreso: I-074<br>Regreso: <br>Descripción: Las Casas - Victoria<br>descriptio: Las Casas - Victoria<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-074
+Regreso: 
+Descripción: Las Casas - Victoria
+descriptio: Las Casas - Victoria
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-074</SimpleData>
+				<SimpleData name="Descripción">Las Casas - Victoria</SimpleData>
+				<SimpleData name="descriptio">Las Casas - Victoria</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7320083,17.0605765,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-075</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-075<br>Regreso: <br>Descripción: Periferico - Las Casas<br>descriptio: Periferico - Las Casas<br>Estructura Disponible: Aprobada<br>Regreso: I-075<br>Regreso: <br>Descripción: Periferico - Las Casas<br>descriptio: Periferico - Las Casas<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-075
+Regreso: 
+Descripción: Periferico - Las Casas
+descriptio: Periferico - Las Casas
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-075</SimpleData>
+				<SimpleData name="Descripción">Periferico - Las Casas</SimpleData>
+				<SimpleData name="descriptio">Periferico - Las Casas</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73326,17.0608,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-076</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-076<br>Regreso: <br>Descripción: Periferico - Husares<br>descriptio: Periferico - Husares<br>Estructura Disponible: Aprobada<br>Regreso: I-076<br>Regreso: <br>Descripción: Periferico - Husares<br>descriptio: Periferico - Husares<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-076
+Regreso: 
+Descripción: Periferico - Husares
+descriptio: Periferico - Husares
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-076</SimpleData>
+				<SimpleData name="Descripción">Periferico - Husares</SimpleData>
+				<SimpleData name="descriptio">Periferico - Husares</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73484000000001,17.06278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-077</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-077<br>Regreso: <br>Descripción: Periferico - Magnolias<br>descriptio: Periferico - Magnolias<br>Estructura Disponible: Aprobada<br>Regreso: I-077<br>Regreso: <br>Descripción: Periferico - Magnolias<br>descriptio: Periferico - Magnolias<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-077
+Regreso: 
+Descripción: Periferico - Magnolias
+descriptio: Periferico - Magnolias
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-077</SimpleData>
+				<SimpleData name="Descripción">Periferico - Magnolias</SimpleData>
+				<SimpleData name="descriptio">Periferico - Magnolias</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73602,17.06488,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-078</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-078<br>Regreso: <br>Descripción: Periferico - Francisco I. Madero<br>descriptio: Periferico - Francisco I. Madero<br>Estructura Disponible: Aprobada<br>Regreso: I-078<br>Regreso: <br>Descripción: Periferico - Francisco I. Madero<br>descriptio: Periferico - Francisco I. Madero<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-078
+Regreso: 
+Descripción: Periferico - Francisco I. Madero
+descriptio: Periferico - Francisco I. Madero
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-078</SimpleData>
+				<SimpleData name="Descripción">Periferico - Francisco I. Madero</SimpleData>
+				<SimpleData name="descriptio">Periferico - Francisco I. Madero</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73539,17.06622,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-079</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-079<br>Regreso: <br>Descripción: Plazuela Vicente Guerrero - Div. Oriente<br>descriptio: Plazuela Vicente Guerrero - Div. Oriente<br>Estructura Disponible: Aprobada<br>Regreso: I-079<br>Regreso: <br>Descripción: Plazuela Vicente Guerrero - Div. Oriente<br>descriptio: Plazuela Vicente Guerrero - Div. Oriente<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-079
+Regreso: 
+Descripción: Plazuela Vicente Guerrero - Div. Oriente
+descriptio: Plazuela Vicente Guerrero - Div. Oriente
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-079</SimpleData>
+				<SimpleData name="Descripción">Plazuela Vicente Guerrero - Div. Oriente</SimpleData>
+				<SimpleData name="descriptio">Plazuela Vicente Guerrero - Div. Oriente</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7344963,17.0666655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-080</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-080<br>Regreso: <br>Descripción: Div. Oriente - Ignacio Rayon<br>descriptio: Div. Oriente - Ignacio Rayon<br>Estructura Disponible: Aprobada<br>Regreso: I-080<br>Regreso: <br>Descripción: Div. Oriente - Ignacio Rayon<br>descriptio: Div. Oriente - Ignacio Rayon<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-080
+Regreso: 
+Descripción: Div. Oriente - Ignacio Rayon
+descriptio: Div. Oriente - Ignacio Rayon
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-080</SimpleData>
+				<SimpleData name="Descripción">Div. Oriente - Ignacio Rayon</SimpleData>
+				<SimpleData name="descriptio">Div. Oriente - Ignacio Rayon</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73546,17.0682,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-081</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-081<br>Regreso: <br>Descripción: Ni??os Heroes - Montes De Oca<br>descriptio: Ni??os Heroes - Montes De Oca<br>Estructura Disponible: Aprobada<br>Regreso: I-081<br>Regreso: <br>Descripción: Ni??os Heroes - Montes De Oca<br>descriptio: Ni??os Heroes - Montes De Oca<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-081
+Regreso: 
+Descripción: Ni??os Heroes - Montes De Oca
+descriptio: Ni??os Heroes - Montes De Oca
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-081</SimpleData>
+				<SimpleData name="Descripción">Ni??os Heroes - Montes De Oca</SimpleData>
+				<SimpleData name="descriptio">Ni??os Heroes - Montes De Oca</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73811000000001,17.07372,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-082</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-082<br>Regreso: <br>Descripción: Ni??os Heroes - Juan Escutia<br>descriptio: Ni??os Heroes - Juan Escutia<br>Estructura Disponible: Aprobada<br>Regreso: I-082<br>Regreso: <br>Descripción: Ni??os Heroes - Juan Escutia<br>descriptio: Ni??os Heroes - Juan Escutia<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-082
+Regreso: 
+Descripción: Ni??os Heroes - Juan Escutia
+descriptio: Ni??os Heroes - Juan Escutia
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-082</SimpleData>
+				<SimpleData name="Descripción">Ni??os Heroes - Juan Escutia</SimpleData>
+				<SimpleData name="descriptio">Ni??os Heroes - Juan Escutia</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.73904,17.07516,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-083</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-083<br>Regreso: <br>Descripción: Ni??os Heroes - Carretera - 190<br>descriptio: Ni??os Heroes - Carretera - 190<br>Estructura Disponible: Aprobada<br>Regreso: I-083<br>Regreso: <br>Descripción: Ni??os Heroes - Carretera - 190<br>descriptio: Ni??os Heroes - Carretera - 190<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-083
+Regreso: 
+Descripción: Ni??os Heroes - Carretera - 190
+descriptio: Ni??os Heroes - Carretera - 190
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-083</SimpleData>
+				<SimpleData name="Descripción">Ni??os Heroes - Carretera - 190</SimpleData>
+				<SimpleData name="descriptio">Ni??os Heroes - Carretera - 190</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74135,17.07968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-084</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-084<br>Regreso: <br>Descripción: Carretera 190 - Cuauhtemoc<br>descriptio: Carretera 190 - Cuauhtemoc<br>Estructura Disponible: Aprobada<br>Regreso: I-084<br>Regreso: <br>Descripción: Carretera 190 - Cuauhtemoc<br>descriptio: Carretera 190 - Cuauhtemoc<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-084
+Regreso: 
+Descripción: Carretera 190 - Cuauhtemoc
+descriptio: Carretera 190 - Cuauhtemoc
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-084</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Cuauhtemoc</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Cuauhtemoc</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7435,17.08272,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-085</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-085<br>Regreso: <br>Descripción: Carretera 190 - 6Ta norte<br>descriptio: Carretera 190 - 6Ta norte<br>Estructura Disponible: Aprobada<br>Regreso: I-085<br>Regreso: <br>Descripción: Carretera 190 - 6Ta norte<br>descriptio: Carretera 190 - 6Ta norte<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-085
+Regreso: 
+Descripción: Carretera 190 - 6Ta norte
+descriptio: Carretera 190 - 6Ta norte
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-085</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - 6Ta norte</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - 6Ta norte</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74486000000002,17.08594,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-086</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-086<br>Regreso: <br>Descripción: Carretera 190 - 8Va Norte<br>descriptio: Carretera 190 - 8Va Norte<br>Estructura Disponible: Aprobada<br>Regreso: I-086<br>Regreso: <br>Descripción: Carretera 190 - 8Va Norte<br>descriptio: Carretera 190 - 8Va Norte<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-086
+Regreso: 
+Descripción: Carretera 190 - 8Va Norte
+descriptio: Carretera 190 - 8Va Norte
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-086</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - 8Va Norte</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - 8Va Norte</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.745575,17.0875668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-087</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-087<br>Regreso: <br>Descripción: Carretera 190 - Diconsa<br>descriptio: Carretera 190 - Diconsa<br>Estructura Disponible: Aprobada<br>Regreso: I-087<br>Regreso: <br>Descripción: Carretera 190 - Diconsa<br>descriptio: Carretera 190 - Diconsa<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-087
+Regreso: 
+Descripción: Carretera 190 - Diconsa
+descriptio: Carretera 190 - Diconsa
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-087</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Diconsa</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Diconsa</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74663,17.09,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-088</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-088<br>Regreso: <br>Descripción: Carretera 190 - Meraz<br>descriptio: Carretera 190 - Meraz<br>Estructura Disponible: Aprobada<br>Regreso: I-088<br>Regreso: <br>Descripción: Carretera 190 - Meraz<br>descriptio: Carretera 190 - Meraz<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-088
+Regreso: 
+Descripción: Carretera 190 - Meraz
+descriptio: Carretera 190 - Meraz
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-088</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Meraz</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Meraz</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74696689999999,17.0907777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-089</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-089<br>Regreso: <br>Descripción: Carretera 190 - Gran Via Sta Rosa<br>descriptio: Carretera 190 - Gran Via Sta Rosa<br>Estructura Disponible: Aprobada<br>Regreso: I-089<br>Regreso: <br>Descripción: Carretera 190 - Gran Via Sta Rosa<br>descriptio: Carretera 190 - Gran Via Sta Rosa<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-089
+Regreso: 
+Descripción: Carretera 190 - Gran Via Sta Rosa
+descriptio: Carretera 190 - Gran Via Sta Rosa
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-089</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Gran Via Sta Rosa</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Gran Via Sta Rosa</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74748999999998,17.09196,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-090</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-090<br>Regreso: <br>Descripción: Carretera 190 - Mercado Zonal<br>descriptio: Carretera 190 - Mercado Zonal<br>Estructura Disponible: Aprobada<br>Regreso: I-090<br>Regreso: <br>Descripción: Carretera 190 - Mercado Zonal<br>descriptio: Carretera 190 - Mercado Zonal<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-090
+Regreso: 
+Descripción: Carretera 190 - Mercado Zonal
+descriptio: Carretera 190 - Mercado Zonal
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-090</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Mercado Zonal</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Mercado Zonal</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.74807,17.09329,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-091</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-091<br>Regreso: <br>Descripción: Carretera 190 - Bodega Aurrera<br>descriptio: Carretera 190 - Bodega Aurrera<br>Estructura Disponible: Aprobada<br>Regreso: I-091<br>Regreso: <br>Descripción: Carretera 190 - Bodega Aurrera<br>descriptio: Carretera 190 - Bodega Aurrera<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-091
+Regreso: 
+Descripción: Carretera 190 - Bodega Aurrera
+descriptio: Carretera 190 - Bodega Aurrera
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-091</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Bodega Aurrera</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Bodega Aurrera</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75002000000001,17.09778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-092</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-092<br>Regreso: <br>Descripción: Carretera 190 - Abraham castellanos<br>descriptio: Carretera 190 - Abraham castellanos<br>Estructura Disponible: Aprobada<br>Regreso: I-092<br>Regreso: <br>Descripción: Carretera 190 - Abraham castellanos<br>descriptio: Carretera 190 - Abraham castellanos<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-092
+Regreso: 
+Descripción: Carretera 190 - Abraham castellanos
+descriptio: Carretera 190 - Abraham castellanos
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-092</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Abraham castellanos</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Abraham castellanos</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75063929999999,17.0993001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-093</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-093<br>Regreso: <br>Descripción: Carretera 190 - Col. Del Maestro<br>descriptio: Carretera 190 - Col. Del Maestro<br>Estructura Disponible: Aprobada<br>Regreso: I-093<br>Regreso: <br>Descripción: Carretera 190 - Col. Del Maestro<br>descriptio: Carretera 190 - Col. Del Maestro<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-093
+Regreso: 
+Descripción: Carretera 190 - Col. Del Maestro
+descriptio: Carretera 190 - Col. Del Maestro
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-093</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Col. Del Maestro</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Col. Del Maestro</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75141000000001,17.10098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-094</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-094<br>Regreso: <br>Descripción: Carretera 190 - Col. Del Maestro<br>descriptio: Carretera 190 - Col. Del Maestro<br>Estructura Disponible: Aprobada<br>Regreso: I-094<br>Regreso: <br>Descripción: Carretera 190 - Col. Del Maestro<br>descriptio: Carretera 190 - Col. Del Maestro<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-094
+Regreso: 
+Descripción: Carretera 190 - Col. Del Maestro
+descriptio: Carretera 190 - Col. Del Maestro
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-094</SimpleData>
+				<SimpleData name="Descripción">Carretera 190 - Col. Del Maestro</SimpleData>
+				<SimpleData name="descriptio">Carretera 190 - Col. Del Maestro</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75141000000001,17.10098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-095</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-095<br>Regreso: <br>Descripción: Reviraras - A San Jacinto<br>descriptio: Reviraras - A San Jacinto<br>Estructura Disponible: Aprobada<br>Regreso: I-095<br>Regreso: <br>Descripción: Reviraras - A San Jacinto<br>descriptio: Reviraras - A San Jacinto<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-095
+Regreso: 
+Descripción: Reviraras - A San Jacinto
+descriptio: Reviraras - A San Jacinto
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-095</SimpleData>
+				<SimpleData name="Descripción">Reviraras - A San Jacinto</SimpleData>
+				<SimpleData name="descriptio">Reviraras - A San Jacinto</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7524456,17.103327,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-096</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-096<br>Regreso: <br>Descripción: Camino A San Jacinto - Ferrocarril<br>descriptio: Camino A San Jacinto - Ferrocarril<br>Estructura Disponible: Aprobada<br>Regreso: I-096<br>Regreso: <br>Descripción: Camino A San Jacinto - Ferrocarril<br>descriptio: Camino A San Jacinto - Ferrocarril<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-096
+Regreso: 
+Descripción: Camino A San Jacinto - Ferrocarril
+descriptio: Camino A San Jacinto - Ferrocarril
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-096</SimpleData>
+				<SimpleData name="Descripción">Camino A San Jacinto - Ferrocarril</SimpleData>
+				<SimpleData name="descriptio">Camino A San Jacinto - Ferrocarril</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75403,17.10306,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-097</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-097<br>Regreso: <br>Descripción: Camino a San Jacinto - Riveras<br>descriptio: Camino a San Jacinto - Riveras<br>Estructura Disponible: Aprobada<br>Regreso: I-097<br>Regreso: <br>Descripción: Camino a San Jacinto - Riveras<br>descriptio: Camino a San Jacinto - Riveras<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-097
+Regreso: 
+Descripción: Camino a San Jacinto - Riveras
+descriptio: Camino a San Jacinto - Riveras
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-097</SimpleData>
+				<SimpleData name="Descripción">Camino a San Jacinto - Riveras</SimpleData>
+				<SimpleData name="descriptio">Camino a San Jacinto - Riveras</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.75948,17.10142,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-098</name>
+		<visibility>0</visibility>
+		<description><![CDATA[descripción: Regreso: I-098<br>Regreso: <br>Descripción: Terminal - C. Ing. Heberto Castillo Martinez<br>descriptio: Terminal - C. Ing. Heberto Castillo Martinez<br>Estructura Disponible: Aprobada<br>Regreso: I-098<br>Regreso: <br>Descripción: Terminal - C. Ing. Heberto Castillo Martinez<br>descriptio: Terminal - C. Ing. Heberto Castillo Martinez<br>Estructura Disponible: Aprobada]]></description>
+		<ExtendedData>
+			<SchemaData schemaUrl="#temp">
+				<SimpleData name="descripción">Regreso: I-098
+Regreso: 
+Descripción: Terminal - C. Ing. Heberto Castillo Martinez
+descriptio: Terminal - C. Ing. Heberto Castillo Martinez
+Estructura Disponible: Aprobada</SimpleData>
+				<SimpleData name="Regreso">I-098</SimpleData>
+				<SimpleData name="Descripción">Terminal - C. Ing. Heberto Castillo Martinez</SimpleData>
+				<SimpleData name="descriptio">Terminal - C. Ing. Heberto Castillo Martinez</SimpleData>
+				<SimpleData name="Estructura Disponible">Aprobada</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.76081000000002,17.10129,0</coordinates>
+		</Point>
+	</Placemark>
+	<Document>
+		<name>R62. San Jacinto Amilpas - Cuarteles, Macroplaza - Trazo.kml</name>
+		<visibility>0</visibility>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00aa55</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff02a148</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff02a148</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff00aa55</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>R62. San Jacinto Amilpas - Cuarteles, Macroplaza - Trazo - ida</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-96.68923406149804,17.06826937127335,0 -96.69033625960327,17.06846213932135,0 -96.69496582345373,17.06884155547575,0 -96.69700483207265,17.06896130086533,0 -96.69743300629808,17.06907708933216,0 -96.70212809665401,17.06949236537646,0 -96.7105281938631,17.07018660929561,0 -96.71204460516711,17.07032120599253,0 -96.71360154377616,17.07042922513747,0 -96.71462875442195,17.0704698489228,0 -96.71528543222928,17.07061256438562,0 -96.7177122860037,17.07114363238263,0 -96.71812886402833,17.07116251339866,0 -96.72023931966415,17.07167903673032,0 -96.7208170371634,17.07189886339082,0 -96.72172942304823,17.07210086798577,0 -96.72231482499306,17.07222268590532,0 -96.72363757031094,17.07243855998551,0 -96.72515584468279,17.07270689129171,0 -96.72555471480695,17.07280923838372,0 -96.72566108110259,17.07266546349214,0 -96.72581785558215,17.07182784029412,0 -96.72629398991467,17.06949884204734,0 -96.72637282702898,17.0689773104726,0 -96.72650551503345,17.0671654857594,0 -96.72699753071795,17.06461642251572,0 -96.72801128624799,17.05969920191457,0 -96.72987556487656,17.06008948705611,0 -96.73165603332991,17.06045643227973,0 -96.73289549595826,17.06070107854616,0 -96.73357181524418,17.06080600154238,0 -96.73471457271297,17.06247113201027,0 -96.73578937294758,17.06415381306545,0 -96.73625951428407,17.06546945689073,0 -96.73609656155412,17.06593390053969,0 -96.73574853204511,17.06608992887178,0 -96.73533905156255,17.06623407273251,0 -96.7352217611737,17.06645318330987,0 -96.73443287193454,17.06670334332907,0 -96.73443102726962,17.06676546027342,0 -96.73499793148471,17.06739877600578,0 -96.73548860797058,17.06814542416169,0 -96.73577996260546,17.06864672722758,0 -96.73617276253796,17.06954894187404,0 -96.73666412336627,17.0709873933243,0 -96.73678070711796,17.07126316009139,0 -96.73776026814491,17.0729890643529,0 -96.73890242290351,17.07490741636755,0 -96.73967020384404,17.07578051850816,0 -96.74113419410577,17.07900593706962,0 -96.74158091530461,17.0799361816017,0 -96.74165473197262,17.08021626200638,0 -96.74223452518828,17.08055502338369,0 -96.74297395406256,17.0812087415959,0 -96.74896676778133,17.09516743327003,0 -96.75257757774378,17.10343652968995,0 -96.75297566489971,17.10326472117212,0 -96.75500913080766,17.10258362180898,0 -96.75696025998717,17.10206604348762,0 -96.76015415967336,17.1011691117114,0 -96.76069375292721,17.10100200452252,0 -96.76088818868821,17.10135279440776,0 -96.76110717377246,17.10157251249992,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>R62. San Jacinto Amilpas - Cuarteles, Macroplaza - Trazo - vuelta</name>
+			<visibility>0</visibility>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-96.7610377607845,17.10141752560348,0 -96.76071235398705,17.10095933693601,0 -96.75920682262269,17.10139732889293,0 -96.75524337118109,17.1024757764589,0 -96.75382617766267,17.10291903743099,0 -96.75265429650528,17.10336795810927,0 -96.75186510853571,17.10153983980965,0 -96.75012574585161,17.09748413551387,0 -96.74781699454169,17.09210724101255,0 -96.74647253941399,17.08903282886269,0 -96.74354218136664,17.08227036027719,0 -96.7434623697949,17.08006215488353,0 -96.74267340269743,17.07868843574931,0 -96.7413634518911,17.07639896112942,0 -96.74119113538013,17.07610370531377,0 -96.74097135582369,17.07588768505451,0 -96.74085978751705,17.07568303180239,0 -96.74087406117067,17.07548046352557,0 -96.73914510766892,17.07316862700827,0 -96.73839495464961,17.07207217902702,0 -96.73826047567658,17.07184933454659,0 -96.73783539778866,17.07094044522064,0 -96.73717611297106,17.06932925720398,0 -96.73654500463037,17.06825345166703,0 -96.73580108138485,17.06707653651352,0 -96.7359600725347,17.06641082416615,0 -96.73594462788043,17.06621368164737,0 -96.73580666346199,17.06609428807607,0 -96.73552372934449,17.0660761819935,0 -96.73516814929062,17.06606721926808,0 -96.735120601031,17.06592341815146,0 -96.73497484745465,17.06572165831014,0 -96.73469977332365,17.06534568365137,0 -96.73382920974014,17.06432665995319,0 -96.73328292458676,17.06391780173682,0 -96.73259573141931,17.06350457776178,0 -96.73118762263033,17.06323747944071,0 -96.72845693196481,17.06266284026466,0 -96.72760181967432,17.06664538643426,0 -96.7274638666653,17.06779088722904,0 -96.72753896048448,17.06855498101268,0 -96.72765081803266,17.06937284857692,0 -96.72766138632009,17.06974504897623,0 -96.72753369824819,17.07030315564782,0 -96.72746374134319,17.07075505109914,0 -96.72739692568292,17.07101728293363,0 -96.72726469153881,17.07174393961682,0 -96.72706306355127,17.07276268578503,0 -96.7269614881502,17.07310057851854,0 -96.72681360347545,17.07316088503439,0 -96.7263343964127,17.07300646917339,0 -96.72546918337765,17.07269678014495,0 -96.72499191111021,17.07255670377652,0 -96.7244372622832,17.07243184998141,0 -96.72365653291671,17.07232241884951,0 -96.72225790723776,17.07212603936431,0 -96.72165401177963,17.07198176479504,0 -96.72096278237164,17.07184774590589,0 -96.72040630537673,17.07177436700487,0 -96.71964028420425,17.07159078562195,0 -96.71849068540232,17.07133981449477,0 -96.71791173009586,17.07119222532353,0 -96.71778247975263,17.0710967711747,0 -96.71685890044009,17.07084797100578,0 -96.71568656264354,17.07057742987361,0 -96.71472509363022,17.07041971248424,0 -96.71426719981343,17.07038689363634,0 -96.71364793543245,17.07034973347534,0 -96.71316691316807,17.07036845772049,0 -96.71260311436903,17.07029962353347,0 -96.71236911779428,17.07023723076004,0 -96.7120482818856,17.07019421442956,0 -96.71103431229511,17.07009437694258,0 -96.70784196256666,17.06982390445541,0 -96.70572758379453,17.06968597949216,0 -96.70217321212898,17.06934366001104,0 -96.69829588788831,17.06899993431667,0 -96.69675301957452,17.06886379697282,0 -96.69193181886389,17.06849467500883,0 -96.68945541631783,17.06818021357982,0 -96.68927644958212,17.06814533778287,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</Document>
+</kml>

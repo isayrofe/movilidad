@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="MODULOS_SEMOVI_2023" id="MODULOS_SEMOVI_2023">
+	<SimpleField name="HREGIÓN" type="string"></SimpleField>
+	<SimpleField name="HMÓDULO" type="string"></SimpleField>
+	<SimpleField name="HLICENCIAS" type="string"></SimpleField>
+	<SimpleField name="HTELÉFONO" type="float"></SimpleField>
+	<SimpleField name="HCORREO" type="string"></SimpleField>
+	<SimpleField name="HDIRECCIÓ" type="string"></SimpleField>
+</Schema>
+<Folder><name>MODULOS_SEMOVI_2023</name>
+  <Placemark>
+	<name>1</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">CAÑADA</SimpleData>
+		<SimpleData name="HMÓDULO">HUAUTLA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">2361020885</SimpleData>
+		<SimpleData name="HCORREO">jesus.juarez@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">FRANCISCO I. MADERO #. 19, COL.BARRIO DE LA CRUZ CP.68500, HUAUTLA DE JIMÉNEZ, OAXACA.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.8469997,18.1326271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">CAÑADA</SimpleData>
+		<SimpleData name="HMÓDULO">CUICATLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HTELÉFONO">2361087793</SimpleData>
+		<SimpleData name="HCORREO">cuicatlan@finanzasoaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE CENTENARIO # 18, BARRIO GRANDE, SAN JUAN BAUTISTA CUICATLÁN, C.P. 68600, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.960627,17.7989208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">CAÑADA</SimpleData>
+		<SimpleData name="HMÓDULO">TEOTITLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">2361174717</SimpleData>
+		<SimpleData name="HCORREO">paul.castillo@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV. 5 DE MAYO # 52, COL. CENTRO, TEOTITLÁN DE FLORES MAGÓN, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.071,18.1306713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">COSTA</SimpleData>
+		<SimpleData name="HMÓDULO">PUERTO ESCONDIDO</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9541009257</SimpleData>
+		<SimpleData name="HCORREO">hector.gallegos@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE DECIMA NORTE #101 SECTOR BENITO JUÁREZ, PUERTO ESCONDIDO, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.0778015,15.8731355,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">COSTA</SimpleData>
+		<SimpleData name="HMÓDULO">HUATULCO</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9511137068</SimpleData>
+		<SimpleData name="HCORREO">zuriel.lavariega@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">BOULEVARD CHAHUE # 100 SECTOR R, C.P.70989, SANTA CRUZ HUATULCO, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.1327543,15.7640093,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">COSTA</SimpleData>
+		<SimpleData name="HMÓDULO">JAMILTEPEC</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9541313894</SimpleData>
+		<SimpleData name="HCORREO">eileyda.quiroz@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE MIGUEL NEGRETE S/N PLANTA BAJA PALACIO MUNICIPAL., SANTIAGO JAMILTEPEC, OAX. (A UN LADO DE LA OFICINA DE TELECOM)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.8202784,16.2789449,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">COSTA</SimpleData>
+		<SimpleData name="HMÓDULO">POCHUTLA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9581220245</SimpleData>
+		<SimpleData name="HCORREO">raymundo.gamboa@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE EL EDEN #4, PRIMERA SECCIÓN, SAN PEDRO POCHUTLA , C.P. 70900, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.4684454,15.7404471,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">COSTA</SimpleData>
+		<SimpleData name="HMÓDULO">RÍO GRANDE</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9541681342</SimpleData>
+		<SimpleData name="HCORREO">marlene.figueroa@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV. MÉXICO S/N COL. TEPEYAC, RÍO GRANDE, C.P. 71830, OAXACA.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.4378075,16.0145526,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">COSTA</SimpleData>
+		<SimpleData name="HMÓDULO">PINOTEPA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9541589863</SimpleData>
+		<SimpleData name="HCORREO">fabiola.arellanes@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">SEGUNDA NORTE S/N, CENTRO, C.P. 71600, SANTIAGO PINOTEPA NACIONAL OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.0504738,16.3415479,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">COSTA</SimpleData>
+		<SimpleData name="HMÓDULO">JUQUILA</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HTELÉFONO">9541273492</SimpleData>
+		<SimpleData name="HCORREO">geovanni.ayuzo@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">A UN COSTADO DEL PALACIO MUNICIPAL C.P. 71900 SANTA CATARINA JUQUILA, OAX</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.2925251,16.2371087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">ISTMO</SimpleData>
+		<SimpleData name="HMÓDULO">TEHUANTEPEC</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9711217686</SimpleData>
+		<SimpleData name="HCORREO">noel.martinez@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">EMILIANO ZAPATA BARRIO SAN JUANICO S/N, C.P. 70760, STO. DOMINGO TEHUANTEPEC OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.2394032,16.32794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">ISTMO</SimpleData>
+		<SimpleData name="HMÓDULO">JUCHITÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9711391870</SimpleData>
+		<SimpleData name="HCORREO">silas.carrasco@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV. MIGUEL HIDALGO ESQUINA CON CALLE 5 DE SEPTIEMBRE, S/N  2DA PLANTA COL. ALTOS, CENTRO, JUCHITÁN DE ZARAGOZA , OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.0170585,16.4579284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">ISTMO</SimpleData>
+		<SimpleData name="HMÓDULO">TAPANATEPEC</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9941060722</SimpleData>
+		<SimpleData name="HCORREO">eva.betanzos@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV. MARTIN MELÉNDEZ #45, BARRIO DE LAS FLORES, SAN PEDRO TAPANATEPEC, C.P. 70180, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-94.1922202,16.3654553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">ISTMO</SimpleData>
+		<SimpleData name="HMÓDULO">MATÍAS ROMERO</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9721212164</SimpleData>
+		<SimpleData name="HCORREO">beatris.contrea@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">JUSTO SIERRA #307, ESQ. MORELOS COL.CENTRO, MATÍAS ROMERO AVENDAÑO,OAXACA , C.P.70300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.0416529,16.8736032,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">ISTMO</SimpleData>
+		<SimpleData name="HMÓDULO">SALINA CRUZ</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9717290497</SimpleData>
+		<SimpleData name="HCORREO">leonardo.reyes@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE POGRESO S/N INTERIOR DEL PALACIO FEDERAL. ENTRE CALLE 5 DE MAYO Y AV. TAMPICO. CENTRO, SALINA CRUZ, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.1941184,16.1787923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">ISTMO</SimpleData>
+		<SimpleData name="HMÓDULO">IXTEPEC</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9711025396</SimpleData>
+		<SimpleData name="HCORREO">julian.quintana@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE MORELOS ESQ. CON TEHUANTEPEC EDIFICIO TORRE PLATINO S/N 2DA PLANTA, COL.ESTACIÓN, CIUDAD IXTEPEC, CP. 70110</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.0979931,16.5576682,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">MIXTECA</SimpleData>
+		<SimpleData name="HMÓDULO">HUAJUAPAN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9516084484</SimpleData>
+		<SimpleData name="HCORREO">moises.castro@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">LIBRAMIENTO S/N AGENCIAS AGUA DULCE HUAJUAPAN DE LEÓN, OAXACA (ANTES CENTRAL CAMIONERA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.7832322,17.8324925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">MIXTECA</SimpleData>
+		<SimpleData name="HMÓDULO">NOCHIXTLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9511954963</SimpleData>
+		<SimpleData name="HCORREO">priciliano.alvarado@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE HIDALGO #1,PALACIO MUNICIPAL DE LA ASUNCIÓN NOCHIXTLÁN, BARRIO DE LA PEÑA, C.P. 69600, NOCHIXTLÁN, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.2253229,17.4583668,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">MIXTECA</SimpleData>
+		<SimpleData name="HMÓDULO">TLAXIACO</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9531152404</SimpleData>
+		<SimpleData name="HCORREO">nohemi.hernandez@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">JOSÉ DOMINGO VÁSQUEZ # 15, COL. CENTRO, PLAZUELA LA MERCED. TLAXIACO, OAX. C.P. 69800</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.6761955,17.2685645,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">MIXTECA</SimpleData>
+		<SimpleData name="HMÓDULO">JUXTLAHUACA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9531117923</SimpleData>
+		<SimpleData name="HCORREO">ofelia.guandulain@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE MIGUEL HIDALGO # 204, COL. CENTRO, JUNTO AL REGISTRO CIVIL, SANTIAGO JUXTLAHUACA, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.0094449,17.3344251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">MIXTECA</SimpleData>
+		<SimpleData name="HMÓDULO">TEPOSCOLULA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9512540541</SimpleData>
+		<SimpleData name="HCORREO">eunice.trejo@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">FRANCISCO I. MADERO S/N, SECCIÓN SEGUNDA, SAN PEDRO Y SAN PABLO TEPOSCOLULA ( EN EL CORREDOR DEL PALACIO MUNICIPAL)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.488396,17.5119205,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">MIXTECA</SimpleData>
+		<SimpleData name="HMÓDULO">COIXTLAHUACA</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HTELÉFONO">9531383940</SimpleData>
+		<SimpleData name="HCORREO">coixtlahuaca@finanzasoaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">PALACIO MUNICIPAL PLANTA BAJA, CENTRO, SAN JUAN BAUTISTA COIXTLAHUACA, CP 69300, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.3214505,17.7223892,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">MIXTECA</SimpleData>
+		<SimpleData name="HMÓDULO">TAMAZULAPAN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9531965999</SimpleData>
+		<SimpleData name="HCORREO">nayely.luna@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">PALACIO MUNICIPAL, CENTRO, VILLA DE TAMAZULAPAN DEL PROGRESO, OAXACA.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.5729556,17.6732113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">PAPALOAPAN</SimpleData>
+		<SimpleData name="HMÓDULO">TUXTEPEC</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">2871083493</SimpleData>
+		<SimpleData name="HCORREO">alejandro.segundo@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV. FRANCISCO I. MADERO #1115, FRAC. COSTA VERDE, SAN JUAN BAUTISTA TUXTEPEC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.1303742,18.094591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">PAPALOAPAN</SimpleData>
+		<SimpleData name="HMÓDULO">VALLE NACIONAL</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">2871660802</SimpleData>
+		<SimpleData name="HCORREO">dafne.silva@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV.INDEPENDENCIA  # 864 CENTRO, SAN JUAN BAUTISTA VALLE NACIONAL, C.P. 68480, OAX. (AL INTERIOR DEL PALACIO MUNICIPAL, PLANTA BAJA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.3041128,17.7742884,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">PAPALOAPAN</SimpleData>
+		<SimpleData name="HMÓDULO">COSOLAPA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">2781030227</SimpleData>
+		<SimpleData name="HCORREO">norma.pena@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">EMILIANO ZAPATA S/N, CENTRO, COSOLAPA OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.6832075,18.6019688,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">PAPALOAPAN</SimpleData>
+		<SimpleData name="HMÓDULO">LOMA BONITA</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HTELÉFONO">2818799962</SimpleData>
+		<SimpleData name="HCORREO">juan.francisco@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE MORELOS #75, COL. CENTRO, LOMA BONITA OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.8768622,18.109105,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">SIERRA NORTE</SimpleData>
+		<SimpleData name="HMÓDULO">IXTLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HTELÉFONO">9513436882</SimpleData>
+		<SimpleData name="HCORREO">lorenzo.lopez@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE FIDENCIO HERNÁNDEZ, ESQ. REVOLUCIÓN S/N PLANTA BAJA PALACIO MUNICIPAL, C.P. 68725, IXTLÁN DE JUÁREZ, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.4804831,17.3285819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">SIERRA NORTE</SimpleData>
+		<SimpleData name="HMÓDULO">AYUTLA</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HDIRECCIÓ">EDIFICIO DANIEL MARTÍNEZ, PLANTA BAJA, A UN LADO DE LA FISCALIA, CENTRO, AYUTLA.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.0761638,17.0273222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">SIERRA NORTE</SimpleData>
+		<SimpleData name="HMÓDULO">MA. LOMBARDO</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HTELÉFONO">2831089739</SimpleData>
+		<SimpleData name="HCORREO">rosa.skinka@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE NICOLÁS BRAVO # 78-A, MARÍA LOMBARDO DE CASO, SAN JUAN COTZOCON, C.P. 70215, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-95.433286,17.448829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">SIERRA SUR</SimpleData>
+		<SimpleData name="HMÓDULO">MIAHUATLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9513458963</SimpleData>
+		<SimpleData name="HCORREO">juan.ramos@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE 3 DE OCTUBRE  #411 COL. CENTRO MIAHUATLÁN, C.P. 70805 ( AL INTERIOR DEL HOTEL EL CAMPANARIO)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.5982437,16.3345508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">SIERRA SUR</SimpleData>
+		<SimpleData name="HMÓDULO">PUTLA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9531097698</SimpleData>
+		<SimpleData name="HCORREO">zulma.hoyos@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE VERACRUZ # 32, BARRIO LA ASUNCIÓN, PUTLA VILLA DE GUERRERO OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.9301551,17.0288818,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">SIERRA SUR</SimpleData>
+		<SimpleData name="HMÓDULO">SOLA DE VEGA</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HDIRECCIÓ">REFORMA S/N  COL CENTRO, SOLA DE VEGA. FRENTE A LA EXPLANADA DE LA CANCHA MUNICIPAL,.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.9794665,16.5143246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES (CENTRO)</SimpleData>
+		<SimpleData name="HMÓDULO">CARLOS GRACIDA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV.CARLOS GRACIDA # 9, LA EXPERIMENTAL SAN ANTONIO DE LA CAL, OAXACA DE JUÁREZ, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7129016,17.0333028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES (CENTRO)</SimpleData>
+		<SimpleData name="HMÓDULO">SANTA ROSA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9711424517</SimpleData>
+		<SimpleData name="HCORREO">luis.mendoza@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE ESMERALDA # 103 COL.BUGAMBILIAS,SANTA ROSA PANZACOLA, C.P. 68010, OAXACA DE JUÁREZ, OAX. (A UN COSTADO DEL MERCADO ZONAL STA. ROSA)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7480234,17.0943017,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES (CENTRO)</SimpleData>
+		<SimpleData name="HMÓDULO">REFUGIO</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9511819988</SimpleData>
+		<SimpleData name="HCORREO">centro2.libres@finanzasoaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE REFUGIO 202, BARRIO DE JALATLACO, OAXACA DE JUÁREZ</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7154404,17.0631797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES (CENTRO)</SimpleData>
+		<SimpleData name="HMÓDULO">FERROCARRIL</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9512281173</SimpleData>
+		<SimpleData name="HCORREO">centro1.ferrocarril@finanzasoaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">AV. FERROCARRIL #2014, SANTA CRUZ AMILPAS, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.6862536,17.057595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES (CENTRO)</SimpleData>
+		<SimpleData name="HMÓDULO">VIOLETAS</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9513060007</SimpleData>
+		<SimpleData name="HCORREO">itandira.villar@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE VIOLETAS #401, COL. REFORMA (LOCALES 9 Y 10 DE PLAZA PABELLÓN VIOLETAS)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7110479,17.0786947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES</SimpleData>
+		<SimpleData name="HMÓDULO">XOXOCOTLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9512733270</SimpleData>
+		<SimpleData name="HCORREO">yudmila.aquino@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">MOCTEZUMA # 27, ESQ. CON HIDALGO, CENTRO, CP. 71230,SANTA CRUZ XOXOCOTLÁN, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7324761,17.0276126,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES</SimpleData>
+		<SimpleData name="HMÓDULO">TLACOLULA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9513501054</SimpleData>
+		<SimpleData name="HCORREO">noe.sibaja@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">MATAMOROS # 2,TERCERA SECCIÓN , COL. CENTRO, TLACOLULA DE MATAMOROS OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.4793312,16.9537399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES</SimpleData>
+		<SimpleData name="HMÓDULO">ZIMATLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9511056134</SimpleData>
+		<SimpleData name="HCORREO">ivan.gonzalez@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">GARCÍA VIGIL #202, ALTOS BARRIO DE SAN LORENZO, ZIMATLÁN DE ÁLVAREZ, OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7833359,16.8658483,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES</SimpleData>
+		<SimpleData name="HMÓDULO">ETLA</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9512890756</SimpleData>
+		<SimpleData name="HCORREO">luis.osorio@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALLE MIGUEL HIDALGO # 25, VILLA DE ETLA, C.P. 68200 OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.8029979,17.2072226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES</SimpleData>
+		<SimpleData name="HMÓDULO">OCOTLÁN</SimpleData>
+		<SimpleData name="HLICENCIAS">SI</SimpleData>
+		<SimpleData name="HTELÉFONO">9515196153</SimpleData>
+		<SimpleData name="HCORREO">elecruz_2103@hotmail.com</SimpleData>
+		<SimpleData name="HDIRECCIÓ">MATAMOROS #203, COL. CENTRO, OCOTLÁN DE MORELOS OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.6733878,16.7921833,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<ExtendedData><SchemaData schemaUrl="#MODULOS_SEMOVI_2023">
+		<SimpleData name="HREGIÓN">VALLES CENTRALES</SimpleData>
+		<SimpleData name="HMÓDULO">EJUTLA</SimpleData>
+		<SimpleData name="HLICENCIAS">NO</SimpleData>
+		<SimpleData name="HTELÉFONO">9513560832</SimpleData>
+		<SimpleData name="HCORREO">jonathan.jimenez@semovioaxaca.gob.mx</SimpleData>
+		<SimpleData name="HDIRECCIÓ">CALZADA CARLOS TORRES  SERRET # 1 &quot;B&quot; BARRIO LA ESTACIÓN CENTRO EJUTLA C.P. 71500., OAX.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7323327,16.5697649,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="R02_PARADAS" id="R02_PARADAS">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>R02_PARADAS</name>
+  <Placemark>
+	<name>Punto 1</name>
+	<description>Calzada San Felipe del Agua y Venecia</description>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7174644,17.0886505,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 2</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7193614,17.0793262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 3</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7213043,17.0633163,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 4</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7221411,17.0595106,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 5</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7252329,17.054287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 6</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7231501,17.0461113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 7</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7134682,17.033192,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 8</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7176614,17.0391158,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 9</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7201848,17.0425963,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 10</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7253936,17.0498287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 11</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7257686,17.0563117,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 12</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7286362,17.0616965,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 13</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7279164,17.0654014,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 14</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7244606,17.0724184,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 15</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7171832,17.0752835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punto 16</name>
+	<ExtendedData><SchemaData schemaUrl="#R02_PARADAS">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.7172322,17.0885981,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

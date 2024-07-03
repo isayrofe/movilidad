@@ -1,0 +1,2706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RC01: Terminal Viguera - San Sebastian Tutla</name>
+	<open>1</open>
+	<description>Consecutivo de paradas diurnas y Nocturnas (21-11-23)</description>
+	<StyleMap id="line-FF0000-5000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FF0000-5000-normal1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FF0000-5000-highlight1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="line-FF0000-50000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FF0000-5000-normal0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FF0000-5000-highlight0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="line-FF0000-50001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FF0000-5000-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FF0000-5000-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-FF0000-5000-highlight">
+		<IconStyle>
+			<color>ff00ffff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>7.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FF0000-5000-highlight0">
+		<IconStyle>
+			<color>ff00ffff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>7.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FF0000-5000-highlight1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>7.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FF0000-5000-normal">
+		<IconStyle>
+			<color>ff00ffff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FF0000-5000-normal0">
+		<IconStyle>
+			<color>ff00ffff</color>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FF0000-5000-normal1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Ampl_RUTA</name>
+		<open>1</open>
+		<Placemark>
+			<name>IDA</name>
+			<description><![CDATA[descripción: <br>id: 1<br>IDAYVUELTA: IDA<br>lenght: 13.79]]></description>
+			<styleUrl>#line-FF0000-50000</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="id">
+					<value>1</value>
+				</Data>
+				<Data name="IDAYVUELTA">
+					<value>IDA</value>
+				</Data>
+				<Data name="lenght">
+					<value>13.79</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-96.767841,17.126445,0 -96.76774500000001,17.126503,0 -96.76691700000002,17.125497,0 -96.76459300000002,17.122633,0 -96.764504,17.122496,0 -96.764481,17.122431,0 -96.764464,17.122372,0 -96.76438899999999,17.12228,0 -96.76428799999999,17.122172,0 -96.764186,17.1221,0 -96.76269600000001,17.120371,0 -96.76056199999999,17.11773,0 -96.75854699999998,17.115204,0 -96.757441,17.113842,0 -96.757034,17.113309,0 -96.756766,17.112856,0 -96.75648099999998,17.112276,0 -96.75618199999998,17.111597,0 -96.75455200000002,17.107789,0 -96.752492,17.102919,0 -96.750972,17.099326,0 -96.74923,17.095465,0 -96.748634,17.09401,0 -96.74688999999999,17.089998,0 -96.74530900000001,17.086251,0 -96.74452699999999,17.084446,0 -96.743596,17.082316,0 -96.74356400000001,17.08217,0 -96.743583,17.081883,0 -96.743545,17.080497,0 -96.74343500000001,17.080039,0 -96.741249,17.076055,0 -96.74122,17.075938,0 -96.741221,17.075892,0 -96.74118400000002,17.075793,0 -96.741108,17.075722,0 -96.740891,17.075527,0 -96.74011900000001,17.07444,0 -96.739261,17.073335,0 -96.738834,17.072765,0 -96.738406,17.072094,0 -96.73807400000001,17.071452,0 -96.737771,17.070767,0 -96.73744600000001,17.069941,0 -96.73713400000001,17.069187,0 -96.736136,17.067537,0 -96.73518799999998,17.065972,0 -96.73484000000001,17.065459,0 -96.734432,17.064961,0 -96.73378099999999,17.064253,0 -96.733577,17.064091,0 -96.733239,17.063823,0 -96.73286899999999,17.063594,0 -96.73252599999999,17.063452,0 -96.731454,17.063277,0 -96.729833,17.062946,0 -96.72830399999998,17.062636,0 -96.72556799999998,17.062078,0 -96.72269000000001,17.061497,0 -96.71955200000001,17.060839,0 -96.71822800000001,17.060583,0 -96.71805199999999,17.060577,0 -96.715915,17.060119,0 -96.714298,17.060844,0 -96.714232,17.060853,0 -96.714157,17.060827,0 -96.714085,17.060799,0 -96.71391299999999,17.060722,0 -96.71379000000002,17.060704,0 -96.71368700000001,17.060716,0 -96.71363300000002,17.060747,0 -96.7136,17.060785,0 -96.713579,17.060878,0 -96.713587,17.061026,0 -96.713594,17.061084,0 -96.710824,17.061927,0 -96.70911099999999,17.062446,0 -96.708274,17.06273,0 -96.70796000000001,17.062814,0 -96.70683699999999,17.063047,0 -96.705444,17.063345,0 -96.703406,17.063786,0 -96.701877,17.064116,0 -96.69998699999999,17.064549,0 -96.69838900000001,17.06468,0 -96.69777999999999,17.064723,0 -96.69741999999999,17.064736,0 -96.69638999999999,17.064631,0 -96.695475,17.064443,0 -96.6953,17.064422,0 -96.695037,17.064438,0 -96.69396500000001,17.064746,0 -96.69357599999999,17.064833,0 -96.69340300000002,17.064845,0 -96.692795,17.064814,0 -96.69129100000001,17.064642,0 -96.68960199999998,17.064423,0 -96.68865099999999,17.064321,0 -96.68639400000001,17.064038,0 -96.68593199999998,17.063989,0 -96.68512299999999,17.064065,0 -96.68322499999999,17.064307,0 -96.68134300000001,17.064035,0 -96.680266,17.063787,0 -96.680121,17.063753,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>VUELTA</name>
+			<description><![CDATA[descripción: <br>id: 1<br>IDAYVUELTA: VUELTA<br>lenght: 16.32]]></description>
+			<styleUrl>#line-FF0000-50001</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="id">
+					<value>1</value>
+				</Data>
+				<Data name="IDAYVUELTA">
+					<value>VUELTA</value>
+				</Data>
+				<Data name="lenght">
+					<value>16.32</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-96.68012400000001,17.063814,0 -96.68074,17.063934,0 -96.680932,17.063972,0 -96.681434,17.064083,0 -96.68243,17.064235,0 -96.68315699999999,17.064338,0 -96.683269,17.064335,0 -96.68434399999998,17.064223,0 -96.68589900000001,17.064037,0 -96.68609500000001,17.064053,0 -96.689697,17.064497,0 -96.69188800000001,17.064755,0 -96.69323199999999,17.064897,0 -96.69358899999999,17.064883,0 -96.69418899999999,17.064729,0 -96.69486499999999,17.064521,0 -96.695066,17.064465,0 -96.695188,17.064465,0 -96.69534000000002,17.064468,0 -96.69582200000001,17.06455,0 -96.69637,17.064662,0 -96.696995,17.064741,0 -96.697604,17.064783,0 -96.69886899999999,17.06467,0 -96.70003800000002,17.064573,0 -96.70062699999998,17.064468,0 -96.70230299999999,17.064063,0 -96.70417500000001,17.063677,0 -96.706816,17.063109,0 -96.70801999999999,17.062859,0 -96.708777,17.062656,0 -96.70949400000001,17.062397,0 -96.71113900000002,17.061901,0 -96.711984,17.061605,0 -96.71280600000001,17.061359,0 -96.71358300000001,17.061114,0 -96.71367400000001,17.06107,0 -96.71376899999998,17.061033,0 -96.71392300000001,17.060989,0 -96.714088,17.060954,0 -96.714327,17.060911,0 -96.71442299999998,17.060892,0 -96.714512,17.060904,0 -96.71497000000001,17.060994,0 -96.717658,17.061502,0 -96.718002,17.061564,0 -96.71809399999999,17.061556,0 -96.71993999999999,17.061907,0 -96.722672,17.06247,0 -96.72482899999999,17.062903,0 -96.72873199999998,17.063725,0 -96.72987500000002,17.063978,0 -96.73119199999999,17.064191,0 -96.731449,17.064218,0 -96.73222,17.064324,0 -96.732563,17.064654,0 -96.73292000000001,17.065079,0 -96.733355,17.065635,0 -96.73377899999998,17.066181,0 -96.73392299999999,17.06634,0 -96.734217,17.066625,0 -96.734449,17.066795,0 -96.73484999999999,17.067215,0 -96.735056,17.067466,0 -96.73522799999999,17.067717,0 -96.73545300000001,17.068033,0 -96.735641,17.068387,0 -96.735803,17.068683,0 -96.735963,17.069003,0 -96.73612199999998,17.069423,0 -96.736327,17.069934,0 -96.73643599999998,17.070199,0 -96.736547,17.070587,0 -96.73665600000001,17.070944,0 -96.73697900000001,17.071553,0 -96.73766200000001,17.072797,0 -96.738333,17.07395,0 -96.73862200000001,17.074456,0 -96.738821,17.074756,0 -96.73908099999998,17.0751,0 -96.739299,17.075333,0 -96.739699,17.075852,0 -96.739885,17.076203,0 -96.740118,17.076784,0 -96.740426,17.077437,0 -96.74091700000001,17.078556,0 -96.74158300000002,17.080062,0 -96.741964,17.080397,0 -96.74228100000001,17.080571,0 -96.742671,17.080888,0 -96.74288900000001,17.081083,0 -96.74313600000001,17.081601,0 -96.743318,17.082116,0 -96.74438600000001,17.084578,0 -96.745195,17.086458,0 -96.746129,17.088618,0 -96.746256,17.088861,0 -96.746808,17.090228,0 -96.748752,17.094662,0 -96.75104399999998,17.099934,0 -96.75159600000002,17.101188,0 -96.75318800000001,17.105033,0 -96.75403300000002,17.107077,0 -96.75485799999998,17.108908,0 -96.755495,17.110395,0 -96.75646399999999,17.11252,0 -96.756777,17.113153,0 -96.75714699999999,17.11377,0 -96.75785399999999,17.114651,0 -96.75829499999999,17.11513,0 -96.760992,17.118519,0 -96.76300299999998,17.120973,0 -96.764039,17.122321,0 -96.76413700000001,17.122455,0 -96.76427099999999,17.122613,0 -96.764944,17.123402,0 -96.76704399999998,17.125846,0 -96.768655,17.127858,0 -96.77055600000001,17.130259,0 -96.77118200000001,17.131047,0 -96.77231999999999,17.132416,0 -96.77262299999998,17.132823,0 -96.773955,17.134456,0 -96.77430099999999,17.134883,0 -96.77449699999998,17.135328,0 -96.774851,17.136032,0 -96.775014,17.13635,0 -96.775074,17.136412,0 -96.775156,17.136403,0 -96.77511800000001,17.136257,0 -96.77457099999999,17.13503,0 -96.774461,17.134792,0 -96.77318699999999,17.133276,0 -96.77191100000002,17.131675,0 -96.77013700000001,17.129516,0 -96.76920399999999,17.128408,0 -96.76814299999999,17.127061,0 -96.767793,17.126568,0 -96.767884,17.126493,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>IDA AUMENTO</name>
+			<description><![CDATA[descripción: <br>id: 2<br>IDAYVUELTA: IDA<br>lenght: 2.37]]></description>
+			<styleUrl>#line-FF0000-50000</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="id">
+					<value>2</value>
+				</Data>
+				<Data name="IDAYVUELTA">
+					<value>IDA</value>
+				</Data>
+				<Data name="lenght">
+					<value>2.37</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-96.680121,17.063753,0 -96.678433,17.063388,0 -96.67790600000001,17.063279,0 -96.677256,17.063131,0 -96.67505999999999,17.062667,0 -96.67339999999999,17.062298,0 -96.67125800000001,17.061813,0 -96.670339,17.061633,0 -96.66833999999999,17.061363,0 -96.666873,17.061144,0 -96.666864,17.061139,0 -96.66693699999999,17.060863,0 -96.667225,17.059818,0 -96.667407,17.059169,0 -96.66746500000002,17.058892,0 -96.66758799999999,17.058436,0 -96.668114,17.058448,0 -96.66846599999998,17.058431,0 -96.668829,17.058377,0 -96.669234,17.058276,0 -96.67001900000001,17.058061,0 -96.67046000000001,17.05794,0 -96.670422,17.057756,0 -96.67041999999999,17.057697,0 -96.67061099999998,17.057003,0 -96.67082700000002,17.056252,0 -96.67118200000002,17.056168,0 -96.67129199999999,17.055791,0 -96.670998,17.05565,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>VUELTA AUMENTO</name>
+			<description><![CDATA[descripción: <br>id: 2<br>IDAYVUELTA: VUELTA<br>lenght: 3.51]]></description>
+			<styleUrl>#line-FF0000-50001</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="id">
+					<value>2</value>
+				</Data>
+				<Data name="IDAYVUELTA">
+					<value>VUELTA</value>
+				</Data>
+				<Data name="lenght">
+					<value>3.51</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-96.670998,17.05565,0 -96.67089299999999,17.055908,0 -96.67076399999999,17.056362,0 -96.670457,17.057457,0 -96.67036400000001,17.057758,0 -96.66926700000002,17.058073,0 -96.66854600000001,17.058254,0 -96.667861,17.058279,0 -96.667329,17.05822,0 -96.665572,17.057639,0 -96.662345,17.056541,0 -96.66228700000001,17.056696,0 -96.66547200000001,17.057685,0 -96.66620100000002,17.057907,0 -96.66701399999999,17.058188,0 -96.66750999999998,17.058334,0 -96.667574,17.058368,0 -96.66754,17.058529,0 -96.667439,17.058907,0 -96.66737700000002,17.059199,0 -96.66729899999999,17.059451,0 -96.667095,17.06023,0 -96.666839,17.061151,0 -96.66683600000002,17.061167,0 -96.666979,17.061195,0 -96.667603,17.061287,0 -96.66926099999999,17.061542,0 -96.67043,17.061684,0 -96.67156900000002,17.061933,0 -96.672113,17.062043,0 -96.674102,17.06248,0 -96.67492800000001,17.062666,0 -96.676137,17.062914,0 -96.67744699999999,17.063193,0 -96.677971,17.063314,0 -96.67850099999998,17.063423,0 -96.67920799999999,17.063581,0 -96.67984000000001,17.063726,0 -96.68012400000001,17.063814,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Paradas Totales 211123</name>
+		<open>1</open>
+		<Placemark>
+			<name>RC01-01/I-01/1-D/1</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: CARRETERA 190<br>CALLE 2: TERMINAL VIGUERA<br>X: 17.1265<br>Y: -96.7678]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>TERMINAL VIGUERA</value>
+				</Data>
+				<Data name="X">
+					<value>17.1265</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7678</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.767808,17.126502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-02/I-02/1-N/1.1</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: NOCTURNA<br>CALLE 1: CARRETERA 190<br>CALLE 2: A VIGUERA<br>X: 17.12243<br>Y: -96.76459]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>A VIGUERA</value>
+				</Data>
+				<Data name="X">
+					<value>17.12243</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.76459</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.76459639999999,17.122437,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-03/I-03/2-D/2</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: COBAO<br>X: 17.11839<br>Y: -96.76117]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>COBAO</value>
+				</Data>
+				<Data name="X">
+					<value>17.11839</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.76117</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.76117899999998,17.118397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-04/I-04/3-D/3</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: PLUTARCO ELÍAS CALLES<br>X: 17.11541<br>Y: -96.75873]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>PLUTARCO ELÍAS CALLES</value>
+				</Data>
+				<Data name="X">
+					<value>17.11541</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75873</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75873,17.115415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-05/I-05/4-D/4</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: VICENTE GUERRERO<br>X: 17.11229<br>Y: -96.75655]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>VICENTE GUERRERO</value>
+				</Data>
+				<Data name="X">
+					<value>17.11229</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75655</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.756557,17.112292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-06/I-06/5-D/5</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: BRENAMIEL<br>X: 17.10874<br>Y: -96.75502]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>BRENAMIEL</value>
+				</Data>
+				<Data name="X">
+					<value>17.10874</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75502</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75502929999999,17.108744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-07/I-07/6-D/6</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: CAMINO A SAN JACINTO AMILPAS<br>X: 17.10376<br>Y: -96.75321]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CAMINO A SAN JACINTO AMILPAS</value>
+				</Data>
+				<Data name="X">
+					<value>17.10376</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75321</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75321099999999,17.103764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-08/I-08/7-D/7</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: REFORMA COLONIA DEL MAESTRO<br>X: 17.10157<br>Y: -96.7519]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>REFORMA COLONIA DEL MAESTRO</value>
+				</Data>
+				<Data name="X">
+					<value>17.10157</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7519</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.751903,17.101571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-09/I-09/8-D/8</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: BODEGA AURRERA<br>X: 17.09752<br>Y: -96.75024]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>BODEGA AURRERA</value>
+				</Data>
+				<Data name="X">
+					<value>17.09752</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75024</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.750243,17.097525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-10/I-10/9-D/9</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: MERCADO ZONAL SANTA ROSA<br>X: 17.0938<br>Y: -96.74866]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MERCADO ZONAL SANTA ROSA</value>
+				</Data>
+				<Data name="X">
+					<value>17.0938</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74866</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.748667,17.093806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-11/I-11/10-D/10</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: CALLE DOS<br>X: 17.09118<br>Y: -96.7475]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CALLE DOS</value>
+				</Data>
+				<Data name="X">
+					<value>17.09118</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7475</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.747507,17.091181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-12/I-12/11-D/11</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: DE LA PEPSI<br>X: 17.08595<br>Y: 96.74523]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>DE LA PEPSI</value>
+				</Data>
+				<Data name="X">
+					<value>17.08595</value>
+				</Data>
+				<Data name="Y">
+					<value>96.74523</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.745239,17.085952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-13/I-13/12-D/12</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: CUAUHTEMOC<br>X: 17.08315<br>Y: -96.74402]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CUAUHTEMOC</value>
+				</Data>
+				<Data name="X">
+					<value>17.08315</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74402</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74402400000001,17.083154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-14/I-14/13-D/13</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CALZADA MADERO<br>CALLE 2: MONTE ALBÁN (TECNOLÓGICO)<br>X: 17.07932<br>Y: -96.74312]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CALZADA MADERO</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MONTE ALBÁN (TECNOLÓGICO)</value>
+				</Data>
+				<Data name="X">
+					<value>17.07932</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74312</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.743126,17.079321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-15/I-15/14-D/14</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: CALZADA MADERO<br>CALLE 2: JUAN ESCUTIA<br>X: 17.07563<br>Y: -96.74109]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CALZADA MADERO</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>JUAN ESCUTIA</value>
+				</Data>
+				<Data name="X">
+					<value>17.07563</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74109</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74109900000002,17.075637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-16/I-16/15-D/15</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CALZADA MADERO<br>CALLE 2: PRIVADA VICENTE SUÁREZ<br>X: 17.07218<br>Y: -96.73854]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CALZADA MADERO</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>PRIVADA VICENTE SUÁREZ</value>
+				</Data>
+				<Data name="X">
+					<value>17.07218</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.73854</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73854899999999,17.072186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-17/I-17/16-D/16</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CALZADA MADERO<br>CALLE 2: MUSEO DEL FERROCARRIL<br>X: 17.06836<br>Y: -96.73669]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CALZADA MADERO</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MUSEO DEL FERROCARRIL</value>
+				</Data>
+				<Data name="X">
+					<value>17.06836</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.73669</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73669200000001,17.068365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-18/I-18/2-N/16.1</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: NOCTURNA<br>CALLE 1: CALZADA MADERO<br>CALLE 2: AV. FERROCARRIL<br>X: 17.06598<br>Y: -96.73524]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CALZADA MADERO</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>AV. FERROCARRIL</value>
+				</Data>
+				<Data name="X">
+					<value>17.06598</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.73524</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73524400000001,17.06598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-19/I-19/17-D/17</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: CALZADA MADERO<br>CALLE 2: JARDÍN MORELOS<br>X: 17.0633<br>Y: -96.73186]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CALZADA MADERO</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>JARDÍN MORELOS</value>
+				</Data>
+				<Data name="X">
+					<value>17.0633</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.73186</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73186200000001,17.063304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-20/I-20/3-N/17.1</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: NOCTURNA<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: DÍAZ ORDÁZ<br>X: 17.06266<br>Y: -96.72854]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. DE LA INDEPENDENCIA</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>DÍAZ ORDÁZ</value>
+				</Data>
+				<Data name="X">
+					<value>17.06266</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.72854</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7285455,17.0626681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-21/I-21/18-D/18</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: ALAMEDA DE LEÓN<br>X: 17.06221<br>Y: -96.72618]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. DE LA INDEPENDENCIA</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>ALAMEDA DE LEÓN</value>
+				</Data>
+				<Data name="X">
+					<value>17.06221</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.72618</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.726185,17.062218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-22/I-22/4-N/18.1</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: NOCTURNO<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: MANUEL FERNANDEZ FIALLO<br>X: 17.06149<br>Y: -96.72273]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. DE LA INDEPENDENCIA</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MANUEL FERNANDEZ FIALLO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06149</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.72273</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.72273300000001,17.061498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-23/I-23/5-N/18.2</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: NOCTURNA<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: MANUEL DOBLADO<br>X: 17.06087<br>Y: -96.71975]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. DE LA INDEPENDENCIA</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MANUEL DOBLADO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06087</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.71975</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.719758,17.060875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-24/I-24/19-D/19</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: AV. DE LA INDEPENDENCIA<br>CALLE 2: PROLONGACIÓN DE LA INDEPENDENCIA<br>X: 17.06015<br>Y: -96.71573]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. DE LA INDEPENDENCIA</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>PROLONGACIÓN DE LA INDEPENDENCIA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06015</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.71573</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.71573400000001,17.06015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-25/I-25/20-D/20</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: CALLE 5 DE FEBRERO<br>X: 17.06165<br>Y: -96.71171]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CALLE 5 DE FEBRERO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06165</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.71171</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.71171799999999,17.061651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-26/I-26/21-D/21</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: NORTE 3<br>X: 17.06255, <br>Y: -96.70888]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>NORTE 3</value>
+				</Data>
+				<Data name="X">
+					<value>17.06255,</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.70888</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.70888500000001,17.062556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-27/I-27/22-D/22</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: LAGUNA DE TÉRMINO<br>X: 17.06313<br>Y: -96.7064]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>LAGUNA DE TÉRMINO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06313</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7064</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.706405,17.063138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-28/I-28/23-D/23</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO <br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: ALDAMA<br>X: 17.06401<br>Y: -96.70227]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>ALDAMA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06401</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.70227</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.702279,17.064014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-29/I-29/24-D/24</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: TERCERA PRIVADA DE CAMINO NACIONAL<br>X: 17.06454<br>Y: -96.69958]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>TERCERA PRIVADA DE CAMINO NACIONAL</value>
+				</Data>
+				<Data name="X">
+					<value>17.06454</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.69958</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.699585,17.064549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-30/I-30/25-D/25</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: AV. CALICANTO<br>X: 17.06461<br>Y: -96.69665]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>AV. CALICANTO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06461</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.69665</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.696654,17.064612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-31/I-31/26-D/26</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS <br>CALLE 2: AV. JUÁREZ<br>X: 17.06475<br>Y: -96.69375]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>AV. JUÁREZ</value>
+				</Data>
+				<Data name="X">
+					<value>17.06475</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.69375</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69374999999999,17.064756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-32/I-32/6-N/26.1</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: NOCTURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: SAN DIEGO DE LOS HORNOS<br>X: 17.0645<br>Y: -96.6905]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>SAN DIEGO DE LOS HORNOS</value>
+				</Data>
+				<Data name="X">
+					<value>17.0645</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.6905</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69050519999999,17.0645016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-33/I-33/7-N/26.2</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: diurna<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: LA RAYA<br>X: 17.06403<br>Y: -96.68667]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>diurna</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>LA RAYA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06403</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.68667</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68667600000002,17.064038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-34/I-34/8-N/26.3</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: NOCTURNA<br>CALLE 1: AVENIDA LAZARO CARDENAS<br>CALLE 2: COLEGIO ATONALTZIN<br>X: 17.06418<br>Y: -96.68272]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AVENIDA LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>COLEGIO ATONALTZIN</value>
+				</Data>
+				<Data name="X">
+					<value>17.06418</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.68272</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68272899999999,17.064183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-35/I-35/27-D/27</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNIO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: OXXO<br>X: 17.06378<br>Y: -96.68026]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNIO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>OXXO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06378</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.68026</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.680266,17.063787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-36/I-36/28-D/28</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: CAMINO NACIONAL<br>CALLE 2: TERCERA PRIVADA DE GUERRERO<br>X: 17.063<br>Y: -96.67683]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>TERCERA PRIVADA DE GUERRERO</value>
+				</Data>
+				<Data name="X">
+					<value>17.063</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67683</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67683599999999,17.063002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-37/I-37/29-D/29</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CAMINO NACIONAL<br>CALLE 2: UNIÓN<br>X: 17.06207<br>Y: -96.67259]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>UNIÓN</value>
+				</Data>
+				<Data name="X">
+					<value>17.06207</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67259</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67259749999999,17.0620719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-38/I-38/30-D/30</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNO<br>CALLE 1: CAMINO NACIONAL<br>CALLE 2: INDEPENDENCIA<br>X: 17.06163<br>Y: -96.67033]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>INDEPENDENCIA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06163</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67033</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.670339,17.061633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-39/I-39/31-D/31</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: CAMINO NACIONAL<br>CALLE 2: DEL ARENAL<br>X: 17.0611<br>Y: -96.66703]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>DEL ARENAL</value>
+				</Data>
+				<Data name="X">
+					<value>17.0611</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.66703</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6670316,17.0611059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-40/I-40/32-D/32</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: DEL ARENAL<br>CALLE 2: AV. FERROCARRIL<br>X: 17.0585<br>Y: -96.66759]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>DEL ARENAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>AV. FERROCARRIL</value>
+				</Data>
+				<Data name="X">
+					<value>17.0585</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.66759</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.66759500000001,17.058501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-41/I-41/33-D/33</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: DEL PANTEÓN<br>CALLE 2: AV. FERROCARRIL<br>X: 17.05762<br>Y: -96.67049]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>DEL PANTEÓN</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>AV. FERROCARRIL</value>
+				</Data>
+				<Data name="X">
+					<value>17.05762</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67049</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.670496,17.057625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-42/I-42/34-D/34</name>
+			<description><![CDATA[IDA/REG: IDA<br>DIU/NOC: DIURNA<br>CALLE 1: CALZADA DEL PANTEÓN<br>CALLE 2: TERRENO DEL PANTEÓN<br>X: 17.0559<br>Y: -96.67115]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>IDA</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CALZADA DEL PANTEÓN</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>TERRENO DEL PANTEÓN</value>
+				</Data>
+				<Data name="X">
+					<value>17.0559</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67115</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67115200000001,17.0559,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-43/R-01/35-D/35</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. FERROCARRIL<br>CALLE 2: CALZADA DEL PANTEÓN<br>X: 17.05775<br>Y: -96.67009]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. FERROCARRIL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CALZADA DEL PANTEÓN</value>
+				</Data>
+				<Data name="X">
+					<value>17.05775</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67009</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67009,17.057753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-44/R-02/36-D/36</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. FERROCARRIL<br>CALLE 2: PUENTE NEGRO<br>X: 17.05789<br>Y: -96.66563]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. FERROCARRIL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>PUENTE NEGRO</value>
+				</Data>
+				<Data name="X">
+					<value>17.05789</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.66563</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.665633,17.057898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-45/R-03/37-D/37</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. FERROCARRIL<br>CALLE 2: DEL ARENAL<br>X: 17.05842<br>Y: -96.66751]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. FERROCARRIL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>DEL ARENAL</value>
+				</Data>
+				<Data name="X">
+					<value>17.05842</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.66751</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.667512,17.058429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-46/R-04/38-D/38</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: DEL ARENAL<br>CALLE 2: CAMINO NACIONAL<br>X: 17.061<br>Y: -96.66684]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>DEL ARENAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="X">
+					<value>17.061</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.66684</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.66684900000001,17.061006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-47/R-05/39-D/39</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CAMINO NACIONAL<br>CALLE 2: INDEPENDENCIA<br>X: 17.06167<br>Y: -96.67028]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>INDEPENDENCIA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06167</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67028</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67028259999999,17.0616728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-48/R-06/40-D/40</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CAMINO NACIONAL<br>CALLE 2: ANTONIO DELEON<br>X: 17.06194<br>Y: -96.6714]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>ANTONIO DELEON</value>
+				</Data>
+				<Data name="X">
+					<value>17.06194</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.6714</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67140449999999,17.0619405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-49/R-07/41-D/41</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CAMINO NACIONAL<br>CALLE 2: TERCERA PRIVADA DE GUERRERO<br>X: 17.06307<br>Y: -96.67675]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CAMINO NACIONAL</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>TERCERA PRIVADA DE GUERRERO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06307</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.67675</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67675980000001,17.0630773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-50/R-08/42-D/42</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: OXXO<br>X: 17.06388<br>Y: -96.68019]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>OXXO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06388</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.68019</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68019599999998,17.063885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-51/R-09/43-D/43</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNA<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: COLEGIO ATONALTZIN<br>X: 17.06432<br>Y: -96.68268]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>COLEGIO ATONALTZIN</value>
+				</Data>
+				<Data name="X">
+					<value>17.06432</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.68268</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.682688,17.064326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-52/R-10/9-N/43.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: LA RAYA<br>X: 17.06417<br>Y: -96.68659]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>LA RAYA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06417</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.68659</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.686592,17.064179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-53/R-11/44-D/44</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: SAN DIEGO DE LOS HORNOS<br>X: 17.06444<br>Y: -96.68894]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>SAN DIEGO DE LOS HORNOS</value>
+				</Data>
+				<Data name="X">
+					<value>17.06444</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.68894</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68894099999999,17.064449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-54/R-12/45-D/45</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNA<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: C. SIRACUZA<br>X: 17.06484<br>Y: -96.69384]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>C. SIRACUZA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06484</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.69384</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6938414,17.0648482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-55/R-13/46-D/46</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: SABINOS<br>X: 17.06477<br>Y: -96.69708]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>SABINOS</value>
+				</Data>
+				<Data name="X">
+					<value>17.06477</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.69708</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69708300000001,17.064772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-56/R-14/47-D/47</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: PARAÍSO<br>X: 17.0646<br>Y: -96.69997]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>PARAÍSO</value>
+				</Data>
+				<Data name="X">
+					<value>17.0646</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.69997</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.699974,17.06461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-57/R-15/48-D/48</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: CENTRO CULTURAL<br>X: 17.0634<br>Y: -96.70593]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CENTRO CULTURAL</value>
+				</Data>
+				<Data name="X">
+					<value>17.0634</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.70593</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.705934,17.063409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-58/R-16/49-D/49</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: NORTE 3<br>X: 17.06273<br>Y: -96.70868]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>NORTE 3</value>
+				</Data>
+				<Data name="X">
+					<value>17.06273</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.70868</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.708688,17.062739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-59/R-17/50-D/50</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. LAZARO CARDENAS<br>CALLE 2: 5 DE FEBRERO<br>X: 17.06189<br>Y: -96.71139]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. LAZARO CARDENAS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>5 DE FEBRERO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06189</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.71139</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.711392,17.061898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-60/R-18/51-D/51</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: JOSÉ MARÍA MORELOS<br>CALLE 2: CALZADA DE LA REPUBLICA<br>X: 17.06102<br>Y: -96.71488]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>JOSÉ MARÍA MORELOS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CALZADA DE LA REPUBLICA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06102</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.71488</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.714887,17.061023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-61/R-19/10-N/51.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: JOSÉ MARÍA MORELOS<br>CALLE 2: MÁRTIRES DE TACUBAYA<br>X: 17.06162<br>Y: -96.71797]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>JOSÉ MARÍA MORELOS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MÁRTIRES DE TACUBAYA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06162</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.71797</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.71797000000001,17.061623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-62/R-20/52-D/52</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: JOSÉ MARÍA MORELOS<br>CALLE 2: JOSÉ MARÍA PINO SUÁREZ<br>X: 17.06207<br>Y: -96.72035]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>JOSÉ MARÍA MORELOS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>JOSÉ MARÍA PINO SUÁREZ</value>
+				</Data>
+				<Data name="X">
+					<value>17.06207</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.72035</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7203512,17.0620738,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-63/R-21/11-N/52.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNA<br>CALLE 1: JOSÉ MARÍA MORELOS<br>CALLE 2: REFORMA<br>X: 17.06248<br>Y: -96.72237]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>JOSÉ MARÍA MORELOS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>REFORMA</value>
+				</Data>
+				<Data name="X">
+					<value>17.06248</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.72237</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.72236999999998,17.062485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-64/R-22/53-D/53</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: JOSÉ MARÍA MORELOS<br>CALLE 2: ANDADOR TURÍSTICO<br>X: 17.06285<br>Y: -96.72423]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>JOSÉ MARÍA MORELOS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>ANDADOR TURÍSTICO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06285</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.72423</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.72423099999999,17.062856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-65/R-23/12-N/53.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: JOSÉ MARÍA MORELOS<br>CALLE 2: MANUEL SABINO CRESPO<br>X: 17.06366<br>Y: -96.7282]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>JOSÉ MARÍA MORELOS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MANUEL SABINO CRESPO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06366</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7282</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7282029,17.0636678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-66/R-24/54-D/54</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: JOSÉ MARÍA MORELOS<br>CALLE 2: EL CALVARIO<br>X: 17.06408<br>Y: -96.73043]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>JOSÉ MARÍA MORELOS</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>EL CALVARIO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06408</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.73043</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73043800000002,17.0640883,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-66/R-25/55-D/55</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNA<br>CALLE 1: DIVISIÓ ORIENTE<br>CALLE 2: PLAZUELA VICENTE GUERRERO<br>X: 17.06656<br>Y: -96.73413]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>DIVISIÓ ORIENTE</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>PLAZUELA VICENTE GUERRERO</value>
+				</Data>
+				<Data name="X">
+					<value>17.06656</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.73413</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73413499999999,17.066566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-67/R-26/13-N/55.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: DIVISIÓN ORIENTE<br>CALLE 2: IGNACIO RAYÓN<br>X: 17.06825<br>Y: -96.7355]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>DIVISIÓN ORIENTE</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>IGNACIO RAYÓN</value>
+				</Data>
+				<Data name="X">
+					<value>17.06825</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7355</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73550800000001,17.068251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-68/R-27/56-D/56</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. NIÑOS HÉROES<br>CALLE 2: ALFONSO PÉREZ GASGA<br>X: 17.07092<br>Y: -96.7366]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. NIÑOS HÉROES</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>ALFONSO PÉREZ GASGA</value>
+				</Data>
+				<Data name="X">
+					<value>17.07092</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7366</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.736608,17.070925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-69/R-28/14-N/56.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: AV. NIÑOS HÉROES<br>CALLE 2: MONTES DE OCA<br>X: 17.07369<br>Y: -96.73812]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. NIÑOS HÉROES</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MONTES DE OCA</value>
+				</Data>
+				<Data name="X">
+					<value>17.07369</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.73812</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73812859999998,17.0736997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-70/R-29/15-N/56.2</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNA<br>CALLE 1: AV. NIÑOS HÉROES<br>CALLE 2: 13 DE SEPTIEMBRE<br>X: 17.07719<br>Y: -96.74027]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. NIÑOS HÉROES</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>13 DE SEPTIEMBRE</value>
+				</Data>
+				<Data name="X">
+					<value>17.07719</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74027</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74027800000002,17.0771967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-71/R-30/57-D/57</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: AV. NIÑOS HÉROES<br>CALLE 2: MONTE ALBÁN<br>X: 17.07955<br>Y: -96.7413]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>AV. NIÑOS HÉROES</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MONTE ALBÁN</value>
+				</Data>
+				<Data name="X">
+					<value>17.07955</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.7413</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74130699999999,17.079556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-72/R-31/58-D/58</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: CUAUHTEMOC<br>X: 17.0831<br>Y: -96.74369]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>CUAUHTEMOC</value>
+				</Data>
+				<Data name="X">
+					<value>17.0831</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74369</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74369900000001,17.083106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-73/R-32/59-D/59</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: 6TA NORTE<br>X: 17.0864<br>Y: -96.74511]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>6TA NORTE</value>
+				</Data>
+				<Data name="X">
+					<value>17.0864</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74511</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.745116,17.0864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-74/R-33/15-N/59.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNA<br>CALLE 1: CARRETERA 190<br>CALLE 2: STA MAGDALENA<br>X: 17.09077<br>Y: -96.74699]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>STA MAGDALENA</value>
+				</Data>
+				<Data name="X">
+					<value>17.09077</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74699</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.746994,17.090776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-75/R-34/60-D/60</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: SANTA CAROLINA<br>X: 17.09327<br>Y: -96.74806]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>SANTA CAROLINA</value>
+				</Data>
+				<Data name="X">
+					<value>17.09327</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.74806</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74806500000001,17.093271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-76/R-35/61-D/61</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: DE DIAMANTE<br>X: 17.09777<br>Y: -96.75002]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>DE DIAMANTE</value>
+				</Data>
+				<Data name="X">
+					<value>17.09777</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75002</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.750023,17.097774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-77/R-36/62-D/62</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: REFORMA<br>X: 17.10101<br>Y: -96.75141]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>REFORMA</value>
+				</Data>
+				<Data name="X">
+					<value>17.10101</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75141</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.751419,17.10102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-78/R-37/63-D/63</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: JAIME TORRES BODET<br>X: 17.10489<br>Y: -96.75309]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>JAIME TORRES BODET</value>
+				</Data>
+				<Data name="X">
+					<value>17.10489</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75309</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.753095,17.104897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-79/R-38/64-D/64</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: BRENAMIEL<br>X: 17.10863<br>Y: -96.75469]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>BRENAMIEL</value>
+				</Data>
+				<Data name="X">
+					<value>17.10863</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75469</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75469100000001,17.108632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-80/R-39/65-D/65</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: VICENTE GUERRERO<br>X: 17.11233<br>Y: -96.75627]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>VICENTE GUERRERO</value>
+				</Data>
+				<Data name="X">
+					<value>17.11233</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75627</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75627799999999,17.112334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-81/R-40/66-D/66</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: PLUTARCO ELÍAS CALLES<br>X: 17.11525<br>Y: -96.75827]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>PLUTARCO ELÍAS CALLES</value>
+				</Data>
+				<Data name="X">
+					<value>17.11525</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.75827</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75827600000001,17.115253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-82/R-41/67-D/67</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: COBAO<br>X: 17.11845<br>Y: -96.76089]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>COBAO</value>
+				</Data>
+				<Data name="X">
+					<value>17.11845</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.76089</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.76089,17.118452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-83/R-42/68-D/68</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: DIURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: A VIGUERA<br>X: 17.12212<br>Y: -96.76381]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>DIURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>A VIGUERA</value>
+				</Data>
+				<Data name="X">
+					<value>17.12212</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.76381</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.763818,17.122121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-84/R-43/16-N/68.1</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: SAN VALENTÍN<br>X: 17.12631<br>Y: -96.76731]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>SAN VALENTÍN</value>
+				</Data>
+				<Data name="X">
+					<value>17.12631</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.76731</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.76731400000001,17.126311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-85/R-44/17-N/68.2</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: AZABACHE<br>X: 17.13093<br>Y: -96.77108]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>AZABACHE</value>
+				</Data>
+				<Data name="X">
+					<value>17.13093</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.77108</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.771086,17.13093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-86/R-45/18-N/68.3</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: MORELOS<br>X: 17.13577<br>Y: -96.77466]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>MORELOS</value>
+				</Data>
+				<Data name="X">
+					<value>17.13577</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.77466</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.77466800000001,17.135778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-87/R-46/19-N/68.4</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTURNO<br>CALLE 1: CARRETERA 190<br>CALLE 2: HIDALGO<br>X: 17.1351<br>Y: -96.77478]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTURNO</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>HIDALGO</value>
+				</Data>
+				<Data name="X">
+					<value>17.1351</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.77478</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.77478600000001,17.135106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RC01-88/R-47/20-N/68.5</name>
+			<description><![CDATA[IDA/REG: REGRESO<br>DIU/NOC: NOCTUNA<br>CALLE 1: CARRETERA 190<br>CALLE 2: TRANSMISIONES AMCO<br>X: 17.13024<br>Y: -96.77084]]></description>
+			<styleUrl>#line-FF0000-5000</styleUrl>
+			<ExtendedData>
+				<Data name="IDA/REG">
+					<value>REGRESO</value>
+				</Data>
+				<Data name="DIU/NOC">
+					<value>NOCTUNA</value>
+				</Data>
+				<Data name="CALLE 1">
+					<value>CARRETERA 190</value>
+				</Data>
+				<Data name="CALLE 2">
+					<value>TRANSMISIONES AMCO</value>
+				</Data>
+				<Data name="X">
+					<value>17.13024</value>
+				</Data>
+				<Data name="Y">
+					<value>-96.77084</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.770843,17.130246,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

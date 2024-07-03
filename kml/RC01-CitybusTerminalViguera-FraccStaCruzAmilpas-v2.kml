@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RC01 trazo 26102023</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<LineStyle>
+			<color>ffab4939</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ffab4939</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Document>
+		<name>RC01 Paradas 26102023</name>
+		<Style id="icon-1899-0288D1-labelson">
+			<IconStyle>
+				<color>ffd18802</color>
+				<Icon>
+					<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="icon-1899-7CB342-labelson">
+			<IconStyle>
+				<color>ff42b37c</color>
+				<Icon>
+					<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="icon-1899-A52714-labelson">
+			<IconStyle>
+				<color>ff1427a5</color>
+				<Icon>
+					<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>6</name>
+			<description><![CDATA[descripción: PARADAS: P5<br>IDA: I5<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PLUTARCO ELIAS CALLES<br>PARADAS: P5<br>IDA: I5<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PLUTARCO ELIAS CALLES]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P5
+IDA: I5
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - PLUTARCO ELIAS CALLES</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P5</value>
+				</Data>
+				<Data name="IDA">
+					<value>I5</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - PLUTARCO ELIAS CALLES</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75873,17.115415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description><![CDATA[descripción: PARADAS: P6<br>IDA: I6<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - VICENTE GUERRERO<br>PARADAS: P6<br>IDA: I6<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - VICENTE GUERRERO]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P6
+IDA: I6
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - VICENTE GUERRERO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P6</value>
+				</Data>
+				<Data name="IDA">
+					<value>I6</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - VICENTE GUERRERO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.756557,17.112292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description><![CDATA[descripción: PARADAS: P8<br>IDA: I8<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - BRENAMIEL<br>PARADAS: P8<br>IDA: I8<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - BRENAMIEL]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P8
+IDA: I8
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - BRENAMIEL</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P8</value>
+				</Data>
+				<Data name="IDA">
+					<value>I8</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - BRENAMIEL</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.755032,17.108744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description><![CDATA[descripción: PARADAS: P11<br>IDA: I11<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - REFORMA COL. DEL MAESTRO<br>PARADAS: P11<br>IDA: I11<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - REFORMA COL. DEL MAESTRO]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P11
+IDA: I11
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - REFORMA COL. DEL MAESTRO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P11</value>
+				</Data>
+				<Data name="IDA">
+					<value>I11</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - REFORMA COL. DEL MAESTRO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.751903,17.101571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<description><![CDATA[descripción: PARADAS: P18<br>IDA: I18<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE DE LA PEPSI<br>PARADAS: P18<br>IDA: I18<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE DE LA PEPSI]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P18
+IDA: I18
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE DE LA PEPSI</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P18</value>
+				</Data>
+				<Data name="IDA">
+					<value>I18</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE DE LA PEPSI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.745239,17.085952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description><![CDATA[descripción: PARADAS: P20<br>IDA: I20<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MADERO - CALLE MONTE ALBÁN (TECNOLÓGICO)<br>PARADAS: P20<br>IDA: I20<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MADERO - CALLE MONTE ALBÁN (TECNOLÓGICO)]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P20
+IDA: I20
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CALZ. MADERO - CALLE MONTE ALBÁN (TECNOLÓGICO)</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P20</value>
+				</Data>
+				<Data name="IDA">
+					<value>I20</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CALZ. MADERO - CALLE MONTE ALBÁN (TECNOLÓGICO)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.743126,17.079321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description><![CDATA[descripción: PARADAS: P22<br>IDA: I22<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MADERO - JUAN ESCUTIA<br>PARADAS: P22<br>IDA: I22<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MADERO - JUAN ESCUTIA]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P22
+IDA: I22
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CALZ. MADERO - JUAN ESCUTIA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P22</value>
+				</Data>
+				<Data name="IDA">
+					<value>I22</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CALZ. MADERO - JUAN ESCUTIA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74109900000002,17.075637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<description><![CDATA[descripción: PARADAS: P26<br>IDA: I26<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MAEDRO - MUSEO DEL FERROCARRIL<br>PARADAS: P26<br>IDA: I26<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZ. MAEDRO - MUSEO DEL FERROCARRIL]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P26
+IDA: I26
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CALZ. MAEDRO - MUSEO DEL FERROCARRIL</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P26</value>
+				</Data>
+				<Data name="IDA">
+					<value>I26</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CALZ. MAEDRO - MUSEO DEL FERROCARRIL</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73669200000001,17.068365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29</name>
+			<description><![CDATA[descripción: PARADAS: P29<br>IDA: I29<br>REGRESO: <br>STATUS: PARADA DE TPC<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: INDEPENDENCIA - VICTORIA<br>PARADAS: P29<br>IDA: I29<br>REGRESO: <br>STATUS: PARADA DE TPC<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: INDEPENDENCIA - VICTORIA]]></description>
+			<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P29
+IDA: I29
+REGRESO: 
+STATUS: PARADA DE TPC
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: INDEPENDENCIA - VICTORIA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P29</value>
+				</Data>
+				<Data name="IDA">
+					<value>I29</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA DE TPC</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>INDEPENDENCIA - VICTORIA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73186200000001,17.063304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description><![CDATA[descripción: PARADAS: P24<br>IDA: I24<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZADA MADERO - PRIVADA VICENTE SUAREZ AUTORIZADA<br>PARADAS: P24<br>IDA: I24<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CALZADA MADERO - PRIVADA VICENTE SUAREZ AUTORIZADA]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P24
+IDA: I24
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CALZADA MADERO - PRIVADA VICENTE SUAREZ AUTORIZADA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P24</value>
+				</Data>
+				<Data name="IDA">
+					<value>I24</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CALZADA MADERO - PRIVADA VICENTE SUAREZ AUTORIZADA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73854899999999,17.072186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>89</name>
+			<description><![CDATA[descripción: PARADAS: P83<br>IDA: <br>REGRESO: R33<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE REFORMA<br>PARADAS: P83<br>IDA: <br>REGRESO: R33<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE REFORMA]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P83
+IDA: 
+REGRESO: R33
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE REFORMA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P83</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R33</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE REFORMA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.751419,17.10102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description><![CDATA[descripción: PARADAS: P13<br>IDA: I13<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - AURRERÁ<br>PARADAS: P13<br>IDA: I13<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - AURRERÁ]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P13
+IDA: I13
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - AURRERÁ</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P13</value>
+				</Data>
+				<Data name="IDA">
+					<value>I13</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - AURRERÁ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.750243,17.097525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description><![CDATA[descripción: PARADAS: P14<br>IDA: I14<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - MERCADO ZONAL<br>PARADAS: P14<br>IDA: I14<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - MERCADO ZONAL]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P14
+IDA: I14
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - MERCADO ZONAL</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P14</value>
+				</Data>
+				<Data name="IDA">
+					<value>I14</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - MERCADO ZONAL</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.748667,17.093806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<description><![CDATA[descripción: PARADAS: P19<br>IDA: I19<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PRI<br>PARADAS: P19<br>IDA: I19<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PRI]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P19
+IDA: I19
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - PRI</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P19</value>
+				</Data>
+				<Data name="IDA">
+					<value>I19</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - PRI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74402400000001,17.083154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>94</name>
+			<description><![CDATA[descripción: PARADAS: P87<br>IDA: <br>REGRESO: R37<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE VICENTE GUERRERO<br>PARADAS: P87<br>IDA: <br>REGRESO: R37<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE VICENTE GUERRERO]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P87
+IDA: 
+REGRESO: R37
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE VICENTE GUERRERO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P87</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R37</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE VICENTE GUERRERO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75627799999999,17.112334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>79</name>
+			<description><![CDATA[descripción: PARADAS: P76<br>IDA: <br>REGRESO: R26<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: AV. NIÑOS HEROES - CALLE MONTE ALBÁN<br>PARADAS: P76<br>IDA: <br>REGRESO: R26<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: AV. NIÑOS HEROES - CALLE MONTE ALBÁN]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P76
+IDA: 
+REGRESO: R26
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: AV. NIÑOS HEROES - CALLE MONTE ALBÁN</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P76</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R26</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. NIÑOS HEROES - CALLE MONTE ALBÁN</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74130699999999,17.079556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>81</name>
+			<description><![CDATA[descripción: PARADAS: P77<br>IDA: <br>REGRESO: R27<br>STATUS: PARADA CITYBUS<br>AP / PR: AUTORIZADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE CUAUHTÉMOC<br>PARADAS: P77<br>IDA: <br>REGRESO: R27<br>STATUS: PARADA CITYBUS<br>AP / PR: AUTORIZADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE CUAUHTÉMOC]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P77
+IDA: 
+REGRESO: R27
+STATUS: PARADA CITYBUS
+AP / PR: AUTORIZADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE CUAUHTÉMOC</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P77</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R27</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>AUTORIZADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE CUAUHTÉMOC</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74369900000001,17.083106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>82</name>
+			<description><![CDATA[descripción: PARADAS: P78<br>IDA: <br>REGRESO: R28<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE 6TA NORTE<br>PARADAS: P78<br>IDA: <br>REGRESO: R28<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE 6TA NORTE]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P78
+IDA: 
+REGRESO: R28
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE 6TA NORTE</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P78</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R28</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE 6TA NORTE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.745116,17.0864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31</name>
+			<description><![CDATA[descripción: PARADAS: P31<br>IDA: I31<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. INDEPENDENCIA (ALAMEDA DE LEON)<br>PARADAS: P31<br>IDA: I31<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. INDEPENDENCIA - 20 DE NOVIEMBRE]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P31
+IDA: I31
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. INDEPENDENCIA (ALAMEDA DE LEON)</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P31</value>
+				</Data>
+				<Data name="IDA">
+					<value>I31</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. INDEPENDENCIA - 20 DE NOVIEMBRE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.72618540000001,17.0622183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>85</name>
+			<description><![CDATA[descripción: PARADAS: P80<br>IDA: <br>REGRESO: R30<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADO<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - SANTA CAROLINA<br>PARADAS: P80<br>IDA: <br>REGRESO: R30<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADO<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - SANTA CAROLINA]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P80
+IDA: 
+REGRESO: R30
+STATUS: PARADA CITYBUS
+AP / PR: APROBADO
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - SANTA CAROLINA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P80</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R30</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADO</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - SANTA CAROLINA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.74806500000001,17.093271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87</name>
+			<description><![CDATA[descripción: PARADAS: P82<br>IDA: <br>REGRESO: R32<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PRIV. DE LOS PINOS<br>PARADAS: P82<br>IDA: <br>REGRESO: R32<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - PRIV. DE LOS PINOS]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P82
+IDA: 
+REGRESO: R32
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - PRIV. DE LOS PINOS</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P82</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R32</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - PRIV. DE LOS PINOS</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.750023,17.097774,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>91</name>
+			<description><![CDATA[descripción: PARADAS: P84<br>IDA: <br>REGRESO: R84<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - JAIME TORRES BODET<br>PARADAS: P84<br>IDA: <br>REGRESO: R84<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - JAIME TORRES BODET]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P84
+IDA: 
+REGRESO: R84
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - JAIME TORRES BODET</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P84</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R84</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - JAIME TORRES BODET</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.753095,17.104897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>93</name>
+			<description><![CDATA[descripción: PARADAS: P86<br>IDA: <br>REGRESO: R36<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE EL ROSARIO<br>PARADAS: P86<br>IDA: <br>REGRESO: R36<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE EL ROSARIO]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P86
+IDA: 
+REGRESO: R36
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE EL ROSARIO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P86</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R36</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE EL ROSARIO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75469100000001,17.108632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>95</name>
+			<description><![CDATA[descripción: PARADAS: P88<br>IDA: <br>REGRESO: R38<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE PLUTARCO ELIAS CALLES<br>PARADAS: P88<br>IDA: <br>REGRESO: R38<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE PLUTARCO ELIAS CALLES]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P88
+IDA: 
+REGRESO: R38
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE PLUTARCO ELIAS CALLES</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P88</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R38</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE PLUTARCO ELIAS CALLES</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75827600000001,17.115253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97</name>
+			<description><![CDATA[descripción: PARADAS: P89<br>IDA: <br>REGRESO: R39<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - COBAO<br>PARADAS: P89<br>IDA: <br>REGRESO: R39<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - COBAO]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P89
+IDA: 
+REGRESO: R39
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - COBAO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P89</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R39</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - COBAO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.76089,17.118452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>98.1</name>
+			<description><![CDATA[descripción: PARADAS: P90<br>IDA: <br>REGRESO: R40<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE VIGUERA<br>PARADAS: P90<br>IDA: <br>REGRESO: R40<br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE VIGUERA]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P90
+IDA: 
+REGRESO: R40
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE VIGUERA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P90</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R40</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE VIGUERA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.763818,17.122121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<description><![CDATA[descripción: PARADAS: P36<br>IDA: I37<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: AUTORIZADA<br>Descripción: PROPUESTA<br>descriptio: AV. LÁZARO CARDENAS - CALLE 5 DE FEBRERO<br>PARADAS: P36<br>IDA: I37<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: AUTORIZADA<br>Descripción: PROPUESTA<br>descriptio: AV. LÁZARO CARDENAS - CALLE 5 DE FEBRERO]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P36
+IDA: I37
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: AUTORIZADA
+Descripción: PROPUESTA
+descriptio: AV. LÁZARO CARDENAS - CALLE 5 DE FEBRERO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P36</value>
+				</Data>
+				<Data name="IDA">
+					<value>I37</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>AUTORIZADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LÁZARO CARDENAS - CALLE 5 DE FEBRERO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.71171799999999,17.061651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38</name>
+			<description><![CDATA[descripción: PARADAS: P38<br>IDA: I38<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: AUTORIZADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE<br>PARADAS: P38<br>IDA: I38<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: AUTORIZADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P38
+IDA: I38
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: AUTORIZADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P38</value>
+				</Data>
+				<Data name="IDA">
+					<value>I38</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>AUTORIZADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE 3 NORTE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.70888500000001,17.062556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39</name>
+			<description><![CDATA[descripción: PARADAS: P38<br>IDA: I38<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LÁZARO CARDENAS - CALLE LAGUNA DE TÉRMINO<br>PARADAS: P38<br>IDA: I38<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LÁZARO CARDENAS - CALLE LAGUNA DE TÉRMINO]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P38
+IDA: I38
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LÁZARO CARDENAS - CALLE LAGUNA DE TÉRMINO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P38</value>
+				</Data>
+				<Data name="IDA">
+					<value>I38</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LÁZARO CARDENAS - CALLE LAGUNA DE TÉRMINO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.706405,17.063138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40</name>
+			<description><![CDATA[descripción: PARADAS: P39<br>IDA: I39<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. 16 DE SEPTIEMBRE<br>PARADAS: P39<br>IDA: I39<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. 16 DE SEPTIEMBRE]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P39
+IDA: I39
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - AV. 16 DE SEPTIEMBRE</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P39</value>
+				</Data>
+				<Data name="IDA">
+					<value>I39</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - AV. 16 DE SEPTIEMBRE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.702279,17.064014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<description><![CDATA[descripción: PARADAS: P41<br>IDA: I41<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE CARRIZAL<br>PARADAS: P41<br>IDA: I41<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE CARRIZAL]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P41
+IDA: I41
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - CALLE CARRIZAL</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P41</value>
+				</Data>
+				<Data name="IDA">
+					<value>I41</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE CARRIZAL</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.699585,17.064549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42</name>
+			<description><![CDATA[descripción: PARADAS: P41<br>IDA: I41<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. CALICANTO<br>PARADAS: P41<br>IDA: I41<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. CALICANTO]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P41
+IDA: I41
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - AV. CALICANTO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P41</value>
+				</Data>
+				<Data name="IDA">
+					<value>I41</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - AV. CALICANTO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.696654,17.064612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43</name>
+			<description><![CDATA[descripción: PARADAS: P42<br>IDA: I42<br>REGRESO: <br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. JUAREZ<br>PARADAS: P42<br>IDA: I42<br>REGRESO: <br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. JUAREZ]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P42
+IDA: I42
+REGRESO: 
+STATUS: PARADA AUTORIZADA POR G-MAPS
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - AV. JUAREZ</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P42</value>
+				</Data>
+				<Data name="IDA">
+					<value>I42</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA AUTORIZADA POR G-MAPS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - AV. JUAREZ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69374999999999,17.064756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>54</name>
+			<description><![CDATA[descripción: PARADAS: P53<br>IDA: I3<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: CALLE INDEPENDENCIA - GALEANA<br>PARADAS: P53<br>IDA: I3<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: CALLE INDEPENDENCIA - CALLE ÁLVARO OBREGÓN]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P53
+IDA: I3
+REGRESO: 
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: CALLE INDEPENDENCIA - GALEANA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P53</value>
+				</Data>
+				<Data name="IDA">
+					<value>I3</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CALLE INDEPENDENCIA - CALLE ÁLVARO OBREGÓN</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6820264,17.0626953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>55</name>
+			<description><![CDATA[descripción: PARADAS: P54<br>IDA: <br>REGRESO: R4<br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: PROPUESTA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - (ESCUELA ATONALTZIN)<br>PARADAS: P54<br>IDA: <br>REGRESO: R4<br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: PROPUESTA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - (ESCUELA ATONALTZIN)]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P54
+IDA: 
+REGRESO: R4
+STATUS: PARADA AUTORIZADA POR G-MAPS
+AP / PR: PROPUESTA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - (ESCUELA ATONALTZIN)</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P54</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R4</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA AUTORIZADA POR G-MAPS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - (ESCUELA ATONALTZIN)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.682688,17.064326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>57</name>
+			<description><![CDATA[descripción: PARADAS: P56<br>IDA: <br>REGRESO: R6<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE SAN DIEFO DE LOS HORNOS<br>PARADAS: P56<br>IDA: <br>REGRESO: R6<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE SAN DIEFO DE LOS HORNOS]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P56
+IDA: 
+REGRESO: R6
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - CALLE SAN DIEFO DE LOS HORNOS</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P56</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R6</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE SAN DIEFO DE LOS HORNOS</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68894099999999,17.064449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>59</name>
+			<description><![CDATA[descripción: PARADAS: P58<br>IDA: <br>REGRESO: R8<br>STATUS: PARADA AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - C. SIRACUZA<br>PARADAS: P58<br>IDA: <br>REGRESO: R8<br>STATUS: PARADA AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - C. SIRACUZA]]></description>
+			<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P58
+IDA: 
+REGRESO: R8
+STATUS: PARADA AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - C. SIRACUZA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P58</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R8</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - C. SIRACUZA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69384100000001,17.064857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>60</name>
+			<description><![CDATA[descripción: PARADAS: P59<br>IDA: <br>REGRESO: R9<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. SABINOS<br>PARADAS: P59<br>IDA: <br>REGRESO: R9<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - AV. SABINOS]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P59
+IDA: 
+REGRESO: R9
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - AV. SABINOS</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P59</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R9</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - AV. SABINOS</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69708300000001,17.064772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>61</name>
+			<description><![CDATA[descripción: PARADAS: P60<br>IDA: <br>REGRESO: R10<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE PARAISO<br>PARADAS: P60<br>IDA: <br>REGRESO: R10<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE PARAISO]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P60
+IDA: 
+REGRESO: R10
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - CALLE PARAISO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P60</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R10</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE PARAISO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.699974,17.06461,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>62</name>
+			<description><![CDATA[descripción: PARADAS: P61<br>IDA: <br>REGRESO: R11<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE GUELATAO<br>PARADAS: P61<br>IDA: <br>REGRESO: R11<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE GUELATAO]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P61
+IDA: 
+REGRESO: R11
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - CALLE GUELATAO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P61</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R11</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE GUELATAO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.705934,17.063409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>63</name>
+			<description><![CDATA[descripción: PARADAS: P62<br>IDA: <br>REGRESO: R12<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE<br>PARADAS: P62<br>IDA: <br>REGRESO: R12<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P62
+IDA: 
+REGRESO: R12
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - CALLE 3 NORTE</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P62</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R12</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE 3 NORTE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.708688,17.062739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>64</name>
+			<description><![CDATA[descripción: PARADAS: P63<br>IDA: <br>REGRESO: R13<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 5 DE FEBRERO<br>PARADAS: P63<br>IDA: <br>REGRESO: R13<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. LAZARO CARDENAS - CALLE 5 DE FEBRERO]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P63
+IDA: 
+REGRESO: R13
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. LAZARO CARDENAS - CALLE 5 DE FEBRERO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P63</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R13</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE 5 DE FEBRERO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.711392,17.061898,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>65</name>
+			<description><![CDATA[descripción: PARADAS: P64<br>IDA: <br>REGRESO: R14<br>STATUS: PARADA AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARÍA MORELOS - CALZADA DE LA REPÚBLICA<br>PARADAS: P64<br>IDA: <br>REGRESO: R14<br>STATUS: PARADA AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARÍA MORELOS - CALZADA DE LA REPÚBLICA]]></description>
+			<styleUrl>#icon-1899-7CB342-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P64
+IDA: 
+REGRESO: R14
+STATUS: PARADA AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. JOSÉ MARÍA MORELOS - CALZADA DE LA REPÚBLICA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P64</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R14</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. JOSÉ MARÍA MORELOS - CALZADA DE LA REPÚBLICA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.714887,17.061023,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>67</name>
+			<description><![CDATA[descripción: PARADAS: P66<br>IDA: <br>REGRESO: R16<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS - CALLE JOSÉ MARÍA PINO SUÁREZ<br>PARADAS: P66<br>IDA: <br>REGRESO: R16<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS - CALLE JOSÉ MARÍA PINO SUÁREZ]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P66
+IDA: 
+REGRESO: R16
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. JOSÉ MARIA MORELOS - CALLE JOSÉ MARÍA PINO SUÁREZ</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P66</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R16</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. JOSÉ MARIA MORELOS - CALLE JOSÉ MARÍA PINO SUÁREZ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.72033399999999,17.06202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>69</name>
+			<description><![CDATA[descripción: PARADAS: P68<br>IDA: <br>REGRESO: R18<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS (ANDADOR TURISITICO)<br>PARADAS: P68<br>IDA: <br>REGRESO: R18<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS -  CALLE PORFIRIO DÍAZ]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P68
+IDA: 
+REGRESO: R18
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. JOSÉ MARIA MORELOS (ANDADOR TURISITICO)</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P68</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R18</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. JOSÉ MARIA MORELOS -  CALLE PORFIRIO DÍAZ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7242313,17.062856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>70</name>
+			<description><![CDATA[descripción: PARADAS: P69<br>IDA: <br>REGRESO: R69<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS - CALLE DE MARTIRIANO ARANDA<br>PARADAS: P69<br>IDA: <br>REGRESO: R69<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. JOSÉ MARIA MORELOS - CALLE DE MARTIRIANO ARANDA]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P69
+IDA: 
+REGRESO: R69
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. JOSÉ MARIA MORELOS - CALLE DE MARTIRIANO ARANDA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P69</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R69</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. JOSÉ MARIA MORELOS - CALLE DE MARTIRIANO ARANDA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73043800000002,17.064096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>72</name>
+			<description><![CDATA[descripción: PARADAS: P70<br>IDA: <br>REGRESO: R20<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: DIVISIÓN ORIENTE - PLAZUELA VICENTE GUERRERO<br>PARADAS: P70<br>IDA: <br>REGRESO: R20<br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: DIVISIÓN ORIENTE - PLAZUELA VICENTE GUERRERO]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P70
+IDA: 
+REGRESO: R20
+STATUS: PARADA NO AUTORIZADA
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: DIVISIÓN ORIENTE - PLAZUELA VICENTE GUERRERO</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P70</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R20</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>DIVISIÓN ORIENTE - PLAZUELA VICENTE GUERRERO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.73413499999999,17.066566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36</name>
+			<description><![CDATA[descripción: <br>PARADAS: P35<br>IDA: I35<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: <br>descriptio: AV. DE LA INDEPENDENCIA - PROL. DE AV. INDEDENDENCIA]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="PARADAS">
+					<value>P35</value>
+				</Data>
+				<Data name="IDA">
+					<value>I35</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+				</Data>
+				<Data name="descriptio">
+					<value>AV. DE LA INDEPENDENCIA - PROL. DE AV. INDEDENDENCIA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7157339,17.0601498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45</name>
+			<description><![CDATA[descripción: <br>PARADAS: P44<br>IDA: I44<br>REGRESO: <br>STATUS: PARADA NO AUTORIZADA<br>AP / PR: APROBADA<br>Descripción: <br>descriptio: AV. LAZARO CARDENAS - CALLE LA RAYA]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="PARADAS">
+					<value>P44</value>
+				</Data>
+				<Data name="IDA">
+					<value>I44</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA NO AUTORIZADA</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+				</Data>
+				<Data name="descriptio">
+					<value>AV. LAZARO CARDENAS - CALLE LA RAYA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68667619999999,17.0640377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description><![CDATA[descripción: <br>PARADAS: P4<br>IDA: I4<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: <br>descriptio: CORRETERA 190 - ALVARO OBREGÓN]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="PARADAS">
+					<value>P4</value>
+				</Data>
+				<Data name="IDA">
+					<value>I4</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+				</Data>
+				<Data name="descriptio">
+					<value>CORRETERA 190 - ALVARO OBREGÓN</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7611788,17.1183967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>75</name>
+			<description><![CDATA[descripción: PARADAS: P73<br>IDA: <br>REGRESO: R23<br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. NIÑOS HEROES - CALLE ALFONSO PEREZ GASGA<br>PARADAS: P73<br>IDA: <br>REGRESO: R23<br>STATUS: PARADA AUTORIZADA POR G-MAPS<br>AP / PR: APROBADA<br>Descripción: PROPUESTA<br>descriptio: AV. NIÑOS HEROES - CALLE ALFONSO PEREZ GASGA]]></description>
+			<styleUrl>#icon-1899-A52714-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P73
+IDA: 
+REGRESO: R23
+STATUS: PARADA AUTORIZADA POR G-MAPS
+AP / PR: APROBADA
+Descripción: PROPUESTA
+descriptio: AV. NIÑOS HEROES - CALLE ALFONSO PEREZ GASGA</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P73</value>
+				</Data>
+				<Data name="IDA">
+				</Data>
+				<Data name="REGRESO">
+					<value>R23</value>
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA AUTORIZADA POR G-MAPS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>PROPUESTA</value>
+				</Data>
+				<Data name="descriptio">
+					<value>AV. NIÑOS HEROES - CALLE ALFONSO PEREZ GASGA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.736608,17.070925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description><![CDATA[descripción: PARADAS: P15<br>IDA: I15<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE DOS<br>PARADAS: P15<br>IDA: I15<br>REGRESO: <br>STATUS: PARADA CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - CALLE DOS]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>PARADAS: P15
+IDA: I15
+REGRESO: 
+STATUS: PARADA CITYBUS
+AP / PR: APROBADA
+Descripción: CITYBUS
+descriptio: CARRETERA 190 - CALLE DOS</value>
+				</Data>
+				<Data name="PARADAS">
+					<value>P15</value>
+				</Data>
+				<Data name="IDA">
+					<value>I15</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>PARADA CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - CALLE DOS</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.747507,17.091181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description><![CDATA[descripción: <br>PARADAS: P10<br>IDA: I10<br>REGRESO: <br>STATUS: CITYBUS<br>AP / PR: APROBADA<br>Descripción: CITYBUS<br>descriptio: CARRETERA 190 - SAN JACINTO]]></description>
+			<styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="PARADAS">
+					<value>P10</value>
+				</Data>
+				<Data name="IDA">
+					<value>I10</value>
+				</Data>
+				<Data name="REGRESO">
+				</Data>
+				<Data name="STATUS">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="AP / PR">
+					<value>APROBADA</value>
+				</Data>
+				<Data name="Descripción">
+					<value>CITYBUS</value>
+				</Data>
+				<Data name="descriptio">
+					<value>CARRETERA 190 - SAN JACINTO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.75321130000002,17.103764,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Placemark>
+		<name>MODIF 47 TERMINAL VIGERA- m</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-96.7679206,17.1264614,0 -96.767765,17.12654,0 -96.76757600000001,17.126303,0 -96.76701,17.125655,0 -96.76618500000001,17.124649,0 -96.764596,17.122574,0 -96.76452999999999,17.122368,0 -96.76434499999999,17.122162,0 -96.764202,17.122209,0 -96.76384299999998,17.121744,0 -96.76218900000001,17.119796,0 -96.761454,17.118831,0 -96.760115,17.117148,0 -96.758759,17.115475,0 -96.75803500000001,17.114637,0 -96.75721899999999,17.113619,0 -96.756941,17.113185,0 -96.756637,17.112495,0 -96.75616299999999,17.111727,0 -96.755954,17.111266,0 -96.75515699999998,17.109327,0 -96.75394900000001,17.10619,0 -96.75286800000001,17.103764,0 -96.75119100000001,17.099929,0 -96.74989100000001,17.096968,0 -96.74842999999998,17.093674,0 -96.74713400000002,17.090523,0 -96.745289,17.086356,0 -96.743753,17.082785,0 -96.743661,17.082528,0 -96.74361399999999,17.08218,0 -96.74360599999999,17.081289,0 -96.74359699999998,17.080491,0 -96.74352,17.080114,0 -96.74328200000001,17.079661,0 -96.74266799999999,17.078563,0 -96.74207800000001,17.077522,0 -96.74176299999999,17.077029,0 -96.741378,17.076332,0 -96.74123800000001,17.076118,0 -96.741195,17.075821,0 -96.741079,17.075629,0 -96.74077699999999,17.075425,0 -96.74024399999999,17.074568,0 -96.739538,17.073734,0 -96.73855899999998,17.072317,0 -96.738264,17.071833,0 -96.737745,17.070684,0 -96.737331,17.069653,0 -96.737167,17.069242,0 -96.736497,17.068085,0 -96.73587000000001,17.067112,0 -96.73576799999999,17.066972,0 -96.735658,17.066753,0 -96.735485,17.066517,0 -96.73541999999999,17.066404,0 -96.735375,17.06633,0 -96.735303,17.066173,0 -96.73502699999999,17.065844,0 -96.73438299999998,17.06487,0 -96.733739,17.064263,0 -96.732949,17.063647,0 -96.732305,17.063396,0 -96.732283,17.063414,0 -96.731205,17.063316,0 -96.729466,17.062938,0 -96.72790500000001,17.06259,0 -96.727406,17.062511,0 -96.72466799999999,17.061914,0 -96.72369500000001,17.061737,0 -96.72181999999999,17.061338,0 -96.720634,17.06109,0 -96.718096,17.060571,0 -96.71713200000001,17.06033,0 -96.71590699999999,17.060113,0 -96.71428299999999,17.060819,0 -96.714197,17.060854,0 -96.713956,17.060767,0 -96.71375599999999,17.060752,0 -96.71362999999999,17.060816,0 -96.713617,17.060998,0 -96.713595,17.061082,0 -96.712131,17.06156,0 -96.71142,17.06182,0 -96.709085,17.062525,0 -96.70797899999999,17.06283,0 -96.70643799999999,17.063189,0 -96.705162,17.063441,0 -96.70299499999999,17.063887,0 -96.700345,17.064466,0 -96.70003599999998,17.064554,0 -96.699163,17.064595,0 -96.698747,17.06462,0 -96.69828399999999,17.064662,0 -96.69776899999999,17.064725,0 -96.697093,17.064678,0 -96.69660399999999,17.064654,0 -96.696217,17.064578,0 -96.69567600000001,17.06451,0 -96.69538799999998,17.064446,0 -96.695109,17.064433,0 -96.69470799999999,17.064533,0 -96.694192,17.064724,0 -96.693758,17.064802,0 -96.693478,17.064851,0 -96.69332,17.064838,0 -96.69305199999999,17.064822,0 -96.69275899999998,17.064783,0 -96.69134200000001,17.064617,0 -96.69004,17.064503,0 -96.68908999999999,17.064349,0 -96.68844300000001,17.064268,0 -96.687253,17.064143,0 -96.68595399999998,17.063979,0 -96.68472999999999,17.064137,0 -96.68349099999999,17.064249,0 -96.682603,17.064209,0 -96.682074,17.064134,0 -96.681712,17.064058,0 -96.681556,17.064007,0 -96.6808278434893,17.06360244714795,0 -96.6798609797887,17.06358034732198,0 -96.68012466351215,17.06368419481875,0 -96.68053312165783,17.06389011234292,0 -96.68162299999999,17.063725,0 -96.68141300000001,17.064062,0 -96.68189,17.064186,0 -96.683288,17.064366,0 -96.684157,17.064245,0 -96.685885,17.064087,0 -96.686342,17.064078,0 -96.69001000000002,17.064549,0 -96.69256999999999,17.06488,0 -96.69337,17.064919,0 -96.694126,17.064766,0 -96.695058,17.064494,0 -96.695581,17.064521,0 -96.69648199999999,17.064662,0 -96.69720700000001,17.064752,0 -96.69862399999998,17.064712,0 -96.699794,17.064621,0 -96.701443,17.06432,0 -96.70459800000002,17.063667,0 -96.708775,17.062739,0 -96.713031,17.061341,0 -96.713719,17.061079,0 -96.71438999999999,17.060938,0 -96.715389,17.06109,0 -96.71961100000001,17.061873,0 -96.72149400000001,17.062273,0 -96.72434699999999,17.062798,0 -96.73007200000001,17.064032,0 -96.730959,17.064184,0 -96.731334,17.064219,0 -96.732218,17.064358,0 -96.73277899999998,17.064945,0 -96.73378799999999,17.066242,0 -96.73438500000002,17.066789,0 -96.735088,17.06752,0 -96.735558,17.0682,0 -96.73591500000001,17.068854,0 -96.736149,17.069429,0 -96.736312,17.069962,0 -96.73649399999999,17.070499,0 -96.73663400000001,17.070851,0 -96.73672199999999,17.071113,0 -96.73733,17.072182,0 -96.738191,17.073795,0 -96.73899900000001,17.074982,0 -96.73944200000001,17.075469,0 -96.73980899999999,17.07606,0 -96.740208,17.077085,0 -96.74053399999998,17.077906,0 -96.74124099999999,17.079161,0 -96.74147000000002,17.079749,0 -96.74141999999999,17.080027,0 -96.74166200000002,17.080204,0 -96.742425,17.080712,0 -96.742929,17.081171,0 -96.743174,17.081666,0 -96.743431,17.082157,0 -96.74360899999999,17.082674,0 -96.74426000000001,17.084286,0 -96.74508999999999,17.086297,0 -96.746117,17.088549,0 -96.74738600000001,17.09148,0 -96.74860299999999,17.094355,0 -96.74974799999998,17.096987,0 -96.750602,17.098998,0 -96.751677,17.101287,0 -96.75332600000002,17.105046,0 -96.754464,17.107873,0 -96.75556499999999,17.110455,0 -96.75606999999999,17.111744,0 -96.75637399999998,17.112501,0 -96.756681,17.112928,0 -96.757334,17.113976,0 -96.75871999999998,17.115845,0 -96.75983899999999,17.117061,0 -96.76210500000001,17.119834,0 -96.76388799999999,17.122086,0 -96.76402400000002,17.122384,0 -96.76415299999999,17.122559,0 -96.76437700000001,17.122743,0 -96.76496199999998,17.123426,0 -96.767084,17.125989,0 -96.768214,17.127371,0 -96.769542,17.129013,0 -96.77131100000001,17.131143,0 -96.771699,17.131645,0 -96.772711,17.132954,0 -96.77416999999998,17.134628,0 -96.77461099999999,17.135399,0 -96.77486399999999,17.136122,0 -96.77491500000001,17.136319,0 -96.77502200000001,17.136464,0 -96.775149,17.136438,0 -96.775144,17.136303,0 -96.774939,17.135856,0 -96.774581,17.135104,0 -96.774376,17.134785,0 -96.77355299999999,17.13377,0 -96.77315299999999,17.133268,0 -96.772209,17.132146,0 -96.77147700000002,17.131173,0 -96.770681,17.130293,0 -96.76984299999998,17.12924,0 -96.76900500000002,17.128176,0 -96.767797,17.126613,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

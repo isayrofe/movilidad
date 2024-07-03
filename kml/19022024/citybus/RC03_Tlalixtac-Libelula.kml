@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RC03: Tlalixtac - Libélula</name>
+	<StyleMap id="line-B2EBF2-7006-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-B2EBF2-7006-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-B2EBF2-7006-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-B2EBF2-7006-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>fff2ebb2</color>
+			<width>10.509</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-B2EBF2-7006-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>fff2ebb2</color>
+			<width>7.006</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-FFEA00-6038-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FFEA00-6038-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FFEA00-6038-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-FFEA00-6038-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00eaff</color>
+			<width>9.057</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FFEA00-6038-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00eaff</color>
+			<width>6.038</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>IDA</name>
+		<styleUrl>#line-B2EBF2-7006-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-96.6480622,17.0743183,0 -96.64970760000001,17.0746446,0 -96.65052609999998,17.0748003,0 -96.65088780000002,17.0731626,0 -96.6512043,17.0715421,0 -96.65151009999998,17.0698139,0 -96.6518105,17.0684447,0 -96.6521109,17.0671524,0 -96.65216059999999,17.0670258,0 -96.6522411,17.0669925,0 -96.65233619999999,17.0669883,0 -96.65260979999999,17.067014,0 -96.65269019999998,17.0669319,0 -96.65480919999999,17.0634909,0 -96.65603760000002,17.0616293,0 -96.65713199999999,17.0599626,0 -96.6573144,17.0597523,0 -96.65831220000001,17.0581574,0 -96.6584087,17.0580856,0 -96.658795,17.0575779,0 -96.6596425,17.0562753,0 -96.65995289999998,17.0560332,0 -96.66018489999999,17.0559678,0 -96.6651786,17.0576753,0 -96.6669455,17.0582336,0 -96.66729359999998,17.0583411,0 -96.66756780000001,17.0584029,0 -96.6677334,17.0584231,0 -96.6680667,17.0584336,0 -96.66854410000002,17.0584182,0 -96.66916640000001,17.0582746,0 -96.67172519999998,17.0575618,0 -96.672966,17.0572985,0 -96.67446459999999,17.0572335,0 -96.6756536,17.0572369,0 -96.6784967,17.0572164,0 -96.68208020000002,17.0572318,0 -96.68377929999998,17.0572882,0 -96.6842796,17.0573138,0 -96.6851881,17.0575156,0 -96.686201,17.057899,0 -96.68829220000001,17.0586165,0 -96.6953517,17.0612422,0 -96.6971037,17.0618878,0 -96.69746309999999,17.0620057,0 -96.69771390000001,17.0620536,0 -96.69843950000001,17.0620672,0 -96.69882029999999,17.0620519,0 -96.7012182,17.0614467,0 -96.70444220000002,17.0606108,0 -96.7061535,17.0601698,0 -96.7068831,17.0599287,0 -96.70764479999998,17.059539,0 -96.7084065,17.0590569,0 -96.7086801,17.058821,0 -96.70955450000001,17.0578415,0 -96.7104592,17.056751,0 -96.7113605,17.0556843,0 -96.71203369999999,17.0549971,0 -96.71253790000002,17.0546842,0 -96.71300599999999,17.054438,0 -96.7129832,17.0550689,0 -96.71290810000001,17.0559458,0 -96.71275249999999,17.0575767,0 -96.71270960000001,17.0583306,0 -96.712733,17.058497,0 -96.71279,17.058685,0 -96.71361,17.060833,0 -96.71362880000001,17.0609099,0 -96.71364749999999,17.0610561,0 -96.713728,17.0610869,0 -96.71387020000002,17.0610305,0 -96.713902,17.061016,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>REGRESO</name>
+		<styleUrl>#line-FFEA00-6038-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-96.713902,17.061016,0 -96.713622,17.0603085,0 -96.71321690000002,17.0592751,0 -96.71300770000001,17.0587725,0 -96.71293799999999,17.0585469,0 -96.71291119999999,17.0583827,0 -96.71292190000001,17.0577673,0 -96.71307210000001,17.0562493,0 -96.71325450000001,17.0546902,0 -96.71327599999999,17.0544338,0 -96.71325450000001,17.0542646,0 -96.7132008,17.0541312,0 -96.71309359999998,17.0541261,0 -96.7126602,17.0543808,0 -96.7118651,17.0549262,0 -96.71149499999999,17.0552684,0 -96.71134480000001,17.0553929,0 -96.7111034,17.0556903,0 -96.71007880000001,17.0569211,0 -96.7094645,17.057734,0 -96.7089335,17.0583468,0 -96.70853649999998,17.0587315,0 -96.70821460000001,17.0590033,0 -96.70736170000001,17.0595007,0 -96.7068896,17.0597315,0 -96.706439,17.0599213,0 -96.70570410000001,17.0600854,0 -96.70509250000001,17.0602238,0 -96.70333840000001,17.060711,0 -96.69927209999999,17.0617982,0 -96.6987652,17.0619276,0 -96.69838160000002,17.0619521,0 -96.6981993,17.0619521,0 -96.69789879999999,17.0619059,0 -96.697425,17.061803,0 -96.69715319999999,17.0617316,0 -96.6957584,17.0612803,0 -96.692352,17.0599777,0 -96.68850579999999,17.058511,0 -96.68527639999999,17.0573519,0 -96.68481499999999,17.0572494,0 -96.6841204,17.0571479,0 -96.68309840000001,17.057075,0 -96.67492300000001,17.0569622,0 -96.67301999999999,17.0570735,0 -96.6715179,17.057412,0 -96.66966189999999,17.0579453,0 -96.66851389999999,17.0582018,0 -96.6680633,17.0582838,0 -96.66756580000001,17.05823,0 -96.66702260000001,17.0580992,0 -96.66015299999999,17.0558661,0 -96.659963,17.0558427,0 -96.6598142,17.0559017,0 -96.65958750000001,17.0560683,0 -96.6583712,17.0579531,0 -96.6517243,17.0542514,0 -96.65082590000002,17.0569069,0 -96.65096,17.0569838,0 -96.64993950000002,17.0606245,0 -96.64960689999999,17.0618194,0 -96.6492689,17.0632758,0 -96.64919510000001,17.0639122,0 -96.6487808,17.0658092,0 -96.6483302,17.0678733,0 -96.6481129,17.0689451,0 -96.64730830000001,17.0730296,0 -96.64712590000001,17.0741116,0 -96.6480622,17.0743183,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Document>
+		<name>RC03  - Correcta</name>
+		<StyleMap id="icon-1899-FFD600">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-FFD600-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="icon-1899-FFD600-highlight">
+			<IconStyle>
+				<color>ff00d6ff</color>
+				<Icon>
+					<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+		</Style>
+		<Style id="icon-1899-FFD600-normal">
+			<IconStyle>
+				<color>ff00d6ff</color>
+				<Icon>
+					<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+		<Placemark>
+			<name>28</name>
+			<description><![CDATA[descripción: Speed: 9.29 km/h<br>Elevation: 1538 m<br>Time from start: 00:01:36<br>Distance from start: 423 m<br>comment: <br>visited: 1<br>activity: <br>CVE: 28 - R3<br>calle 1: Av. Ferrocarril<br>calle 2: Prolongación de la Calzada de la República]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 9.29 km/h
+Elevation: 1538 m
+Time from start: 00:01:36
+Distance from start: 423 m</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>28 - R3</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Prolongación de la Calzada de la República</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.708393,17.058834,1537.63</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29</name>
+			<description><![CDATA[descripción: Speed: 6.55 km/h<br>Elevation: 1540 m<br>Time from start: 00:02:19<br>Distance from start: 0.63 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 29 - R4<br>calle 1: Av. Ferrocarril<br>calle 2: C. Oaxaca]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.55 km/h
+Elevation: 1540 m
+Time from start: 00:02:19
+Distance from start: 0.63 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>29 - R4</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Oaxaca</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.70676200000001,17.059788,1537.53</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30</name>
+			<description><![CDATA[descripción: Speed: 13.25 km/h<br>Elevation: 1537 m<br>Time from start: 00:03:04<br>Distance from start: 0.93 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 30 - R5<br>calle 1: Av. Ferrocarril<br>calle 2: C. 12 de Octubre]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 13.25 km/h
+Elevation: 1537 m
+Time from start: 00:03:04
+Distance from start: 0.93 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>30 - R5</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. 12 de Octubre</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.70404000000001,17.060535,1535.47</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31</name>
+			<description><![CDATA[descripción: Speed: 1.98 km/h<br>Elevation: 1536 m<br>Time from start: 00:04:18<br>Distance from start: 1.26 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 31 - R6<br>calle 1: Av. Ferrocarril<br>calle 2: C. San Lucas]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 1.98 km/h
+Elevation: 1536 m
+Time from start: 00:04:18
+Distance from start: 1.26 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>31 - R6</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. San Lucas</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.70101300000002,17.061349,1536.55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32</name>
+			<description><![CDATA[descripción: Speed: 6.84 km/h<br>Elevation: 1540 m<br>Time from start: 00:05:32<br>Distance from start: 1.66 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 32 - I7<br>calle 1: Av. Ferrocarril<br>calle 2: Av. Calicanto]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.84 km/h
+Elevation: 1540 m
+Time from start: 00:05:32
+Distance from start: 1.66 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>32 - I7</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Av. Calicanto</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.697425,17.061803,1540.86</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33</name>
+			<description><![CDATA[descripción: Speed: 1.69 km/h<br>Elevation: 1537 m<br>Time from start: 00:07:48<br>Distance from start: 1.95 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 33 - R8<br>calle 1: Av. Ferrocarril<br>calle 2: Av. Juárez]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 1.69 km/h
+Elevation: 1537 m
+Time from start: 00:07:48
+Distance from start: 1.95 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>33 - R8</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Av. Juárez</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.694844,17.060879,1537.4</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34</name>
+			<description><![CDATA[descripción: Speed: 22.75 km/h<br>Elevation: 1539 m<br>Time from start: 00:10:28<br>Distance from start: 2.27 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 34 - R9<br>calle 1: Av. Ferrocarril<br>calle 2: C. Priv. de Árboles]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 22.75 km/h
+Elevation: 1539 m
+Time from start: 00:10:28
+Distance from start: 2.27 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>34 - R9</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Priv. de Árboles</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69098049999999,17.059449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35</name>
+			<description><![CDATA[descripción: Speed: 1.48 km/h<br>Elevation: 1542 m<br>Time from start: 00:11:57<br>Distance from start: 2.94 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 35 - R10<br>calle 1: Av. Ferrocarril<br>calle 2: C. Priv. de Emiliano Zapata]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 1.48 km/h
+Elevation: 1542 m
+Time from start: 00:11:57
+Distance from start: 2.94 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>35 - R10</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Priv. de Emiliano Zapata</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.686182,17.057688,1542.17</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36</name>
+			<description><![CDATA[descripción: Speed: 8.39 km/h<br>Elevation: 1542 m<br>Time from start: 00:17:32<br>Distance from start: 3.22 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 36 - I11<br>calle 1: Av. Ferrocarril<br>calle 2: C. Corintios]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 8.39 km/h
+Elevation: 1542 m
+Time from start: 00:17:32
+Distance from start: 3.22 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>36 - I11</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Corintios</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.683599,17.057099,1542.77</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<description><![CDATA[descripción: Speed: 10.55 km/h<br>Elevation: 1541 m<br>Time from start: 00:18:26<br>Distance from start: 3.47 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 37 - I12<br>calle 1: Av. Ferrocarril<br>calle 2: C. cruz de Oriente]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 10.55 km/h
+Elevation: 1541 m
+Time from start: 00:18:26
+Distance from start: 3.47 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>37 - I12</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. cruz de Oriente</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68123699999998,17.057115,1541.27</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38</name>
+			<description><![CDATA[descripción: Speed: 6.84 km/h<br>Elevation: 1540 m<br>Time from start: 00:23:05<br>Distance from start: 3.72 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 38 - I13<br>calle 1: Av. Ferrocarril<br>calle 2: C. Camino Boca del Palo]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.84 km/h
+Elevation: 1540 m
+Time from start: 00:23:05
+Distance from start: 3.72 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>38 - I13</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Camino Boca del Palo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67892500000001,17.057114,1539.11</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39</name>
+			<description><![CDATA[descripción: Speed: 15.66 km/h<br>Elevation: 1541 m<br>Time from start: 00:23:40<br>Distance from start: 3.94 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 39 - I14<br>calle 1: Av. Ferrocarril<br>calle 2: C. Macedonio Alcalá]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 15.66 km/h
+Elevation: 1541 m
+Time from start: 00:23:40
+Distance from start: 3.94 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>39 - I14</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Macedonio Alcalá</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67687599999999,17.057093,1540.74</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40</name>
+			<description><![CDATA[descripción: Speed: 7.02 km/h<br>Elevation: 1544 m<br>Time from start: 00:24:32<br>Distance from start: 4.32 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 40 - R15<br>calle 1: Av. Ferrocarril<br>calle 2: C. del Toro]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 7.02 km/h
+Elevation: 1544 m
+Time from start: 00:24:32
+Distance from start: 4.32 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>40 - R15</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. del Toro</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67326199999998,17.057124,1544.09</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<description><![CDATA[descripción: Speed: 14.51 km/h<br>Elevation: 1546 m<br>Time from start: 00:26:19<br>Distance from start: 4.67 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 41 - R 16<br>calle 1: Av. Ferrocarril<br>calle 2: C. del Panteón]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 14.51 km/h
+Elevation: 1546 m
+Time from start: 00:26:19
+Distance from start: 4.67 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>41 - R 16</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. del Panteón</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67009299999999,17.057867,1545.74</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43</name>
+			<description><![CDATA[descripción: Speed: 2.02 km/h<br>Elevation: 1551 m<br>Time from start: 00:27:58<br>Distance from start: 5.51 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 43 - R18<br>calle 1: Libramiento 5 Señores<br>calle 2: C. de Analco]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 2.02 km/h
+Elevation: 1551 m
+Time from start: 00:27:58
+Distance from start: 5.51 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>43 - R18</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Libramiento 5 Señores</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. de Analco</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.66255,17.056597,1551.16</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>44</name>
+			<description><![CDATA[descripción: Speed: 14.83 km/h<br>Elevation: 1553 m<br>Time from start: 00:29:18<br>Distance from start: 6.01 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 44 - R19<br>calle 1: Libramiento 5 Señores<br>calle 2: Carretera 190]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 14.83 km/h
+Elevation: 1553 m
+Time from start: 00:29:18
+Distance from start: 6.01 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>44 - R19</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Libramiento 5 Señores</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Carretera 190</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.65872600000002,17.057401,1552.68</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45</name>
+			<description><![CDATA[descripción: Speed: 6.73 km/h<br>Elevation: 1555 m<br>Time from start: 00:32:42<br>Distance from start: 6.6 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 45 - R20<br>calle 1: Carretera 190<br>calle 2: Ciudad Administrativa]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.73 km/h
+Elevation: 1555 m
+Time from start: 00:32:42
+Distance from start: 6.6 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>45 - R20</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Carretera 190</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Ciudad Administrativa</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.65334350000001,17.0551177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>46</name>
+			<description><![CDATA[descripción: Speed: 10.15 km/h<br>Elevation: 1555 m<br>Time from start: 00:35:49<br>Distance from start: 7.22 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 46 - R21<br>calle 1: C. Camino del Rancho<br>calle 2: C. Camino Nacional]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 10.15 km/h
+Elevation: 1555 m
+Time from start: 00:35:49
+Distance from start: 7.22 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>46 - R21</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Camino del Rancho</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Camino Nacional</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.65092399999999,17.057168,1555.52</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>47</name>
+			<description><![CDATA[descripción: Speed: 16.34 km/h<br>Elevation: 1560 m<br>Time from start: 00:37:19<br>Distance from start: 7.63 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 47 - R22<br>calle 1: C. Camino del Rancho<br>calle 2: Centro de Salud CESSA]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 16.34 km/h
+Elevation: 1560 m
+Time from start: 00:37:19
+Distance from start: 7.63 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>47 - R22</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Camino del Rancho</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Centro de Salud CESSA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.649913,17.060818,1560.04</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>49</name>
+			<description><![CDATA[descripción: Speed: 5.36 km/h<br>Elevation: 1569 m<br>Time from start: 00:39:44<br>Distance from start: 8.25 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 49 - R24<br>calle 1: C. Matamoros<br>calle 2: C. Independencia]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 5.36 km/h
+Elevation: 1569 m
+Time from start: 00:39:44
+Distance from start: 8.25 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>49 - R24</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Matamoros</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Independencia</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.648656,17.066201,1569.62</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>50</name>
+			<description><![CDATA[descripción: Speed: 17.75 km/h<br>Elevation: 1577 m<br>Time from start: 00:42:03<br>Distance from start: 8.68 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 50 - R25<br>calle 1: C. Matamoros<br>calle 2: C. Calvario]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 17.75 km/h
+Elevation: 1577 m
+Time from start: 00:42:03
+Distance from start: 8.68 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>50 - R25</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Matamoros</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Calvario</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.647846,17.070078,1576.53</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>51</name>
+			<description><![CDATA[descripción: Speed: 8.68 km/h<br>Elevation: 1580 m<br>Time from start: 00:43:06<br>Distance from start: 8.93 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 51 - R26<br>calle 1: C. Matamoros<br>calle 2: C. Gregorio Chávez]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 8.68 km/h
+Elevation: 1580 m
+Time from start: 00:43:06
+Distance from start: 8.93 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>51 - R26</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Matamoros</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Gregorio Chávez</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.64741799999999,17.072224,1579.39</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1</name>
+			<description><![CDATA[descripción: Speed: 8.82 km/h<br>Elevation: 1587 m<br>Time from start: 00:56:44<br>Distance from start: 9.23 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 01 - I1<br>calle 1: C. Miguel Cabrera<br>calle 2: C. Zaragoza]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 8.82 km/h
+Elevation: 1587 m
+Time from start: 00:56:44
+Distance from start: 9.23 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>01 - I1</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Miguel Cabrera</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Zaragoza</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.647969,17.074319,1586.09</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2</name>
+			<description><![CDATA[descripción: Speed: 7.49 km/h<br>Elevation: 1579 m<br>Time from start: 01:16:27<br>Distance from start: 9.54 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 02 - I2<br>calle 1: C. Francisco I. Madero<br>calle 2: C. Miguel Cabrera]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 7.49 km/h
+Elevation: 1579 m
+Time from start: 01:16:27
+Distance from start: 9.54 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>02 - I2</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Francisco I. Madero</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Miguel Cabrera</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.65058100000002,17.074534,1578.63</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3</name>
+			<description><![CDATA[descripción: Speed: 9.14 km/h<br>Elevation: 1570 m<br>Time from start: 01:18:56<br>Distance from start: 10.01 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 03 - I3<br>calle 1: C. Francisco I. Madero<br>calle 2: C. Calvario]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 9.14 km/h
+Elevation: 1570 m
+Time from start: 01:18:56
+Distance from start: 10.01 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>03 - I3</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Francisco I. Madero</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Calvario</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.65142799999998,17.070329,1570.69</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<description><![CDATA[descripción: Speed: 9.36 km/h<br>Elevation: 1544 m<br>Time from start: 01:21:53<br>Distance from start: 10.46 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 04 - I4<br>calle 1: C. Francisco I. Madero<br>calle 2: C. Independencia]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 9.36 km/h
+Elevation: 1544 m
+Time from start: 01:21:53
+Distance from start: 10.46 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>04 - I4</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Francisco I. Madero</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Independencia</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6520895,17.0672635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<description><![CDATA[descripción: Speed: 15.44 km/h<br>Elevation: 1559 m<br>Time from start: 01:22:57<br>Distance from start: 10.79 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 05 - I5<br>calle 1: C. Adolfo López Mateos<br>calle 2: Camino de la Cruz]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 15.44 km/h
+Elevation: 1559 m
+Time from start: 01:22:57
+Distance from start: 10.79 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>05 - I5</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Adolfo López Mateos</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Camino de la Cruz</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.654397,17.064323,1559.26</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<description><![CDATA[descripción: Speed: 5.22 km/h<br>Elevation: 1553 m<br>Time from start: 01:24:06<br>Distance from start: 11.45 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 06 - I6<br>calle 1: C. Adolfo López Mateos<br>calle 2: C. Camino Nacional]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 5.22 km/h
+Elevation: 1553 m
+Time from start: 01:24:06
+Distance from start: 11.45 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>06 - I6</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Adolfo López Mateos</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Camino Nacional</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.65766999999998,17.059264,1553.54</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<description><![CDATA[descripción: Speed: 15.66 km/h<br>Elevation: 1552 m<br>Time from start: 01:25:30<br>Distance from start: 11.65 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 08 - I8<br>calle 1: C. Libramiento 5 Señores<br>calle 2: Carretera 190]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 15.66 km/h
+Elevation: 1552 m
+Time from start: 01:25:30
+Distance from start: 11.65 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>08 - I8</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Libramiento 5 Señores</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Carretera 190</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6587,17.057787,1554.17</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<description><![CDATA[descripción: Speed: 54 km/h<br>Elevation: 1545 m<br>Time from start: 01:26:19<br>Distance from start: 12.12 km<br>comment: <br>visited: 0<br>activity: <br>CVE: 08 - I8<br>calle 1: Libramiento 5 Señores<br>calle 2: C. Espino Redondo]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 54 km/h
+Elevation: 1545 m
+Time from start: 01:26:19
+Distance from start: 12.12 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>0</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>08 - I8</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Libramiento 5 Señores</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Espino Redondo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.66208800000001,17.056673,1547.12</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<description><![CDATA[descripción: Speed: 7.16 km/h<br>Elevation: 1548 m<br>Time from start: 01:27:26<br>Distance from start: 12.72 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 09 - I9<br>calle 1: Av. Ferrocarril<br>calle 2: C. del Arenal]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 7.16 km/h
+Elevation: 1548 m
+Time from start: 01:27:26
+Distance from start: 12.72 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>09 - I9</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. del Arenal</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6677365,17.0584683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<description><![CDATA[descripción: Speed: 8.24 km/h<br>Elevation: 1541 m<br>Time from start: 01:28:04<br>Distance from start: 13.02 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 10 - I10<br>calle 1: Av. Ferrocarril<br>calle 2: C. 1° Priv de Av. Ferrocarril]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 8.24 km/h
+Elevation: 1541 m
+Time from start: 01:28:04
+Distance from start: 13.02 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>10 - I10</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. 1° Priv de Av. Ferrocarril</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67018900000001,17.058054,1542.08</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<description><![CDATA[descripción: Speed: 4.5 km/h<br>Elevation: 1542 m<br>Time from start: 01:29:09<br>Distance from start: 13.3 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 11 - I11<br>calle 1: Av. Ferrocarril<br>calle 2: C. Constitución]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 4.5 km/h
+Elevation: 1542 m
+Time from start: 01:29:09
+Distance from start: 13.3 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>11 - I11</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Constitución</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.672741,17.057388,1542</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12</name>
+			<description><![CDATA[descripción: Speed: 13.97 km/h<br>Elevation: 1539 m<br>Time from start: 01:30:42<br>Distance from start: 13.69 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 12 - I12<br>calle 1: Av. Ferrocarril<br>calle 2: C. de Morelos]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 13.97 km/h
+Elevation: 1539 m
+Time from start: 01:30:42
+Distance from start: 13.69 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>12 - I12</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. de Morelos</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6766873,17.0572945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<description><![CDATA[descripción: Speed: 6.44 km/h<br>Elevation: 1538 m<br>Time from start: 01:31:48<br>Distance from start: 13.95 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 13 - I13<br>calle 1: Av. Ferrocarril<br>calle 2: Camino del Anonal]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.44 km/h
+Elevation: 1538 m
+Time from start: 01:31:48
+Distance from start: 13.95 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>13 - I13</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Camino del Anonal</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67882299999999,17.057298,1537.71</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<description><![CDATA[descripción: Speed: 14.44 km/h<br>Elevation: 1538 m<br>Time from start: 01:32:43<br>Distance from start: 14.2 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 14 - I14<br>calle 1: Av. Ferrocarril<br>calle 2: C. 2° Priv. de Ignacio Zaragoza]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 14.44 km/h
+Elevation: 1538 m
+Time from start: 01:32:43
+Distance from start: 14.2 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>14 - I14</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. 2° Priv. de Ignacio Zaragoza</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68087010000001,17.0572825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<description><![CDATA[descripción: Speed: 14.69 km/h<br>Elevation: 1536 m<br>Time from start: 01:34:07<br>Distance from start: 14.45 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 15 - I15<br>calle 1: Av. Ferrocarril<br>calle 2: C. Juárez]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 14.69 km/h
+Elevation: 1536 m
+Time from start: 01:34:07
+Distance from start: 14.45 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>15 - I15</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Juárez</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.68349000000001,17.057307,1535.58</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<description><![CDATA[descripción: Speed: 31 km/h<br>Elevation: 1532 m<br>Time from start: 01:36:04<br>Distance from start: 14.75 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 16 - I16<br>calle 1: Av. Ferrocarril<br>calle 2: C. Emiliano Zapata]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 31 km/h
+Elevation: 1532 m
+Time from start: 01:36:04
+Distance from start: 14.75 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>16 - I16</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Emiliano Zapata</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.686201,17.057899,1532.18</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<description><![CDATA[descripción: Speed: 14.69 km/h<br>Elevation: 1534 m<br>Time from start: 01:38:54<br>Distance from start: 15.39 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 17 - I17<br>calle 1: Av. Ferrocarril<br>calle 2: C. San Diego de los Hornos]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 14.69 km/h
+Elevation: 1534 m
+Time from start: 01:38:54
+Distance from start: 15.39 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>17 - I17</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. San Diego de los Hornos</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.691864,17.059997,1534.51</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<description><![CDATA[descripción: Speed: 6.48 km/h<br>Elevation: 1534 m<br>Time from start: 01:39:43<br>Distance from start: 15.68 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 18 - I18<br>calle 1: Av. Ferrocarril<br>calle 2: Av. Juárez]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.48 km/h
+Elevation: 1534 m
+Time from start: 01:39:43
+Distance from start: 15.68 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>18 - I18</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Av. Juárez</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.6944163,17.0609409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<description><![CDATA[descripción: Speed: 12.89 km/h<br>Elevation: 1536 m<br>Time from start: 01:41:01<br>Distance from start: 15.95 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 19 - I19<br>calle 1: Av. Ferrocarril<br>calle 2: Av. Calicanto]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 12.89 km/h
+Elevation: 1536 m
+Time from start: 01:41:01
+Distance from start: 15.95 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>19 - I19</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Av. Calicanto</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69676500000001,17.061802,1536.11</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<description><![CDATA[descripción: Speed: 11.84 km/h<br>Elevation: 1530 m<br>Time from start: 01:43:24<br>Distance from start: 16.28 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 20 - I20<br>calle 1: Av. Ferrocarril<br>calle 2: C. Riveras del Río Chiquito]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 11.84 km/h
+Elevation: 1530 m
+Time from start: 01:43:24
+Distance from start: 16.28 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>20 - I20</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Riveras del Río Chiquito</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.69973299999999,17.061901,1529.06</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<description><![CDATA[descripción: Speed: 12.56 km/h<br>Elevation: 1530 m<br>Time from start: 01:44:02<br>Distance from start: 16.48 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 21 - I21<br>calle 1: Av. Ferrocarril<br>calle 2: C. Aldama]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 12.56 km/h
+Elevation: 1530 m
+Time from start: 01:44:02
+Distance from start: 16.48 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>21 - I21</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Aldama</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.70156999999999,17.061406,1529.67</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<description><![CDATA[descripción: Speed: 4.03 km/h<br>Elevation: 1530 m<br>Time from start: 01:44:42<br>Distance from start: 16.7 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 22 - I22<br>calle 1: Av. Ferrocarril<br>calle 2: C. 12 de Octubre]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 4.03 km/h
+Elevation: 1530 m
+Time from start: 01:44:42
+Distance from start: 16.7 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>22 - I22</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. 12 de Octubre</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.70360799999999,17.060851,1530.71</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<description><![CDATA[descripción: Speed: 25.45 km/h<br>Elevation: 1537 m<br>Time from start: 01:49:46<br>Distance from start: 17.45 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 24 - I24<br>calle 1: Av. Ferrocarril<br>calle 2: C. Carlos Pellicer]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 25.45 km/h
+Elevation: 1537 m
+Time from start: 01:49:46
+Distance from start: 17.45 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>24 - I24</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Carlos Pellicer</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.709626,17.057819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<description><![CDATA[descripción: Speed: 6.73 km/h<br>Elevation: 1535 m<br>Time from start: 01:50:22<br>Distance from start: 17.66 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 25 -I25<br>calle 1: Av. Ferrocarril<br>calle 2: C. Mariano Azuela]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.73 km/h
+Elevation: 1535 m
+Time from start: 01:50:22
+Distance from start: 17.66 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>25 -I25</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Mariano Azuela</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.71088499999999,17.056305,1535.05</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26</name>
+			<description><![CDATA[descripción: <br>comment: <br>visited: <br>activity: <br>CVE: 26 - R1<br>calle 1: Calzada de la República<br>calle 2: Av. de la Independencia]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>26 - R1</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Calzada de la República</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Av. de la Independencia</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.71390519999999,17.0606788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27</name>
+			<description><![CDATA[descripción: <br>comment: <br>visited: <br>activity: <br>CVE: 27 - R2<br>calle 1: Av. Ferrocarril<br>calle 2: C. Plan de Alaya]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>27 - R2</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Plan de Alaya</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.71099,17.0558537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42</name>
+			<description><![CDATA[descripción: <br>comment: <br>visited: <br>activity: <br>CVE: 42 - R17<br>calle 1: Av. Ferrocarril<br>calle 2: C. del Arenal]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>42 - R17</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. del Arenal</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.66778619999999,17.0581901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<description><![CDATA[descripción: Speed: 8.17 km/h<br>Elevation: 1530 m<br>Time from start: 01:46:02<br>Distance from start: 17.08 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 23 - I23<br>calle 1: Av. Ferrocarril<br>calle 2: Prolongación Calzada de la República]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 8.17 km/h
+Elevation: 1530 m
+Time from start: 01:46:02
+Distance from start: 17.08 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>23 - I23</value>
+				</Data>
+				<Data name="calle 1">
+					<value>Av. Ferrocarril</value>
+				</Data>
+				<Data name="calle 2">
+					<value>Prolongación Calzada de la República</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.7082831,17.0591766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48</name>
+			<description><![CDATA[descripción: Speed: 6.41 km/h<br>Elevation: 1566 m<br>Time from start: 00:38:13<br>Distance from start: 7.97 km<br>comment: <br>visited: 1<br>activity: <br>CVE: 48 - R23<br>calle 1: C. Camino del Rancho<br>calle 2: C. Camino de la Cruz]]></description>
+			<styleUrl>#icon-1899-FFD600</styleUrl>
+			<ExtendedData>
+				<Data name="descripción">
+					<value>Speed: 6.41 km/h
+Elevation: 1566 m
+Time from start: 00:38:13
+Distance from start: 7.97 km</value>
+				</Data>
+				<Data name="comment">
+				</Data>
+				<Data name="visited">
+					<value>1</value>
+				</Data>
+				<Data name="activity">
+				</Data>
+				<Data name="CVE">
+					<value>48 - R23</value>
+				</Data>
+				<Data name="calle 1">
+					<value>C. Camino del Rancho</value>
+				</Data>
+				<Data name="calle 2">
+					<value>C. Camino de la Cruz</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.64920699999999,17.063755,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Document>
+</kml>

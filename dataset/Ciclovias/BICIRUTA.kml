@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BICIRUTA" id="BICIRUTA">
+	<SimpleField name="descriptio" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMo" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="float"></SimpleField>
+	<SimpleField name="extrude" type="float"></SimpleField>
+	<SimpleField name="visibility" type="float"></SimpleField>
+	<SimpleField name="drawOrder" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>BICIRUTA</name>
+  <Placemark>
+	<name>Proletariado M.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7122261329411,17.086041760906,0 -96.7128293717874,17.085006328129,0 -96.7128642779075,17.0849330898079,0 -96.7139720196637,17.0835705388309,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Geranios</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7139674323675,17.0835744184522,0 -96.7150959881101,17.0837014344969,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Emilio Carranza</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7150920968719,17.0837007308847,0 -96.7151920051514,17.082918065016,0 -96.7153060309426,17.0819153109521,0 -96.7154746893778,17.0808990886598,0 -96.7155978049836,17.0797704664778,0 -96.7157101984294,17.0787218138722,0 -96.7158448553711,17.0775349333291,0 -96.7159774043033,17.0764622194885,0 -96.7161526899227,17.0754321282502,0 -96.7162731349497,17.074317116239,0 -96.7165442779972,17.0722915818221,0 -96.7167082817112,17.070995584327,0 -96.7167420223493,17.0707798115147,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>5 de Mayo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7167421782069,17.0707774388684,0 -96.7168761627947,17.0683561096385,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Los Pirus</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7168774310446,17.0683649508486,0 -96.7179628686637,17.0684405435372,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>C. Republica7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7179581616618,17.0684405432404,0 -96.7178606980078,17.0682652598606,0 -96.7177899275639,17.0681763353711,0 -96.7177215677644,17.0679826046841,0 -96.7176772293141,17.0678343653946,0 -96.7176722065216,17.0676710711143,0 -96.7176920190452,17.0675028835775,0 -96.7177208697441,17.0673581617576,0 -96.7178050810922,17.0669704283411,0 -96.717827679456,17.0668130849473,0 -96.7178181091874,17.0666933301087,0 -96.7178136537139,17.0665852819976,0 -96.7177774595851,17.0664946552456,0 -96.7177060857085,17.0664163573307,0 -96.7176014773028,17.0662501696754,0 -96.7174723776735,17.0660650957876,0 -96.7173548276166,17.0659128633968,0 -96.7172960894022,17.0657996841066,0 -96.7172751797627,17.0657242920499,0 -96.7172830109895,17.0656128020101,0 -96.717328598941,17.06544143966,0 -96.7173794745186,17.0652597767154,0 -96.7174201697108,17.0651273010151,0 -96.7174688617431,17.0650084096776,0 -96.7174714471493,17.0648461590936,0 -96.7174697382294,17.064753358471,0 -96.7174590627575,17.0646551712356,0 -96.7174235950575,17.0645039776972,0 -96.7173881910404,17.0643132355799,0 -96.7173634291552,17.0641728030812,0 -96.7173193356174,17.0638926027252,0 -96.7172974792476,17.0637284140167,0 -96.717286312809,17.0636260812045,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Abasolo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7172776329833,17.0635963583327,0 -96.7176702863206,17.0636723630779,0 -96.7189689970999,17.0638769905211,0 -96.7199055802537,17.0640172485682,0 -96.7209807986746,17.0642104288096,0 -96.7219800702598,17.0643554803782,0 -96.7229425327264,17.0645531692755,0 -96.7239911575197,17.064714774519,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>M. Bravo</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7239907196775,17.0647099033374,0 -96.7249172389507,17.0648916682716,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>G. Vigil</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7249093754616,17.0648764984504,0 -96.7250920568447,17.0639950231521,0 -96.725298936519,17.0629970376172,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Morelos</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7252951022246,17.0630017732019,0 -96.7272521289689,17.0634303102291,0 -96.7282170928571,17.0635830102308,0 -96.7292068591036,17.0637959930163,0 -96.7303854601605,17.0640923253027,0 -96.7306087611054,17.0641199631162,0 -96.7313195353818,17.0642018019936,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>2 de Abril</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7313228838322,17.064208594879,0 -96.732105349687,17.0643091338315,0 -96.7322354750045,17.0643590207876,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>D.Oriente</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7322366748599,17.0643509325573,0 -96.7323195615661,17.0644056107983,0 -96.732422055015,17.0645064880845,0 -96.7325676721327,17.0646708620374,0 -96.7327362983267,17.0648808754228,0 -96.7329209020004,17.0650577119091,0 -96.7332530910832,17.0654171456329,0 -96.7335399716562,17.0657881851781,0 -96.7336284869481,17.0659314599957,0 -96.7337190025754,17.0660453335921,0 -96.7338059109338,17.066153511699,0 -96.7339245175426,17.0663062525768,0 -96.7340213063763,17.0663898533352,0 -96.7343298442767,17.0666393347678,0 -96.7345541313803,17.0668469896003,0 -96.7348559999801,17.0671916555015,0 -96.735136453801,17.0675475549975,0 -96.7354664609512,17.0679883567001,0 -96.735616020486,17.0682268198507,0 -96.7356491378786,17.0682559037164,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Ignacio Rayon</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7356526590763,17.068260423341,0 -96.7363445347741,17.067950378282,0 -96.7364485573538,17.0678572797202,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Fco. I. Madero</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.736448302634,17.0678528809807,0 -96.7361598668405,17.0674153502281,0 -96.7360033709624,17.0671621610102,0 -96.735847993391,17.0669345173554,0 -96.7356077356348,17.066530444162,0 -96.7353622606421,17.066168803694,0 -96.7351195906577,17.0658041531157,0 -96.734783520982,17.0653060652406,0 -96.7344908144022,17.0649456561399,0 -96.7341527344762,17.0645731120857,0 -96.7338197408145,17.0642289877763,0 -96.7335505546853,17.0639786343621,0 -96.7332980978557,17.063812694079,0 -96.7330168287006,17.0636303310632,0 -96.7328195141709,17.0635130467499,0 -96.7325833839329,17.0633963104652,0 -96.7321109578031,17.0633137008086,0 -96.7316742134257,17.063246358376,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Independencia</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7316726550605,17.0632479861023,0 -96.7313915942868,17.0632268302287,0 -96.7304646179524,17.0630594112732,0 -96.7295023904392,17.062876119344,0 -96.7285328186092,17.0626806393499,0 -96.7275546823522,17.0624705107873,0 -96.7265356645157,17.0622406771244,0 -96.7246243877493,17.0618658181812,0 -96.7236405294656,17.0616696045689,0 -96.7217268939703,17.0612782652765,0 -96.7196651047255,17.0608475222897,0 -96.7182032742991,17.0605622491033,0 -96.7172037152993,17.0603306684339,0 -96.716173349492,17.0601122216029,0 -96.7158660655692,17.0600706609264,0 -96.7157596141053,17.0601238328335,0 -96.7149508119623,17.0605276715349,0 -96.7143550073423,17.0608044230159,0 -96.7141820633861,17.0607888853753,0 -96.7139584697704,17.0607049885727,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>C.R.8</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.717284891544,17.06363882849,0 -96.7172565620506,17.0635011998587,0 -96.7171981920133,17.0633850391392,0 -96.7170957342577,17.0632625681894,0 -96.7169505564203,17.0631141011628,0 -96.7167878479254,17.0630016895406,0 -96.7166324631514,17.0629047058113,0 -96.7165177546079,17.062824434512,0 -96.7162024193147,17.0626404325729,0 -96.7160519570723,17.0625182016016,0 -96.7159026603327,17.062389950017,0 -96.7157501938703,17.0622544598015,0 -96.7155281239155,17.0620583888198,0 -96.7153093497724,17.0618878101404,0 -96.7151318146666,17.0617146799163,0 -96.7148943653989,17.061516066591,0 -96.7147546951774,17.0613898431603,0 -96.7145825964,17.06122979763,0 -96.7144077836007,17.0610845172432,0 -96.7142840309594,17.0609801406443,0 -96.7141548001057,17.0608739087467,0 -96.7139589564504,17.0607095277744,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Blvd. Eduardo V.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7139594586875,17.0607016891549,0 -96.7138828224815,17.060698486234,0 -96.7137847203181,17.0606830670419,0 -96.7136611934153,17.0606787268963,0 -96.7135952857523,17.0606879120676,0 -96.7135200875015,17.0607306719297,0 -96.713541763993,17.0608074321282,0 -96.7135525057501,17.0609612685329,0 -96.7135748817811,17.0610435370963,0 -96.7135812996854,17.0610685110795,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Lázaro Cárdenas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.713581334491,17.0610552211418,0 -96.7116566045137,17.0616549137724,0 -96.709804080621,17.0622168040815,0 -96.708587090602,17.062585947347,0 -96.7079942849053,17.0627848223945,0 -96.7073743126053,17.0628912910239,0 -96.7069785855941,17.063008661511,0 -96.7054965335182,17.0633329696663,0 -96.7049215765044,17.063440578951,0 -96.7045208832766,17.0635462986441,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Laguna de Tamiahua</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7045115847625,17.0635499714442,0 -96.7045956918243,17.0624129933491,0 -96.7046457059056,17.0620494328297,0 -96.7047119563159,17.0615620960822,0 -96.7047771552299,17.0603973585717,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Plan de Ayala</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7107532441115,17.0560841348073,0 -96.7111285330134,17.053761083377,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Reforma Agraria</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7111258223719,17.0538331391056,0 -96.7113706483607,17.0521487832619,0 -96.7124901492762,17.0522675810811,0 -96.7131019263336,17.0523381798927,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Av. Universidad</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7130911077842,17.0523379353266,0 -96.7132569249334,17.0513328336827,0 -96.7134429593134,17.0500280277984,0 -96.7135974614248,17.0491769027431,0 -96.7136983099103,17.0482885405103,0 -96.7138680502166,17.0483015639411,0 -96.7143778385335,17.0453130432356,0 -96.7145014837952,17.0442479665043,0 -96.7144850053855,17.043893038539,0 -96.7144273070674,17.0435912598664,0 -96.7142620576315,17.0433002368419,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>5 de Febrero</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7115493241115,17.0617438151267,0 -96.711449637954,17.0627530232092,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Del Refugio</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7114515798494,17.0627378568188,0 -96.7126980999859,17.0628465705045,0 -96.7135139386644,17.0629281000498,0 -96.7141072932957,17.0630174055792,0 -96.7141996068026,17.0630410797686,0 -96.7145304685427,17.0631016048986,0 -96.7155367840467,17.0632743371201,0 -96.7172642294928,17.0635735557662,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>C. Republica</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7172272584918,17.06356536071,0 -96.7174182106976,17.0646518380084,0 -96.7174510857034,17.0648342418024,0 -96.7174669706136,17.0649609759259,0 -96.7172530029826,17.065573540814,0 -96.7172600914512,17.0658276796662,0 -96.717718393202,17.0664832820912,0 -96.7177783203288,17.0668322797665,0 -96.7177742415307,17.0669706041949,0 -96.7176694155531,17.0674288332542,0 -96.7176487314547,17.0676700011755,0 -96.7176599367795,17.0679290765028,0 -96.7177899226371,17.0681761950293,0 -96.7179320227929,17.0684388564633,0 -96.7179784964726,17.0686365199846,0 -96.7179557471627,17.0688238854575,0 -96.7177792227038,17.069262894713,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Antequera</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7177726979491,17.0692592056765,0 -96.7174293724934,17.0692897724898,0 -96.7167866112204,17.0692451232731,0 -96.7158082268224,17.0691851750934,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Aldama</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7158139158529,17.0691805183028,0 -96.7157471324875,17.0696008642278,0 -96.7157359081851,17.0700742153728,0 -96.7156667651402,17.070576471079,0 -96.7156602730077,17.0707368592745,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Amapolas</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7156590067536,17.0707338033282,0 -96.7155660779338,17.0715618959793,0 -96.7154158414671,17.0726524887343,0 -96.7153456226164,17.0731344261979,0 -96.7151051465818,17.0740626608063,0 -96.715001038478,17.0751459608115,0 -96.7148959636325,17.0762466247397,0 -96.7147328334835,17.0772914079712,0 -96.7145713861118,17.0784808047986,0 -96.7144307945717,17.0795313647615,0 -96.7142642386816,17.0806605275382,0 -96.7141081952782,17.0816966254837,0 -96.7139699954142,17.0827188370755,0 -96.7138856426319,17.0835102733832,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Proletariado M.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BICIRUTA">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-96.7120868146807,17.0859982121966,0 -96.7126186794932,17.0850506614422,0 -96.7127216710515,17.0849039245162,0 -96.7138869717516,17.0834963396343,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

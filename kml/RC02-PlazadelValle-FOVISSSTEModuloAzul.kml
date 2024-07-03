@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AJUSTADA_ 25 MODULO AZUL</name>
+	<open>1</open>
+	<StyleMap id="icon-1899-9C27B0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-9C27B0-highlight">
+		<IconStyle>
+			<color>ffb0279c</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-9C27B0-normal">
+		<IconStyle>
+			<color>ffb0279c</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-1899-C2185B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1899-C2185B-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1899-C2185B-highlight">
+		<IconStyle>
+			<color>ff5b18c2</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1899-C2185B-normal">
+		<IconStyle>
+			<color>ff5b18c2</color>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+			<hotSpot x="32" y="64" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="line-FF5500-3000-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-FF5500-3000-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-FF5500-3000-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="line-FF5500-3000-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>4.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-FF5500-3000-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>P-01</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-01<br>Regreso: <br>Descripción: Av. Universidad (Sam's Club)<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-01</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Universidad (Sam&apos;s Club)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71050200000001,17.038139,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-02</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-02<br>Regreso: <br>Descripción: Av. Universidad (KFC)<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-02</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Universidad (KFC)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71156980000001,17.0402116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-03</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-03<br>Regreso: <br>Descripción: Vicente Guerrero - La Era<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-03</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Vicente Guerrero - La Era</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7173439,17.0447459,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-04</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-04<br>Regreso: <br>Descripción: Vicente Guerrero - La Luz<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-04</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Vicente Guerrero - La Luz</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7186516,17.0449371,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-05</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-05<br>Regreso: <br>Descripción: Vicente Guerrero - Av. Símbolos Patrios<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-05</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Vicente Guerrero - Av. Símbolos Patrios</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72229900000001,17.0455743,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-06</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-06<br>Regreso: <br>Descripción: Av. Símbolos Patrios - Puerto Mazatlán<br>descriptio: Paradero DIF<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-06</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios - Puerto Mazatlán</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero DIF</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7230124,17.046506,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-07</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-07<br>Regreso: <br>Descripción: Av. Símbolos Patrios  (Termino del Camellón)<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-07</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios  (Termino del Camellón)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72434870000001,17.0483713,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-08</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-08<br>Regreso: <br>Descripción: Av. Símbolos Patrios - Periférico<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-08</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios - Periférico</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7260886,17.0506173,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-09</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-09<br>Regreso: <br>Descripción: Carlos María Bustamante - Moctezuma<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobado]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-09</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Carlos María Bustamante - Moctezuma</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobado</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7263464,17.0534055,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-10</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-10<br>Regreso: <br>Descripción: Carlos María Bustamante - Burgoa<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-10</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Carlos María Bustamante - Burgoa</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7259512,17.0552941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-11</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-11<br>Regreso: <br>Descripción: Francisco Javier Mina - 20 de Noviembre<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-11</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Francisco Javier Mina - 20 de Noviembre</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72736600000002,17.0576357,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-12</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-12<br>Regreso: <br>Descripción: Días Ordaz - Las Casas<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-12</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Días Ordaz - Las Casas</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72898429999999,17.0598436,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-13</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-13<br>Regreso: <br>Descripción: Díaz Ordaz - Miguel Hidalgo<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-13</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Díaz Ordaz - Miguel Hidalgo</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7286165,17.061644,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-14</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-14<br>Regreso: <br>Descripción: Manuel Sabino Crespo - José Maria Morelos<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-14</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Manuel Sabino Crespo - José Maria Morelos</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7282392,17.0635271,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-15</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-15<br>Regreso: <br>Descripción: Manuel Sabino Crespo (Asilo)<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-15</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Manuel Sabino Crespo (Asilo)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7276342,17.066606,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-16</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-16<br>Regreso: <br>Descripción: Manuel Sabino Crespo (Sin referencia)<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-16</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Manuel Sabino Crespo (Sin referencia)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7274518,17.0680277,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-17</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-17<br>Regreso: <br>Descripción: Manuel Sabino Crespo - Faustino G. Olivera<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-17</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Manuel Sabino Crespo - Faustino G. Olivera</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72754949999998,17.070171,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-18</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-18<br>Regreso: <br>Descripción: Manuel Sabino Crespo - Niños Héroes de Chapultepec<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-18</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Manuel Sabino Crespo - Niños Héroes de Chapultepec</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72709519999999,17.0725577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-19</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-19<br>Regreso: <br>Descripción: Carretera 190 - Porfirio Díaz<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-19</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Carretera 190 - Porfirio Díaz</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7245008,17.0724355,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-20</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-20<br>Regreso: <br>Descripción: Carretera 190 - Priv. de la Reforma<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-20</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Carretera 190 - Priv. de la Reforma</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72127320000001,17.0718535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-21</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-21<br>Regreso: <br>Descripción: Netzahualcóyotl - Priv. de Almendros<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-21</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Netzahualcóyotl - Priv. de Almendros</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71766679999999,17.0728146,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-23</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-23<br>Regreso: <br>Descripción: Emiliano Zapata - Heroica Escuela Naval Militar<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-23</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Emiliano Zapata - Heroica Escuela Naval Militar</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71680600000002,17.078559,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-24</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-24<br>Regreso: <br>Descripción: Emiliano Zapata - Av. Fuerza Aérea Mexicana<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-24</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Emiliano Zapata - Av. Fuerza Aérea Mexicana</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71646,17.080872,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-25</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-25<br>Regreso: <br>Descripción: Dr- Mario Pérez Ramírez (Hospital)<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-25</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Dr- Mario Pérez Ramírez (Hospital)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7182803,17.082703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-27</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-27<br>Regreso: <br>Descripción: Calz. San Felipe del Agua - Av. México 68<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-27</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. San Felipe del Agua - Av. México 68</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71725120000001,17.0885422,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-26</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-26<br>Regreso: <br>Descripción: Calz. San Felipe del Agua (CBTIS)<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-26</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. San Felipe del Agua (CBTIS)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71817350000001,17.0856937,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-28</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-28<br>Regreso: <br>Descripción: Av. México 68 - Av. de las Etnias<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-28</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Av. México 68 - Av. de las Etnias</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71486229999998,17.0876453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-29 Finaliza Ida</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-29<br>Regreso: <br>Descripción: Av. México 68 (Monumento 1ero de Mayo)<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-29</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Av. México 68 (Monumento 1ero de Mayo)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.712373,17.08634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-31</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-02<br>Descripción: Calz. San Felipe del Agua - Florencia<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-02</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. San Felipe del Agua - Florencia</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71750280000002,17.0884832,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-30</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-01<br>Descripción: Av. México 68 - Av. de las Etnias<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-01</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. México 68 - Av. de las Etnias</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7140632,17.0873308,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-32</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-03<br>Descripción: Calz. San Felipe del Agua (CBTIS)<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-03</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. San Felipe del Agua (CBTIS)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7184625,17.0854966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-33</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-04<br>Descripción: Calz. Porfirio Díaz (Fuente 8 Regiones)<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-04</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. Porfirio Díaz (Fuente 8 Regiones)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7191742,17.082122,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-34</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-05<br>Descripción: Calz. Porfirio Díaz - Heroica Escuela Naval Militar<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-05</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. Porfirio Díaz - Heroica Escuela Naval Militar</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7193599,17.0792969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-35</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-06<br>Descripción: Calz. Porfirio Díaz - Av. Belisario Domínguez<br>descriptio: Paradero TPC<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-06</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. Porfirio Díaz - Av. Belisario Domínguez</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Paradero TPC</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71976220000001,17.0759269,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-36</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-07<br>Descripción: Calz. Porfirio Díaz - Carretera 190<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-07</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Calz. Porfirio Díaz - Carretera 190</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71967330000001,17.0722653,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-38</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-09<br>Descripción: Av. Benito Juárez - Berriozábal<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-09</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Benito Juárez - Berriozábal</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7203876,17.0674532,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-37</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-08<br>Descripción: Av. Benito Juárez (El Llano)<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-08</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Benito Juárez (El Llano)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7200167,17.0694064,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-39</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-10<br>Descripción: Av. Benito Juárez - Constitución<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-10</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Benito Juárez - Constitución</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7208533,17.0653903,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-40</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-11<br>Descripción: Av. Benito Juárez - Murguia<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-11</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Benito Juárez - Murguia</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7212966,17.0633038,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-42</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-13<br>Descripción: Melchor Ocampo - Rayón<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-13</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Melchor Ocampo - Rayón</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7225303,17.0576855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-41</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-12<br>Descripción: Av. Benito Juárez - de la Independencia<br>descriptio: Parada Autorizada en Gmaps<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-12</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Benito Juárez - de la Independencia</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada en Gmaps</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7216851,17.0614362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-43</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-14<br>Descripción: Arteaga - Manuel Fernández Fiallo<br>descriptio: Parada Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-14</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Arteaga - Manuel Fernández Fiallo</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72361799999999,17.056894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-44</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-15<br>Descripción: Armenta y López - Burgoa<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-15</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Armenta y López - Burgoa</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72476189999999,17.0564535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-45</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-16<br>Descripción: Armenta y López - Vega<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-16</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Armenta y López - Vega</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7253824,17.0533945,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-46</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-17<br>Descripción: Armenta y López - Eduardo Mata<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-17</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Armenta y López - Eduardo Mata</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72583209999999,17.0513299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-47</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-18<br>Descripción: Av. Símbolos Patrios - Lázaro Cárdenas<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-18</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios - Lázaro Cárdenas</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72469349999999,17.0482656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-48</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-19<br>Descripción: Av. Símbolos Patrios - Pdte. Lic. Benito Juárez<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-19</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios - Pdte. Lic. Benito Juárez</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72345489999999,17.0465115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-49</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-20<br>Descripción: Av. Símbolos Patrios - Ignacio de la Llave<br>descriptio: Parada no Autorizada <br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-20</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios - Ignacio de la Llave</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.72115129999999,17.0433045,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-50</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-21<br>Descripción: Av. Símbolos Patrios (Michelin)<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-21</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios (Michelin)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71829220000001,17.0393649,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-51</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-22<br>Descripción: Av. Símbolos Patrios - Fresnos<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-22</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Símbolos Patrios - Fresnos</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7153019,17.0351312,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-52 Finaliza Regreso</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: <br>Regreso: R-23<br>Descripción: Av. Universidad (Camiones Oaxaca)<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-C2185B</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+			</Data>
+			<Data name="Regreso">
+				<value>R-23</value>
+			</Data>
+			<Data name="Descripción">
+				<value>Av. Universidad (Camiones Oaxaca)</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.71084940000001,17.0376701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>P-22</name>
+		<visibility>0</visibility>
+		<description><![CDATA[Ida: I-22<br>Regreso: <br>Descripción: Emiliano Zapata - Belisario Domínguez<br>descriptio: Parada no Autorizada<br>Estructura Disponible: Aprobada]]></description>
+		<styleUrl>#icon-1899-9C27B0</styleUrl>
+		<ExtendedData>
+			<Data name="Ida">
+				<value>I-22</value>
+			</Data>
+			<Data name="Regreso">
+			</Data>
+			<Data name="Descripción">
+				<value>Emiliano Zapata - Belisario Domínguez</value>
+			</Data>
+			<Data name="descriptio">
+				<value>Parada no Autorizada</value>
+			</Data>
+			<Data name="Estructura Disponible">
+				<value>Aprobada</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-96.7171738,17.0757965,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MODIF. 25 MODULO AZUL. m</name>
+		<styleUrl>#line-FF5500-3000-nodesc</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-96.706682,17.036997,0 -96.709084,17.037568,0 -96.71008900000001,17.037774,0 -96.710551,17.037888,0 -96.710992,17.037817,0 -96.71088899999999,17.039182,0 -96.71137200000001,17.039789,0 -96.71367600000001,17.042662,0 -96.71565199999999,17.044479,0 -96.71710299999999,17.044716,0 -96.71983499999999,17.045144,0 -96.722449,17.045568,0 -96.725325,17.049477,0 -96.72578800000001,17.050083,0 -96.726394,17.050918,0 -96.726789,17.05149,0 -96.72633999999999,17.053504,0 -96.725537,17.057258,0 -96.72579099999999,17.057294,0 -96.72692499999999,17.057525,0 -96.729437,17.058005,0 -96.728602,17.061965,0 -96.727704,17.066452,0 -96.72747200000001,17.067723,0 -96.72762100000001,17.069308,0 -96.72769700000001,17.069633,0 -96.727509,17.070659,0 -96.72705499999999,17.072981,0 -96.726874,17.073181,0 -96.725022,17.072608,0 -96.722352,17.072201,0 -96.719701,17.071568,0 -96.71867399999999,17.07142,0 -96.71860700000001,17.071526,0 -96.71854899999998,17.071726,0 -96.717946,17.072452,0 -96.71758900000002,17.073142,0 -96.71714799999999,17.076301,0 -96.71671199999999,17.079837,0 -96.716531,17.081212,0 -96.717521,17.081375,0 -96.71736799999999,17.082508,0 -96.719211,17.082858,0 -96.718619,17.084577,0 -96.71782200000001,17.086925,0 -96.71749500000001,17.088016,0 -96.717179,17.088842,0 -96.717049,17.088895,0 -96.71668,17.088724,0 -96.71454199999999,17.087388,0 -96.71337599999998,17.086751,0 -96.71264000000001,17.08649,0 -96.712198,17.086332,0 -96.71211499999998,17.086095,0 -96.71177400000002,17.086178,0 -96.71177299999999,17.086422,0 -96.712164,17.08644,0 -96.71324000000001,17.08678,0 -96.71433799999998,17.087382,0 -96.717079,17.089057,0 -96.71732500000002,17.089043,0 -96.71890699999999,17.083922,0 -96.71934700000001,17.082818,0 -96.71901399999999,17.08267,0 -96.719082,17.082191,0 -96.71890500000001,17.081764,0 -96.71911900000001,17.080471,0 -96.719173,17.079089,0 -96.71924799999999,17.078818,0 -96.719526,17.076771,0 -96.719666,17.075686,0 -96.71961199999998,17.075035,0 -96.71948500000002,17.074742,0 -96.71932800000002,17.07454,0 -96.71943400000001,17.0743,0 -96.719455,17.073783,0 -96.71966199999999,17.071671,0 -96.720056,17.068848,0 -96.72112300000001,17.064027,0 -96.721941,17.060145,0 -96.722661,17.056726,0 -96.72454399999999,17.057137,0 -96.72518400000001,17.054141,0 -96.725837,17.051179,0 -96.72596900000001,17.050669,0 -96.72606100000002,17.05034,0 -96.72532,17.049298,0 -96.724515,17.048268,0 -96.72298299999999,17.046194,0 -96.720799,17.042976,0 -96.71921499999999,17.040941,0 -96.71724600000002,17.038072,0 -96.71529399999999,17.035334,0 -96.71406700000001,17.033711,0 -96.713779,17.033738,0 -96.712233,17.035816,0 -96.71104500000001,17.03757,0 -96.71093399999999,17.037699,0 -96.710802,17.037777,0 -96.71040399999998,17.037696,0 -96.709785,17.037565,0 -96.7077,17.03714,0 -96.706625,17.036861,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
