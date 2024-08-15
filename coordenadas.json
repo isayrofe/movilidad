@@ -10,7 +10,7 @@
             "longitud": "-96.843208"
         },
         {
-            "nombre": "SAN JUAN BAUTISTA CUICATLÃN",
+            "nombre": "SAN JUAN BAUTISTA CUICATLÁN",
             "region": "CAÑADA",
             "horario": "9:00 a 15:00 hrs",
             "telefono": "9512224568",
@@ -64,7 +64,7 @@
             "longitud": "-96.46867194"
         },
         {
-            "nombre": "RÃO GRANDE",
+            "nombre": "RÍO GRANDE",
             "region": "COSTA",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
@@ -154,7 +154,7 @@
             "longitud": "-97.7834229"
         },
         {
-            "nombre": "NOCHIXTLÃN",
+            "nombre": "NOCHIXTLÁN",
             "region": "MIXTECA",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
@@ -462,7 +462,7 @@
             "longitud": "-96.46867194"
         },
         {
-            "nombre": "RÃO GRANDE",
+            "nombre": "RÍO GRANDE",
             "region": "COSTA",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
@@ -739,6 +739,61 @@
             "direccion": "MATAMOROS #203,  COL. CENTRO,  OCOTLÁN DE MORELOS OAX.",
             "latitud": "16.79172963",
             "longitud": "-96.6720321"
+        }
+    ],
+    "Concesiones": [
+        {
+            "nombre": "CARLOS GRACIDA",
+            "region": "VALLES CENTRALES (Z. METROPOLITANA)",
+            "horario": "9:00 a 17:00 hrs",
+            "telefono": "9512224568",
+            "direccion": "AV. CARLOS GRACIDA NÚMERO 9,  SAN ANTONIO DE LA CAL,  C.P. 71236, OAX",
+            "latitud": "17.03329379",
+            "longitud": "-96.71296587"
+        }
+    ],
+    "Sistemas": [
+        {
+            "nombre": "CARLOS GRACIDA",
+            "region": "VALLES CENTRALES (Z. METROPOLITANA)",
+            "horario": "9:00 a 17:00 hrs",
+            "telefono": "9512224568",
+            "direccion": "AV. CARLOS GRACIDA NÚMERO 9,  SAN ANTONIO DE LA CAL,  C.P. 71236, OAX",
+            "latitud": "17.03329379",
+            "longitud": "-96.71296587"
+        }
+    ],
+    "Planeacion": [
+        {
+            "nombre": "CARLOS GRACIDA",
+            "region": "VALLES CENTRALES (Z. METROPOLITANA)",
+            "horario": "9:00 a 17:00 hrs",
+            "telefono": "9512224568",
+            "direccion": "AV. CARLOS GRACIDA NÚMERO 9,  SAN ANTONIO DE LA CAL,  C.P. 71236, OAX",
+            "latitud": "17.03329379",
+            "longitud": "-96.71296587"
+        }
+    ],
+    "Operacion": [
+        {
+            "nombre": "CARLOS GRACIDA",
+            "region": "VALLES CENTRALES (Z. METROPOLITANA)",
+            "horario": "9:00 a 17:00 hrs",
+            "telefono": "9512224568",
+            "direccion": "AV. CARLOS GRACIDA NÚMERO 9,  SAN ANTONIO DE LA CAL,  C.P. 71236, OAX",
+            "latitud": "17.03329379",
+            "longitud": "-96.71296587"
+        }
+    ],
+    "Juridico": [
+        {
+            "nombre": "CARLOS GRACIDA",
+            "region": "VALLES CENTRALES (Z. METROPOLITANA)",
+            "horario": "9:00 a 17:00 hrs",
+            "telefono": "9512224568",
+            "direccion": "AV. CARLOS GRACIDA NÚMERO 9,  SAN ANTONIO DE LA CAL,  C.P. 71236, OAX",
+            "latitud": "17.03329379",
+            "longitud": "-96.71296587"
         }
     ]
 }

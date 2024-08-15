@@ -1,6 +1,6 @@
 [
   {
-    "id": "tramite1",
+    "id": "dirlicemp1",
     "titulo": "Alta de vehículos nuevos",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -199,8 +199,8 @@
         "correo": "selena.martinez@semovioaxaca.gob.mx"
       }
     },
-    "fundamento_legal": {
-      "ley": [
+    "fundamento_legal": 
+       [
         {
           "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
           "ley": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca",
@@ -239,12 +239,11 @@
           "publicacion": "PPOE 15-12-2012"
           
         }
-      ]
-    },
+    ],
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite2",
+    "id": "dirlicemp2",
     "titulo": "Alta otra entidad",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -407,8 +406,8 @@
         "correo": "selena.martinez@semovioaxaca.gob.mx"
       }
     },
-    "fundamento_legal": {
-      "ley": [
+    "fundamento_legal": 
+      [
         {
           "articulo": "",
           "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
@@ -451,12 +450,11 @@
           "publicacion": "PPOE 15-12-2012"
           
         }
-      ]
-    },
+    ],
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite3",
+    "id": "dirlicemp3",
     "titulo": "Refrendo (Pago de tenencia y tarjeta de circulación)",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -647,7 +645,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite4",
+    "id": "dirlicemp4",
     "titulo": "Baja vehicular servicio particular - robado o siniestrado",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -812,7 +810,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite5",
+    "id": "dirlicemp5",
     "titulo": "Baja vehicular servicio público - robado o siniestrado",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -995,7 +993,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite6",
+    "id": "dirlicemp6",
     "titulo": "Canje de Placas servicio particular",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1147,7 +1145,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite7",
+    "id": "dirlicemp7",
     "titulo": "Canje de Placas Servicio Público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1156,7 +1154,7 @@
     "descripcion": "Canje de Placas Vehicular del Estado de Oaxaca.",
     "queobtengo": "Placa y Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -1314,7 +1312,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite8",
+    "id": "dirlicemp8",
     "titulo": "Cambio de Propietario",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1323,7 +1321,7 @@
     "descripcion": "Realizar la actualización de la propiedad del vehículo en el Padrón Vehicular del Estado de Oaxaca para la expedición de placa y tarjetas de circulación a favor del interesado.",
     "queobtengo": "Placa y Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -1463,7 +1461,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite9",
+    "id": "dirlicemp9",
     "titulo": "Placas de Demostración",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1472,7 +1470,7 @@
     "descripcion": "Podrán adquirir placas de demostración los fabricantes, las plantas ensambladoras, distribuidores de vehículos automotores nuevos, que tengan su domicilio fiscal dentro del territorio del Estado de Oaxaca.",
     "queobtengo": "Placa y Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Representante legal",
@@ -1588,7 +1586,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite10",
+    "id": "dirlicemp10",
     "titulo": "Refrendo Placas de Demostración",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1597,7 +1595,7 @@
     "descripcion": "Pago del uso, goce o aprovechamiento de placas para vehículos de demostración.",
     "queobtengo": "Placa y Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Representante legal",
@@ -1696,7 +1694,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite11",
+    "id": "dirlicemp11",
     "titulo": "Baja de Placas de Demostración",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1705,7 +1703,7 @@
     "descripcion": "Dar aviso y realizar el trámite de baja de las placas de demostración del Estado de Oaxaca ante la Secretaría de Movilidad.",
     "queobtengo": "Placa y Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Representante legal",
@@ -1818,7 +1816,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite12",
+    "id": "dirconcesion1",
     "titulo": "Alta de vehículo",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1827,7 +1825,7 @@
     "descripcion": "Se realiza el alta de vehículo cuando por primera vez se obtiene un título de concesión o por una transferencia de concesión.",
     "queobtengo": "Alta de vehículo",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "quipuedehacerlo": [
       "Concesionario",
@@ -1935,7 +1933,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite13",
+    "id": "dirconcesion2",
     "titulo": "Cambio de vehículo",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -1944,7 +1942,7 @@
     "descripcion": "Se realiza el cambio de vehículo cuando el vehículo con el que se está prestando el servicio de transporte público ya no está permitido por la Ley o cuando sufre un percance y no es apto para seguir operando.",
     "queobtengo": "Cambio de vehículo",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "quipuedehacerlo": [
       "Concesionario",
@@ -2053,7 +2051,7 @@
     "fecha_actualizacion": "20-06-2024"
   },
   {
-    "id": "tramite14",
+    "id": "dirconcesion3",
     "titulo": "Prórroga de vehículo",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2062,7 +2060,7 @@
     "descripcion": "Se realiza la prórroga de vehículo cuando el vehículo con el que se está operando ya no es permitido por la ley.",
     "queobtengo": "Prórroga de vehículo",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "quipuedehacerlo": [
       "Concesionario",
@@ -2159,7 +2157,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite15",
+    "id": "dirlicemp12",
     "titulo": "Permiso provisional para circular sin placas y tarjetas de circulación del servicio particular válido por 30 días",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2168,7 +2166,7 @@
     "descripcion": "Permiso provisional temporal para circular dentro y fuera de la entidad, vehículo nuevo y seminuevo (nacionales y extranjeros).",
     "queobtengo": "Permiso Provisional",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Representante legal",
@@ -2262,7 +2260,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite16",
+    "id": "dirconcesion4",
     "titulo": "Cambio de motor",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2271,7 +2269,7 @@
     "descripcion": "Se realiza el cambio de motor cuando el motor del vehículo con el que se está prestando el servicio de transporte público se daña.",
     "queobtengo": "Cambio de motor",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "quipuedehacerlo": [
       "Concesionario",
@@ -2370,7 +2368,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite17",
+    "id": "dirconcesion5",
     "titulo": "Permiso provisional para el servicio público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2379,7 +2377,7 @@
     "descripcion": "Es la autorización para prestar el servicio de transporte público sin placas cuando el concesionario se encuentra en un trámite administrativo dentro de la Dirección de Concesiones.",
     "queobtengo": "Permiso provisional para el servicio público",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "quipuedehacerlo": [
       "Concesionario",
@@ -2469,7 +2467,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite18",
+    "id": "dirconcesion6",
     "titulo": "Designación de beneficiarios",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2478,7 +2476,7 @@
     "descripcion": "El concesionario designa como beneficiario a la persona que continuará con la prestación del servicio a su fallecimiento.",
     "queobtengo": "Designación de beneficiarios",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "quipuedehacerlo": [
       "Concesionario"
@@ -2541,7 +2539,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite19",
+    "id": "dirsismov1",
     "titulo": "Expedición de constancia de capacitación a operadores del servicio público de Transporte Público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2550,7 +2548,7 @@
     "descripcion": "Con el desarrollo de esta capacitación se busca promover, desarrollar conductas, actitudes y hábitos relacionados con la protección de la salud y la seguridad, en el marco de la seguridad y educación vial, dirigida a concesionarios, conductores del servicio público.",
     "queobtengo": "Constancia",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Sistemas"
     },
     "quipuedehacerlo": [
       "Concesionario",
@@ -2638,7 +2636,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite20",
+    "id": "dirsismov2",
     "titulo": "Expedición, renovación y reposición de tarjetón para conductores de Transporte Público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2647,7 +2645,7 @@
     "descripcion": "Dirigida a personas conductoras del servicio público, para contar con un padrón estatal de personas conductoras del servicio de transporte público, se busca promover, desarrollar conductas, actitudes y hábitos relacionados con la protección de la salud y la seguridad, en el marco de la seguridad y educación vial.",
     "queobtengo": "Tarjetón",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Sistemas"
     },
     "quipuedehacerlo": [
       "Interesado"
@@ -2723,7 +2721,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite21",
+    "id": "dirplaneacion1",
     "titulo": "Estudio y Dictamen para la Modificación y/o Ampliación de Ruta de Transporte Público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2732,7 +2730,7 @@
     "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia de la modificación o ampliación de ruta autorizado en su concesión.",
     "queobtengo": "Dictamen de aprobación para realizar la modificación y/o ampliación de ruta en la Dirección de Concesiones.",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Planeacion"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -2833,7 +2831,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite22",
+    "id": "dirlicemp13",
     "titulo": "Licencia tipo  \"C\" Operador de transporte público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2910,7 +2908,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite23",
+    "id": "dirlicemp14",
     "titulo": "Licencia de Conducir Tipo D",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2987,7 +2985,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite24",
+    "id": "dirplaneacion2",
     "titulo": "Expedición de tarjetón de tarifa de transporte público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -2996,7 +2994,7 @@
     "descripcion": "Expedir Tarjetones Oficiales, con la Tarifa regulada por la Secretaría de Movilidad.",
     "queobtengo": "Tarjetón con la nueva tarifa",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Planeacion"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -3062,7 +3060,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite25",
+    "id": "dirplaneacion3",
     "titulo": "Elaborar estudios técnicos de factibilidad a las personas concesionadas para determinar la procedencia o improcedencia para el posible otorgamiento de concesiones de transporte público.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -3071,7 +3069,7 @@
     "descripcion": "Elaborar estudios técnicos de factibilidad para determinar la procedencia o improcedencia para el posible otorgamiento de concesiones de transporte público.",
     "queobtengo": "Estudio de Factibilidad para la procedencia o improcedencia del otorgamiento de nuevas concesiones para el transporte público",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Planeacion"
     },
     "quipuedehacerlo": [
       "Autoridades Municipales",
@@ -3150,7 +3148,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite26",
+    "id": "dirplaneacion4",
     "titulo": "Solicitud de Elaboración de Estudios de Factibilidad y Dictaminación para el Cambio de Tipo de Vehículo Autorizado en su Concesión. Servicio Público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -3293,7 +3291,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite27",
+    "id": "dirplaneacion5",
     "titulo": "Solicitud de Elaboración de Estudios Técnicos de Factibilidad y Dictaminación para la Revisión y/o Actualización de Tarifa del Transporte Público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -3302,7 +3300,7 @@
     "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia de la Revisión y Actualización de Tarifa.",
     "queobtengo": "Dictamen de aprobación para la autorización de la nueva tarifa",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Planeacion"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -3428,7 +3426,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite28",
+    "id": "dirlicemp15",
     "titulo": "Reactivación",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -3437,7 +3435,7 @@
     "descripcion": "Reactivación de vehículos con registro en el Padrón Vehicular del Estado de Oaxaca que causaron baja para Expedición de placa y tarjetas de circulación a favor del mismo interesado.",
     "queobtengo": "Placa y Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -3624,7 +3622,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite29",
+    "id": "dirlicemp16",
     "titulo": "Venta de placa",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -3633,7 +3631,7 @@
     "descripcion": "Venta de placa por robo o extravío y Expedición de placa y tarjetas de circulación a favor del interesado.",
     "queobtengo": "Placa y Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -3793,7 +3791,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite30",
+    "id": "dirlicemp17",
     "titulo": "Reposición de tarjetas de circulación",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -3802,7 +3800,7 @@
     "descripcion": "Reposición de la tarjeta de circulación vigente por robo o extravío y expedición de tarjeta de circulación a favor del interesado.",
     "queobtengo": "Tarjeta de circulación",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Interesado",
@@ -3960,7 +3958,7 @@
     "fecha_actualizacion": "21-07-2024"
   },
   {
-    "id": "tramite31",
+    "id": "dirlicemp18",
     "titulo": "Constancia de no emplacamiento",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -3969,7 +3967,7 @@
     "descripcion": "Constancia de no emplacamiento, a fin de garantizar que el vehículo no cuenta con registro en la entidad o que cuenta con estatus baja.",
     "queobtengo": "Constancia de No Emplacamiento",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Representante legal",
@@ -4073,10 +4071,10 @@
         "publicacion": "Publicado en el POGE el 09 de agosto de 2021."
       }
     ],
-    "fecha_actualizacion": "21-07-2024"
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite32",
+    "id": "dirlicemp19",
     "titulo": "Tarjetón de carga particular",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -4085,7 +4083,7 @@
     "descripcion": "Tarjetón para carga particular de acuerdo al giro comercial.",
     "queobtengo": "Tarjetón de Carga Particular",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Emplacamiento"
     },
     "quipuedehacerlo": [
       "Representante legal",
@@ -4179,23 +4177,26 @@
         "publicacion": "Publicado en el POGE el 09 de agosto de 2021."
       }
     ],
-    "fecha_actualizacion": "21-07-2024"
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite33",
+    "id": "dirlicemp20",
     "titulo": "Licencia tipo 'A' Motociclista particular",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'A' Motociclista particular, que autoriza a su titular conducir vehículos de dos, tres o cuatro ruedas, impulsados por motor de cadena o flecha; con diferente vigencia las cuales varían en 2 años, 3 años, 5 años y permanente, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4245,23 +4246,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite34",
+    "id": "dirlicemp21",
     "titulo": "Licencia tipo 'B' Automovilista",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'B' Automovilista, que autoriza a su titular conducir los vehículos de uso particular, que no exceda de 3.5 toneladas en carga y peso; con diferente vigencia las cuales varían en 2 años, 3 años, 5 años y permanente, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4311,23 +4316,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite35",
+    "id": "dirlicemp22",
     "titulo": "Licencia tipo 'C' Operador de transporte público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'C' Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo 'B', los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4382,23 +4391,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite36",
+    "id": "dirlicemp23",
     "titulo": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte, que autoriza a su titular a conducir, además de los vehículos autorizados con las licencias tipo 'B' y 'C', los vehículos del servicio público de carga y de carga privada que exceda de 3.5 toneladas en peso y carga; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4453,20 +4466,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite37",
+    "id": "dirlicemp24",
     "titulo": "Licencia tipo 'E' Rescate, salvamento y seguridad pública",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'E', para manejo de vehículos de rescate, salvamento y seguridad pública.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
+    "contacto": {
+      "modulo": "Licencias"
+    },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4526,23 +4546,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite38",
+    "id": "dirlicemp25",
     "titulo": "Licencia tipo 'F' Personas con discapacidad",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'F' Personas con discapacidad, que autoriza a su titular persona con discapacidad a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4597,23 +4621,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite39",
+    "id": "dirlicemp26",
     "titulo": "Licencia tipo 'G' Adulto mayor",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'G' Adulto mayor, que autoriza a su titular adulto mayor a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4668,23 +4696,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite40",
+    "id": "dirlicemp27",
     "titulo": "Renovación de licencia tipo 'A' Motociclista particular",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'A' Motociclista particular, que autoriza a su titular conducir vehículos de dos, tres o cuatro ruedas, impulsados por motor de cadena o flecha; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4729,23 +4761,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite41",
+    "id": "dirlicemp28",
     "titulo": "Renovación de Licencia tipo 'B' Automovilista",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'B' Automovilista, que autoriza a su titular conducir los vehículos de uso particular, que no exceda de 3.5 toneladas en carga y peso; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4790,23 +4826,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite42",
+    "id": "dirlicemp29",
     "titulo": "Renovación de Licencia tipo 'C' Operador de transporte público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'C' Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo 'B', los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4856,23 +4896,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite43",
+    "id": "dirlicemp30",
     "titulo": "Renovación de Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte, que autoriza a su titular a conducir, además de los vehículos autorizados con las licencias tipo 'B' y 'C', los vehículos del servicio público de carga y de carga privada que exceda de 3.5 toneladas en peso y carga; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4922,23 +4966,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite44",
+    "id": "dirlicemp31",
     "titulo": "Renovación de Licencia tipo \"E\" Operador de vehículo de seguridad pública, salvamento o rescate.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo \"E\" Operador de vehículo de seguridad pública, salvamento o rescate, que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la licencia tipo \"B\", los vehículos de seguridad pública, salvamento o rescate; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -4993,23 +5041,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite45",
+    "id": "dirlicemp32",
     "titulo": "Renovación de Licencia tipo \"G\" Adulto mayor.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Licencia tipo \"G\" Adulto mayor, que autoriza a su titular adulto mayor a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -5058,23 +5110,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite46",
+    "id": "dirlicemp33",
     "titulo": "Licencia tipo \"A\" Motociclista particular para menor de edad.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Únicamente se expedirá permiso de tipo \"A\" motociclista con una vigencia máxima de 2 años, cuando el solicitante haya cumplido 16 años de edad y menos de 18.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -5136,23 +5192,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite47",
+    "id": "dirlicemp34",
     "titulo": "Licencia tipo \"B\" Automovilista para menor de edad.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "Únicamente se expedirá permiso de tipo \"B\" automovilista con una vigencia máxima de 2 años, cuando el solicitante haya cumplido 16 años de edad y menos de 18",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -5214,23 +5274,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite48",
+    "id": "dirlicemp35",
     "titulo": "Reposición de licencia en todas las modalidades \"A\", \"B\", \"C\", \"D\", \"E\", \"F\" y \"G\".",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "La reposición de la licencia de manejo en cualquiera de sus tipos se realizará cuando sea extraviada o se encuentre en mal estado, cuando presenté más de 365 días a la fecha de su vencimiento.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -5273,20 +5337,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite49",
+    "id": "dirlicemp36",
     "titulo": "Renovación de licencia para extranjero.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
+    "contacto": {
+      "modulo": "Licencias"
+    },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -5343,23 +5414,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite50",
+    "id": "dirlicemp37",
     "titulo": "Reposición de licencia para extranjero.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "La reposición de la licencia de manejo en cualquiera de sus tipos, se realizará cuando sea extraviada o se encuentre en mal estado, cuando presente más de 365 días a la fecha de vencimiento. En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -5422,23 +5497,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite51",
+    "id": "dirlicemp38",
     "titulo": "Licencia para extranjero.",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Licencias",
     "descripcion": "En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente",
@@ -5498,23 +5577,27 @@
       {
         "ley": "Ley Estatal de Derechos de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite52",
+    "id": "dirsismov3",
     "titulo": "Registro de agrupación de transporte público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Sistema de Movilidad y Seguridad Vial",
     "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
     "descripcion": "El registro de agrupación es el proceso mediante el cual las personas morales constituidas por concesionarios del transporte público son registradas y reconocidas ante la Secretaría de Movilidad.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas y Personas Morales",
+        "tema": "Personas Físicas y Personas Morales",
         "documentos": [
           {
             "titulo": "Concesión para la prestación del servicio público de transporte",
@@ -5576,23 +5659,27 @@
         "articulo": "Art. 7",
         "ley": "Ley de Archivos para el Estado de Oaxaca"
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite53",
+    "id": "diroperacion1",
     "titulo": "Autorización de cromática, distintivos y aditamentos para vehículos del servicio del transporte público de pasajeros",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación del Transporte Público",
     "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
     "descripcion": "La autorización de cromática, distintivos y aditamentos para vehículos del servicio del transporte público de pasajeros es un trámite que únicamente se les autoriza a los concesionarios que ya cuenten con su registro de agrupación.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Operacion"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas y Personas Morales",
+        "tema": "Personas Físicas y Personas Morales",
         "documentos": [
           {
             "titulo": "Acta constitutiva",
@@ -5650,23 +5737,27 @@
         "ley": "Manual de Procedimientos de la Secretaría de Movilidad",
         "publicacion": "Publicado el 07 de octubre de 2023."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite54",
+    "id": "diroperacion2",
     "titulo": "Revista físico mecánica",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación del Transporte Público",
     "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
     "descripcion": "Revisión de la condición física y mecánica de todas las unidades que prestan el servicio público en todas sus modalidades.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Operacion"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas, Personas Morales y Servicio Público",
+        "tema": "Personas Físicas, Personas Morales y Servicio Público",
         "documentos": [
           {
             "titulo": "Licencia de conducir",
@@ -5716,10 +5807,11 @@
         "ley": "Manual de Procedimientos de la Secretaría de Movilidad",
         "publicacion": "Publicado el 07 de octubre de 2023."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite55",
+    "id": "diroperacion3",
     "titulo": "Cambio de agrupación por concesionario de transporte público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -5732,7 +5824,7 @@
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Concesión Vigente",
@@ -5793,23 +5885,27 @@
       {
         "ley": "Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite56",
+    "id": "dirconcesion7",
     "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Renovación de Concesión",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Concesiones",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por la Dirección de Concesiones, donde se indica el nombre del concesionario, el número de acuerdo de la concesión, los años de extemporaneidad y las UMAS correspondientes.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas y Personas Morales",
+        "tema": "Personas Físicas y Personas Morales",
         "documentos": [
           {
             "titulo": "Identificación Oficial Vigente",
@@ -5852,23 +5948,27 @@
         "ley": "Ley de Movilidad para el Estado de Oaxaca",
         "publicacion": "Publicada el 22 de octubre de 2022."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite57",
+    "id": "dirconcesion8",
     "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Cambio de Vehículo",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación de Concesiones",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un memorándum enviado por el departamento de altas y actualizaciones de vehículo, donde se especifica el nombre, la fecha de baja y la fecha de acuse de recibo, a partir del cual se calculan las UMAS correspondientes para proceder a hacer la línea de pago.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas y Personas Morales",
+        "tema": "Personas Físicas y Personas Morales",
         "documentos": [
           {
             "titulo": "Identificación Oficial Vigente",
@@ -5911,23 +6011,27 @@
         "ley": "Ley de Movilidad para el Estado de Oaxaca",
         "publicacion": "Publicada el 22 de octubre de 2022."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite58",
+    "id": "dirconcesion9",
     "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Tenencia",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación de Concesiones",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el departamento de altas y actualizaciones de vehículo, donde se incluye el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas y Personas Morales",
+        "tema": "Personas Físicas y Personas Morales",
         "documentos": [
           {
             "titulo": "Identificación Oficial Vigente",
@@ -5970,23 +6074,27 @@
         "ley": "LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA",
         "publicacion": "Publicada el 22 de octubre de 2022."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite59",
+    "id": "diroperacion4",
     "titulo": "Inicio de procedimiento de Aplicación de Sanciones por faltas a la Ley de Movilidad y el Reglamento de Movilidad al Transporte Público",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación del Transporte Público",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio de redes sociales, call center, y/o quejas por escrito, se reciben las denuncias ciudadanas en donde se hace del conocimiento a esta autoridad posibles faltas a la normatividad. Una vez evaluados los hechos, se procede a iniciar el procedimiento de aplicación de sanciones otorgando un número de expediente administrativo, citando los fundamentos legales vulnerados y notificando a los involucrados sobre el procedimiento iniciado en su contra.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Operacion"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas, Personas Morales y Servicio Público",
+        "tema": "Personas Físicas, Personas Morales y Servicio Público",
         "documentos": [
           {
             "titulo": "Original y copia de la concesión",
@@ -6051,23 +6159,27 @@
         "ley": "LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA",
         "publicacion": "Publicada el 22 de octubre de 2022."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite60",
+    "id": "diroperacion5",
     "titulo": "Liberación de unidades",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación del Transporte Público",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio de memorándum se ponen a disposición del Departamento las unidades que no cumplen con los requisitos para circular y prestar el servicio de transporte público. Una vez que cumplen los requisitos, se les entrega un formato para rellenar, el cual se ingresa por medio de oficialía para comenzar el procedimiento respectivo para la liberación de la unidad.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Operacion"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas, Personas Morales y Servicio Público",
+        "tema": "Personas Físicas, Personas Morales y Servicio Público",
         "documentos": [
           {
             "titulo": "Original y copia de la concesión",
@@ -6136,23 +6248,27 @@
         "ley": "LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA",
         "publicacion": "Publicada el 22 de octubre de 2022."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite61",
+    "id": "dirconcesion10",
     "titulo": "Derechos ARCOP",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Concesiones",
     "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
     "descripcion": "Es la solicitud para poder ejercer los Derechos de Acceso, Rectificación, Cancelación y Oposición al Tratamiento de Datos Personales.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Concesiones"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación Oficial (IFE, INE o Pasaporte Vigente)",
@@ -6193,23 +6309,27 @@
         "articulo": "Art. 36-62",
         "ley": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite62",
+    "id": "dirconcesion11",
     "titulo": "Solicitud de acceso a la información",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Concesiones",
     "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
     "descripcion": "Existe el procedimiento del recurso de revisión en caso de que no esté conforme con la información entregada por parte de la Unidad de Transparencia.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Escrito libre de solicitud",
@@ -6248,10 +6368,11 @@
         "articulo": "Art. 120",
         "ley": "Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite63",
+    "id": "dirjuridica1",
     "titulo": "Solicitud de desbloqueo de concesión por COCOBSI",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -6259,12 +6380,12 @@
     "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
     "descripcion": "Procedimiento denominado: Comparecencia de Concesionarios Bloqueados en el Sistema (COCOBSI), con el objetivo de que los concesionarios que obtuvieron sus concesiones en los ejercicios fiscales 2014, 2015 y 2016, que no se encuentran dentro de los expedientes observados en la auditoría número SASO 17/SASO-B/2017, aporten los documentos relativos al procedimiento de otorgamiento de concesión, en estricto apego a los principios de audiencia y de la legalidad de todo procedimiento administrativo.",
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Juridico"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas con la calidad de concesionario",
+        "tema": "Personas Físicas con la calidad de concesionario",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente (Credencial para votar con fotografía, pasaporte o cédula profesional)",
@@ -6278,7 +6399,7 @@
       },
       {
         "id": 1,
-        "tipo_persona": "Personas Morales con la calidad de concesionario",
+        "tema": "Personas Morales con la calidad de concesionario",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente (Credencial para votar con fotografía, pasaporte o cédula profesional)",
@@ -6320,7 +6441,8 @@
         "ley": "Reglamento de la ley de movilidad para el Estado de Oaxaca.",
         "publicacion": "Registrado como artículo de segunda clase de fecha 23 de diciembre del año 1921. Oaxaca de Juárez, agosto 9 del año 2021."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
     "id": "tramite64",
@@ -6330,13 +6452,16 @@
     "area_responsable": "Dirección Jurídica",
     "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
     "descripcion": "Procedimiento para la revisión de expedientes administrativos que se encuentran bloqueados en el Sistema de Control y Administración de Concesionarios (SICAC), con el objeto de revisar y acordar lo procedente sobre su desbloqueo, relacionado con la circular SEVITRA/DJ/JO2/2017. Todo concesionario que se encuentre bloqueado en el SICAC, por tener una o varias hojas de papel de seguridad cuyo folio esté reportado como extraviado o robado, podrá adherirse al procedimiento para la revisión de expedientes administrativos con la finalidad de revisar y acordar lo procedente sobre su desbloqueo de concesión.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas con la calidad de concesionario",
+        "tema": "Personas Físicas con la calidad de concesionario",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente (Credencial para votar con fotografía, pasaporte o cédula profesional)",
@@ -6350,7 +6475,7 @@
       },
       {
         "id": 1,
-        "tipo_persona": "Personas Morales con la calidad de concesionario",
+        "tema": "Personas Morales con la calidad de concesionario",
         "documentos": [
           {
             "titulo": "Identificación oficial vigente (Credencial para votar con fotografía, pasaporte o cédula profesional)",
@@ -6394,23 +6519,27 @@
         "publicacion":"Registrado como artículo de segunda clase de fecha 23 de diciembre del año 1921. Oaxaca de Juárez, agosto 9 del año 2021."
 
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite65",
+    "id": "diroperacion6",
     "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Alta de Vehículo",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación de Concesiones",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un memorándum que envía el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica la fecha de baja y la fecha de recepción del oficio de acuse para calcular el monto de las UMAS y realizar la línea de pago.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Operacion"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación Oficial Vigente",
@@ -6424,7 +6553,7 @@
       },
       {
         "id": 1,
-        "tipo_persona": "Personas Morales",
+        "tema": "Personas Morales",
         "documentos": [
           {
             "titulo": "Identificación Oficial Vigente",
@@ -6469,23 +6598,27 @@
         "ley": "LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA",
         "publicacion": "Publicada el 22 de octubre de 2022."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite6",
+    "id": "diroperacion7",
     "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Tenencia",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección de Operación de Concesiones",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
-      "modulo": "Licencias"
+      "modulo": "Operacion"
     },
     "requisitos": [
       {
         "id": 0,
-        "tipo_persona": "Personas Físicas",
+        "tema": "Personas Físicas",
         "documentos": [
           {
             "titulo": "Identificación Oficial Vigente",
@@ -6499,7 +6632,7 @@
       },
       {
         "id": 1,
-        "tipo_persona": "Personas Morales",
+        "tema": "Personas Morales",
         "documentos": [
           {
             "titulo": "Identificación Oficial Vigente",
@@ -6544,12 +6677,7 @@
         "ley": "LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA",
         "publicacion": "Publicada el 22 de octubre de 2022."
       }
-    ]
+    ],
+    "fecha_actualizacion": "15-08-2024"
   }
-  
-  
-  
-  
-  
-  
 ]
