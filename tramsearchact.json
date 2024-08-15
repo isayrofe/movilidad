@@ -1,660 +1,661 @@
 [
-    {
-      "id": "tramite1",
-      "titulo": "Alta de vehículos nuevos",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Registro de vehículos nacionales del servicio público y privado al Padrón Vehicular del Estado de Oaxaca y Expedición de placa y tarjetas de circulación a favor del interesado."
-    },
-    {
-      "id": "tramite2",
-      "titulo": "Alta otra entidad",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Registro de vehículos nuevos o seminuevos, nacionales o extranjeros del servicio público o privado (Moral, Física, Municipios, Dependencias gubernamentales, estatales y federales) al Padrón Vehicular del Estado de Oaxaca para la emisión del formato de pago de tenencia y expedición de placas y tarjeta de circulación."
-    },
-    {
-      "id": "tramite3",
-      "titulo": "Refrendo (Pago de tenencia y tarjeta de circulación)",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Expedir tarjeta de circulación a favor del interesado con la finalidad de mantener actualizado y regularizado el padrón de vehículos nacionales y extranjeros del servicio público y privado en el Estado de manera Anual."
-      
-    },
-    {
-      "id": "tramite4",
-      "titulo": "Baja vehicular servicio particular - robado o siniestrado",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Los propietarios y/o tenedores de vehículos registrados en el padrón vehicular del Estado de Oaxaca deberán realizar el trámite de baja vehicular ante la Secretaría de Movilidad."
-      
-    },
-    {
-      "id": "tramite5",
-      "titulo": "Baja vehicular servicio público - robado o siniestrado",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Los propietarios y/o tenedores de vehículos registrados en el padrón vehicular del Estado de Oaxaca deberán realizar el trámite de baja vehicular ante la Secretaría de Movilidad."
-      
-    },
-    {
-      "id": "tramite6",
-      "titulo": "Canje de Placas servicio particular",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Canje de Placas Vehicular del Estado de Oaxaca."
-      
-    },
-    {
-      "id": "tramite7",
-      "titulo": "Canje de Placas Servicio Público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Canje de Placas Vehicular del Estado de Oaxaca."
-      
-    },
-    {
-      "id": "tramite8",
-      "titulo": "Cambio de Propietario",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Realizar la actualización de la propiedad del vehículo en el Padrón Vehicular del Estado de Oaxaca para la expedición de placa y tarjetas de circulación a favor del interesado."
-      
-    },
-    {
-      "id": "tramite9",
-      "titulo": "Placas de Demostración",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Podrán adquirir placas de demostración los fabricantes, las plantas ensambladoras, distribuidores de vehículos automotores nuevos, que tengan su domicilio fiscal dentro del territorio del Estado de Oaxaca."
-      
-    },
-    {
-      "id": "tramite10",
-      "titulo": "Refrendo Placas de Demostración",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Pago del uso, goce o aprovechamiento de placas para vehículos de demostración."
-      
-    },
-    {
-      "id": "tramite11",
-      "titulo": "Baja de Placas de Demostración",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-      "descripcion": "Dar aviso y realizar el trámite de baja de las placas de demostración del Estado de Oaxaca ante la Secretaría de Movilidad."
-      
-    },
-    {
-      "id": "tramite12",
-      "titulo": "Alta de vehículo",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
-      "descripcion": "Se realiza el alta de vehículo cuando por primera vez se obtiene un título de concesión o por una transferencia de concesión."
-      
-    },
-    {
-      "id": "tramite13",
-      "titulo": "Cambio de vehículo",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
-      "descripcion": "Se realiza el cambio de vehículo cuando el vehículo con el que se está prestando el servicio de transporte público ya no está permitido por la Ley o cuando sufre un percance y no es apto para seguir operando."
-      
-    },
-    {
-      "id": "tramite14",
-      "titulo": "Prórroga de vehículo",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
-      "descripcion": "Se realiza la prórroga de vehículo cuando el vehículo con el que se está operando ya no es permitido por la ley."
-      
-    },
-    {
-      "id": "permiso_provisional_sin_placas",
-      "titulo": "Permiso provisional para circular sin placas y tarjetas de circulación del servicio particular válido por 30 días",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-      "descripcion": "Permiso provisional temporal para circular dentro y fuera de la entidad, vehículo nuevo y seminuevo (nacionales y extranjeros)."
-      
-    },
-    {
-      "id": "tramite16",
-      "titulo": "Cambio de motor",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
-      "descripcion": "Se realiza el cambio de motor cuando el motor del vehículo con el que se está prestando el servicio de transporte público se daña."
-      
-    },
-    {
-      "id": "tramite17",
-      "titulo": "Permiso provisional para el servicio público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
-      "descripcion": "Es la autorización para prestar el servicio de transporte público sin placas cuando el concesionario se encuentra en un trámite administrativo dentro de la Dirección de Concesiones."
-      
-    },
-    {
-      "id": "tramite18",
-      "titulo": "Designación de beneficiarios",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Transferencia de Concesiones",
-      "descripcion": "El concesionario designa como beneficiario a la persona que continuará con la prestación del servicio a su fallecimiento."
-      
-    },
-    {
-      "id": "tramite19",
-      "titulo": "Expedición de constancia de capacitación a operadores del servicio público de Transporte Público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Sistema de Movilidad y Seguridad Vial",
-      "depto_responsable": "Departamento de proyectos y estrategias de movilidad",
-      "descripcion": "Con el desarrollo de esta capacitación se busca promover, desarrollar conductas, actitudes y hábitos relacionados con la protección de la salud y la seguridad, en el marco de la seguridad y educación vial, dirigida a concesionarios, conductores del servicio público."
-      
-    },
-    {
-      "id": "tramite20",
-      "titulo": "Expedición, renovación y reposición de tarjetón para conductores de Transporte Público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Sistema de Movilidad y Seguridad Vial",
-      "depto_responsable": "Departamento de proyectos y estrategias de movilidad",
-      "descripcion": "Dirigida a personas conductoras del servicio público, para contar con un padrón estatal de personas conductoras del servicio de transporte público, se busca promover, desarrollar conductas, actitudes y hábitos relacionados con la protección de la salud y la seguridad, en el marco de la seguridad y educación vial."
-      
-    },
-    {
-      "id": "tramite21",
-      "titulo": "Estudio y Dictamen para la Modificación y/o Ampliación de Ruta de Transporte Público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Planeación y Políticas",
-      "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
-      "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia de la modificación o ampliación de ruta autorizado en su concesión."
-      
-    },
-    {
-      "id": "tramite22",
-      "titulo": "Licencia tipo  \"C\" Operador de transporte público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias de Conducir",
-      "depto_responsable": "Departamento de Emisión de Licencias",
-      "descripcion": "Licencia tipo \"C\" Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo \"B\", los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos"
-      
-    },
-    {
-      "id": "tramite23",
-      "titulo": "Licencia de Conducir Tipo D",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias de Conducir",
-      "depto_responsable": "Departamento de Emisión de Licencias",
-      "descripcion": "Licencia dirigida a conductores de vehículos de carga pesada."
-      
-    },
-    {
-      "id": "tramite24",
-      "titulo": "Expedición de tarjetón de tarifa de transporte público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Planeación y Políticas",
-      "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
-      "descripcion": "Expedir Tarjetones Oficiales, con la Tarifa regulada por la Secretaría de Movilidad."
-      
-    },
-    {
-      "id": "tramite25",
-      "titulo": "Elaborar estudios técnicos de factibilidad a las personas concesionadas para determinar la procedencia o improcedencia para el posible otorgamiento de concesiones de transporte público.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Planeación y Políticas",
-      "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
-      "descripcion": "Elaborar estudios técnicos de factibilidad para determinar la procedencia o improcedencia para el posible otorgamiento de concesiones de transporte público."
-      
-    },
-    {
-      "id": "tramite26",
-      "titulo": "Solicitud de Elaboración de Estudios de Factibilidad y Dictaminación para el Cambio de Tipo de Vehículo Autorizado en su Concesión. Servicio Público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Planeación y Políticas",
-      "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
-      "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia del cambio de tipo de vehículo autorizado en su concesión."
-      
-    },
-    {
-      "id": "tramite27",
-      "titulo": "Solicitud de Elaboración de Estudios Técnicos de Factibilidad y Dictaminación para la Revisión y/o Actualización de Tarifa del Transporte Público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Planeación y Políticas",
-      "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
-      "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia de la Revisión y Actualización de Tarifa."
-      
-    },
-    {
-      "id": "tramite28",
-      "titulo": "Reactivación",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-      "descripcion": "Reactivación de vehículos con registro en el Padrón Vehicular del Estado de Oaxaca que causaron baja para Expedición de placa y tarjetas de circulación a favor del mismo interesado."
-      
-    },
-    {
-      "id": "tramite29",
-      "titulo": "Venta de placa",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-      "descripcion": "Venta de placa por robo o extravío y Expedición de placa y tarjetas de circulación a favor del interesado."
-      
-    },
-    {
-      "id": "tramite30",
-      "titulo": "Reposición de tarjetas de circulación",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-      "descripcion": "Reposición de la tarjeta de circulación vigente por robo o extravío y expedición de tarjeta de circulación a favor del interesado."
-      
-    },
-    {
-      "id": "tramite31",
-      "titulo": "Constancia de no emplacamiento",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-      "descripcion": "Constancia de no emplacamiento, a fin de garantizar que el vehículo no cuenta con registro en la entidad o que cuenta con estatus baja."
-      
-    },
-    {
-      "id": "tramite32",
-      "titulo": "Tarjetón de carga particular",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-      "descripcion": "Tarjetón para carga particular de acuerdo al giro comercial."
-      
-    },
-    {
-      "id": "tramite33",
-      "titulo": "Licencia tipo 'A' Motociclista particular",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'A' Motociclista particular, que autoriza a su titular conducir vehículos de dos, tres o cuatro ruedas, impulsados por motor de cadena o flecha; con diferente vigencia las cuales varían en 2 años, 3 años, 5 años y permanente, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite34",
-      "titulo": "Licencia tipo 'B' Automovilista",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'B' Automovilista, que autoriza a su titular conducir los vehículos de uso particular, que no exceda de 3.5 toneladas en carga y peso; con diferente vigencia las cuales varían en 2 años, 3 años, 5 años y permanente, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite35",
-      "titulo": "Licencia tipo 'C' Operador de transporte público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'C' Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo 'B', los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite36",
-      "titulo": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte, que autoriza a su titular a conducir, además de los vehículos autorizados con las licencias tipo 'B' y 'C', los vehículos del servicio público de carga y de carga privada que exceda de 3.5 toneladas en peso y carga; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite37",
-      "titulo": "Licencia tipo 'E' Rescate, salvamento y seguridad pública",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'E', para manejo de vehículos de rescate, salvamento y seguridad pública."
-      
-    },
-    {
-      "id": "tramite38",
-      "titulo": "Licencia tipo 'F' Personas con discapacidad",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'F' Personas con discapacidad, que autoriza a su titular persona con discapacidad a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite39",
-      "titulo": "Licencia tipo 'G' Adulto mayor",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'G' Adulto mayor, que autoriza a su titular adulto mayor a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite40",
-      "titulo": "Renovación de licencia tipo 'A' Motociclista particular",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'A' Motociclista particular, que autoriza a su titular conducir vehículos de dos, tres o cuatro ruedas, impulsados por motor de cadena o flecha; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite41",
-      "titulo": "Renovación de Licencia tipo 'B' Automovilista",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'B' Automovilista, que autoriza a su titular conducir los vehículos de uso particular, que no exceda de 3.5 toneladas en carga y peso; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite42",
-      "titulo": "Renovación de Licencia tipo 'C' Operador de transporte público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'C' Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo 'B', los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite43",
-      "titulo": "Renovación de Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte, que autoriza a su titular a conducir, además de los vehículos autorizados con las licencias tipo 'B' y 'C', los vehículos del servicio público de carga y de carga privada que exceda de 3.5 toneladas en peso y carga; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite44",
-      "titulo": "Renovación de Licencia tipo \"E\" Operador de vehículo de seguridad pública, salvamento o rescate.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo \"E\" Operador de vehículo de seguridad pública, salvamento o rescate, que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la licencia tipo \"B\", los vehículos de seguridad pública, salvamento o rescate; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite45",
-      "titulo": "Renovación de Licencia tipo \"G\" Adulto mayor.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Licencia tipo \"G\" Adulto mayor, que autoriza a su titular adulto mayor a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
-      
-    },
-    {
-      "id": "tramite46",
-      "titulo": "Licencia tipo \"A\" Motociclista particular para menor de edad.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Únicamente se expedirá permiso de tipo \"A\" motociclista con una vigencia máxima de 2 años, cuando el solicitante haya cumplido 16 años de edad y menos de 18."
-      
-    },
-    {
-      "id": "tramite47",
-      "titulo": "Licencia tipo \"B\" Automovilista para menor de edad.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "Únicamente se expedirá permiso de tipo \"B\" automovilista con una vigencia máxima de 2 años, cuando el solicitante haya cumplido 16 años de edad y menos de 18"
-      
-    },
-    {
-      "id": "tramite48",
-      "titulo": "Reposición de licencia en todas las modalidades \"A\", \"B\", \"C\", \"D\", \"E\", \"F\" y \"G\".",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "La reposición de la licencia de manejo en cualquiera de sus tipos se realizará cuando sea extraviada o se encuentre en mal estado, cuando presenté más de 365 días a la fecha de su vencimiento."
-      
-    },
-    {
-      "id": "tramite49",
-      "titulo": "Renovación de licencia para extranjero.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público."
-      
-    },
-    {
-      "id": "tramite50",
-      "titulo": "Reposición de licencia para extranjero.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "La reposición de la licencia de manejo en cualquiera de sus tipos, se realizará cuando sea extraviada o se encuentre en mal estado, cuando presente más de 365 días a la fecha de vencimiento. En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público."
-      
-    },
-    {
-      "id": "tramite51",
-      "titulo": "Licencia para extranjero.",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-      "depto_responsable": "Departamento de Licencias",
-      "descripcion": "En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público."
-      
-    },
-    {
-      "id": "tramite52",
-      "titulo": "Registro de agrupación de transporte público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Sistema de Movilidad y Seguridad Vial",
-      "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
-      "descripcion": "El registro de agrupación es el proceso mediante el cual las personas morales constituidas por concesionarios del transporte público son registradas y reconocidas ante la Secretaría de Movilidad."
-      
-    },
-    {
-      "id": "tramite53",
-      "titulo": "Autorización de cromática, distintivos y aditamentos para vehículos del servicio del transporte público de pasajeros",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación del Transporte Público",
-      "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
-      "descripcion": "La autorización de cromática, distintivos y aditamentos para vehículos del servicio del transporte público de pasajeros es un trámite que únicamente se les autoriza a los concesionarios que ya cuenten con su registro de agrupación."
-      
-    },
-    {
-      "id": "tramite54",
-      "titulo": "Revista físico mecánica",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación del Transporte Público",
-      "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
-      "descripcion": "Revisión de la condición física y mecánica de todas las unidades que prestan el servicio público en todas sus modalidades."
-      
-    },
-    {
-      "id": "tramite55",
-      "titulo": "Cambio de agrupación por concesionario de transporte público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación del Transporte Público",
-      "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
-      "descripcion": "Se le autoriza un cambio de agrupación a un concesionario únicamente si cumple con todos los requisitos solicitados y si ha renunciado a la agrupación a la cual había pertenecido anteriormente."
-      
-    },
-    {
-      "id": "tramite56",
-      "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Renovación de Concesión",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Multas y Sanciones",
-      "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por la Dirección de Concesiones, donde se indica el nombre del concesionario, el número de acuerdo de la concesión, los años de extemporaneidad y las UMAS correspondientes."
-      
-    },
-    {
-      "id": "tramite57",
-      "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Cambio de Vehículo",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación de Concesiones",
-      "depto_responsable": "Departamento de Multas y Sanciones",
-      "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un memorándum enviado por el departamento de altas y actualizaciones de vehículo, donde se especifica el nombre, la fecha de baja y la fecha de acuse de recibo, a partir del cual se calculan las UMAS correspondientes para proceder a hacer la línea de pago."
-      
-    },
-    {
-      "id": "tramite58",
-      "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Tenencia",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación de Concesiones",
-      "depto_responsable": "Departamento de Multas y Sanciones",
-      "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el departamento de altas y actualizaciones de vehículo, donde se incluye el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad."
-      
-    },
-    {
-      "id": "tramite59",
-      "titulo": "Inicio de procedimiento de Aplicación de Sanciones por faltas a la Ley de Movilidad y el Reglamento de Movilidad al Transporte Público",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación del Transporte Público",
-      "depto_responsable": "Departamento de Multas y Sanciones",
-      "descripcion": "Por medio de redes sociales, call center, y/o quejas por escrito, se reciben las denuncias ciudadanas en donde se hace del conocimiento a esta autoridad posibles faltas a la normatividad. Una vez evaluados los hechos, se procede a iniciar el procedimiento de aplicación de sanciones otorgando un número de expediente administrativo, citando los fundamentos legales vulnerados y notificando a los involucrados sobre el procedimiento iniciado en su contra."
-      
-    },
-    {
-      "id": "tramite60",
-      "titulo": "Liberación de unidades",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación del Transporte Público",
-      "depto_responsable": "Departamento de Multas y Sanciones",
-      "descripcion": "Por medio de memorándum se ponen a disposición del Departamento las unidades que no cumplen con los requisitos para circular y prestar el servicio de transporte público. Una vez que cumplen los requisitos, se les entrega un formato para rellenar, el cual se ingresa por medio de oficialía para comenzar el procedimiento respectivo para la liberación de la unidad."
-      
-    },
-    {
-      "id": "tramite61",
-      "titulo": "Derechos ARCOP",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
-      "descripcion": "Es la solicitud para poder ejercer los Derechos de Acceso, Rectificación, Cancelación y Oposición al Tratamiento de Datos Personales."
-      
-    },
-    {
-      "id": "tramite62",
-      "titulo": "Solicitud de acceso a la información",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Concesiones",
-      "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
-      "descripcion": "Existe el procedimiento del recurso de revisión en caso de que no esté conforme con la información entregada por parte de la Unidad de Transparencia."
-      
-    },
-    {
-      "id": "tramite63",
-      "titulo": "Solicitud de desbloqueo de concesión por COCOBSI",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección Jurídica",
-      "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
-      "descripcion": "Procedimiento denominado: Comparecencia de Concesionarios Bloqueados en el Sistema (COCOBSI), con el objetivo de que los concesionarios que obtuvieron sus concesiones en los ejercicios fiscales 2014, 2015 y 2016, que no se encuentran dentro de los expedientes observados en la auditoría número SASO 17/SASO-B/2017, aporten los documentos relativos al procedimiento de otorgamiento de concesión, en estricto apego a los principios de audiencia y de la legalidad de todo procedimiento administrativo."
-      
-    },
-    {
-      "id": "tramite64",
-      "titulo": "Solicitud de desbloqueo de concesión por folios extraviados y/o robados",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección Jurídica",
-      "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
-      "descripcion": "Procedimiento para la revisión de expedientes administrativos que se encuentran bloqueados en el Sistema de Control y Administración de Concesionarios (SICAC), con el objeto de revisar y acordar lo procedente sobre su desbloqueo, relacionado con la circular SEVITRA/DJ/JO2/2017. Todo concesionario que se encuentre bloqueado en el SICAC, por tener una o varias hojas de papel de seguridad cuyo folio esté reportado como extraviado o robado, podrá adherirse al procedimiento para la revisión de expedientes administrativos con la finalidad de revisar y acordar lo procedente sobre su desbloqueo de concesión."
-      
-    },
-    {
-      "id": "tramite65",
-      "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Alta de Vehículo",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación de Concesiones",
-      "depto_responsable": "Departamento de Multas y Sanciones",
-      "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un memorándum que envía el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica la fecha de baja y la fecha de recepción del oficio de acuse para calcular el monto de las UMAS y realizar la línea de pago."
-      
-    },
-    {
-      "id": "tramite66",
-      "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Tenencia",
-      "modalidad": "Presencial",
-      "tipo": "Trámite",
-      "area_responsable": "Dirección de Operación de Concesiones",
-      "depto_responsable": "Departamento de Multas y Sanciones",
-      "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad."
-      
-    }
-  ]
+  {
+    "id": "dirlicemp1",
+    "titulo": "Alta de vehículos nuevos",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Registro de vehículos nacionales del servicio público y privado al Padrón Vehicular del Estado de Oaxaca y Expedición de placa y tarjetas de circulación a favor del interesado."
+    
+  },
+  {
+    "id": "dirlicemp2",
+    "titulo": "Alta otra entidad",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Registro de vehículos nuevos o seminuevos, nacionales o extranjeros del servicio público o privado (Moral, Física, Municipios, Dependencias gubernamentales, estatales y federales) al Padrón Vehicular del Estado de Oaxaca para la emisión del formato de pago de tenencia y expedición de placas y tarjeta de circulación."
+    
+  },
+  {
+    "id": "dirlicemp3",
+    "titulo": "Refrendo (Pago de tenencia y tarjeta de circulación)",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Expedir tarjeta de circulación a favor del interesado con la finalidad de mantener actualizado y regularizado el padrón de vehículos nacionales y extranjeros del servicio público y privado en el Estado de manera Anual."
+  },
+  {
+    "id": "dirlicemp4",
+    "titulo": "Baja vehicular servicio particular - robado o siniestrado",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Los propietarios y/o tenedores de vehículos registrados en el padrón vehicular del Estado de Oaxaca deberán realizar el trámite de baja vehicular ante la Secretaría de Movilidad."
+    
+  },
+  {
+    "id": "dirlicemp5",
+    "titulo": "Baja vehicular servicio público - robado o siniestrado",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Los propietarios y/o tenedores de vehículos registrados en el padrón vehicular del Estado de Oaxaca deberán realizar el trámite de baja vehicular ante la Secretaría de Movilidad."
+    
+  },
+  {
+    "id": "dirlicemp6",
+    "titulo": "Canje de Placas servicio particular",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Canje de Placas Vehicular del Estado de Oaxaca."
+    
+  },
+  {
+    "id": "dirlicemp7",
+    "titulo": "Canje de Placas Servicio Público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Canje de Placas Vehicular del Estado de Oaxaca."
+    
+  },
+  {
+    "id": "dirlicemp8",
+    "titulo": "Cambio de Propietario",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Realizar la actualización de la propiedad del vehículo en el Padrón Vehicular del Estado de Oaxaca para la expedición de placa y tarjetas de circulación a favor del interesado."
+    
+  },
+  {
+    "id": "dirlicemp9",
+    "titulo": "Placas de Demostración",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Podrán adquirir placas de demostración los fabricantes, las plantas ensambladoras, distribuidores de vehículos automotores nuevos, que tengan su domicilio fiscal dentro del territorio del Estado de Oaxaca."
+    
+  },
+  {
+    "id": "dirlicemp10",
+    "titulo": "Refrendo Placas de Demostración",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Pago del uso, goce o aprovechamiento de placas para vehículos de demostración."
+    
+  },
+  {
+    "id": "dirlicemp11",
+    "titulo": "Baja de Placas de Demostración",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
+    "descripcion": "Dar aviso y realizar el trámite de baja de las placas de demostración del Estado de Oaxaca ante la Secretaría de Movilidad."
+    
+  },
+  {
+    "id": "dirconcesion1",
+    "titulo": "Alta de vehículo",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
+    "descripcion": "Se realiza el alta de vehículo cuando por primera vez se obtiene un título de concesión o por una transferencia de concesión."
+    
+  },
+  {
+    "id": "dirconcesion2",
+    "titulo": "Cambio de vehículo",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
+    "descripcion": "Se realiza el cambio de vehículo cuando el vehículo con el que se está prestando el servicio de transporte público ya no está permitido por la Ley o cuando sufre un percance y no es apto para seguir operando."
+    
+  },
+  {
+    "id": "dirconcesion3",
+    "titulo": "Prórroga de vehículo",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
+    "descripcion": "Se realiza la prórroga de vehículo cuando el vehículo con el que se está operando ya no es permitido por la ley."
+    
+  },
+  {
+    "id": "dirlicemp12",
+    "titulo": "Permiso provisional para circular sin placas y tarjetas de circulación del servicio particular válido por 30 días",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Permiso provisional temporal para circular dentro y fuera de la entidad, vehículo nuevo y seminuevo (nacionales y extranjeros)."
+    
+  },
+  {
+    "id": "dirconcesion4",
+    "titulo": "Cambio de motor",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
+    "descripcion": "Se realiza el cambio de motor cuando el motor del vehículo con el que se está prestando el servicio de transporte público se daña."
+    
+  },
+  {
+    "id": "dirconcesion5",
+    "titulo": "Permiso provisional para el servicio público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Altas y Actualización de Vehículos",
+    "descripcion": "Es la autorización para prestar el servicio de transporte público sin placas cuando el concesionario se encuentra en un trámite administrativo dentro de la Dirección de Concesiones."
+    
+  },
+  {
+    "id": "dirconcesion6",
+    "titulo": "Designación de beneficiarios",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Transferencia de Concesiones",
+    "descripcion": "El concesionario designa como beneficiario a la persona que continuará con la prestación del servicio a su fallecimiento."
+    
+  },
+  {
+    "id": "dirsismov1",
+    "titulo": "Expedición de constancia de capacitación a operadores del servicio público de Transporte Público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Sistema de Movilidad y Seguridad Vial",
+    "depto_responsable": "Departamento de proyectos y estrategias de movilidad",
+    "descripcion": "Con el desarrollo de esta capacitación se busca promover, desarrollar conductas, actitudes y hábitos relacionados con la protección de la salud y la seguridad, en el marco de la seguridad y educación vial, dirigida a concesionarios, conductores del servicio público."
+    
+  },
+  {
+    "id": "dirsismov2",
+    "titulo": "Expedición, renovación y reposición de tarjetón para conductores de Transporte Público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Sistema de Movilidad y Seguridad Vial",
+    "depto_responsable": "Departamento de proyectos y estrategias de movilidad",
+    "descripcion": "Dirigida a personas conductoras del servicio público, para contar con un padrón estatal de personas conductoras del servicio de transporte público, se busca promover, desarrollar conductas, actitudes y hábitos relacionados con la protección de la salud y la seguridad, en el marco de la seguridad y educación vial."
+    
+  },
+  {
+    "id": "dirplaneacion1",
+    "titulo": "Estudio y Dictamen para la Modificación y/o Ampliación de Ruta de Transporte Público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Planeación y Políticas",
+    "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
+    "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia de la modificación o ampliación de ruta autorizado en su concesión."
+    
+  },
+  {
+    "id": "dirlicemp13",
+    "titulo": "Licencia tipo  \"C\" Operador de transporte público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias de Conducir",
+    "depto_responsable": "Departamento de Emisión de Licencias",
+    "descripcion": "Licencia tipo \"C\" Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo \"B\", los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos"
+    
+  },
+  {
+    "id": "dirlicemp14",
+    "titulo": "Licencia de Conducir Tipo D",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias de Conducir",
+    "depto_responsable": "Departamento de Emisión de Licencias",
+    "descripcion": "Licencia dirigida a conductores de vehículos de carga pesada."
+    
+  },
+  {
+    "id": "dirplaneacion2",
+    "titulo": "Expedición de tarjetón de tarifa de transporte público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Planeación y Políticas",
+    "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
+    "descripcion": "Expedir Tarjetones Oficiales, con la Tarifa regulada por la Secretaría de Movilidad."
+    
+  },
+  {
+    "id": "dirplaneacion3",
+    "titulo": "Elaborar estudios técnicos de factibilidad a las personas concesionadas para determinar la procedencia o improcedencia para el posible otorgamiento de concesiones de transporte público.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Planeación y Políticas",
+    "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
+    "descripcion": "Elaborar estudios técnicos de factibilidad para determinar la procedencia o improcedencia para el posible otorgamiento de concesiones de transporte público."
+    
+  },
+  {
+    "id": "dirplaneacion4",
+    "titulo": "Solicitud de Elaboración de Estudios de Factibilidad y Dictaminación para el Cambio de Tipo de Vehículo Autorizado en su Concesión. Servicio Público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Planeación y Políticas",
+    "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
+    "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia del cambio de tipo de vehículo autorizado en su concesión."
+    
+  },
+  {
+    "id": "dirplaneacion5",
+    "titulo": "Solicitud de Elaboración de Estudios Técnicos de Factibilidad y Dictaminación para la Revisión y/o Actualización de Tarifa del Transporte Público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Planeación y Políticas",
+    "depto_responsable": "Departamento de Investigación y Desarrollo de Sistemas de Movilidad",
+    "descripcion": "Elaborar estudios técnicos de factibilidad a las personas concesionarias para la dictaminación de la procedencia o improcedencia de la Revisión y Actualización de Tarifa."
+    
+  },
+  {
+    "id": "dirlicemp15",
+    "titulo": "Reactivación",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Reactivación de vehículos con registro en el Padrón Vehicular del Estado de Oaxaca que causaron baja para Expedición de placa y tarjetas de circulación a favor del mismo interesado."
+    
+  },
+  {
+    "id": "dirlicemp16",
+    "titulo": "Venta de placa",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Venta de placa por robo o extravío y Expedición de placa y tarjetas de circulación a favor del interesado."
+    
+  },
+  {
+    "id": "dirlicemp17",
+    "titulo": "Reposición de tarjetas de circulación",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Reposición de la tarjeta de circulación vigente por robo o extravío y expedición de tarjeta de circulación a favor del interesado."
+    
+  },
+  {
+    "id": "dirlicemp18",
+    "titulo": "Constancia de no emplacamiento",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Constancia de no emplacamiento, a fin de garantizar que el vehículo no cuenta con registro en la entidad o que cuenta con estatus baja."
+    
+  },
+  {
+    "id": "dirlicemp19",
+    "titulo": "Tarjetón de carga particular",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Tarjetón para carga particular de acuerdo al giro comercial."
+    
+  },
+  {
+    "id": "dirlicemp20",
+    "titulo": "Licencia tipo 'A' Motociclista particular",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'A' Motociclista particular, que autoriza a su titular conducir vehículos de dos, tres o cuatro ruedas, impulsados por motor de cadena o flecha; con diferente vigencia las cuales varían en 2 años, 3 años, 5 años y permanente, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp21",
+    "titulo": "Licencia tipo 'B' Automovilista",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'B' Automovilista, que autoriza a su titular conducir los vehículos de uso particular, que no exceda de 3.5 toneladas en carga y peso; con diferente vigencia las cuales varían en 2 años, 3 años, 5 años y permanente, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp22",
+    "titulo": "Licencia tipo 'C' Operador de transporte público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'C' Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo 'B', los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp23",
+    "titulo": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte, que autoriza a su titular a conducir, además de los vehículos autorizados con las licencias tipo 'B' y 'C', los vehículos del servicio público de carga y de carga privada que exceda de 3.5 toneladas en peso y carga; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp24",
+    "titulo": "Licencia tipo 'E' Rescate, salvamento y seguridad pública",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'E', para manejo de vehículos de rescate, salvamento y seguridad pública."
+    
+  },
+  {
+    "id": "dirlicemp25",
+    "titulo": "Licencia tipo 'F' Personas con discapacidad",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'F' Personas con discapacidad, que autoriza a su titular persona con discapacidad a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp26",
+    "titulo": "Licencia tipo 'G' Adulto mayor",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'G' Adulto mayor, que autoriza a su titular adulto mayor a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp27",
+    "titulo": "Renovación de licencia tipo 'A' Motociclista particular",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'A' Motociclista particular, que autoriza a su titular conducir vehículos de dos, tres o cuatro ruedas, impulsados por motor de cadena o flecha; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp28",
+    "titulo": "Renovación de Licencia tipo 'B' Automovilista",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'B' Automovilista, que autoriza a su titular conducir los vehículos de uso particular, que no exceda de 3.5 toneladas en carga y peso; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp29",
+    "titulo": "Renovación de Licencia tipo 'C' Operador de transporte público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'C' Operador de transporte público, que autoriza a su titular conducir, además de los vehículos autorizados con la licencia tipo 'B', los vehículos destinados al servicio público de transporte de pasajeros; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp30",
+    "titulo": "Renovación de Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo 'D' Operador de vehículo de carga o servicio especial de transporte, que autoriza a su titular a conducir, además de los vehículos autorizados con las licencias tipo 'B' y 'C', los vehículos del servicio público de carga y de carga privada que exceda de 3.5 toneladas en peso y carga; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp31",
+    "titulo": "Renovación de Licencia tipo \"E\" Operador de vehículo de seguridad pública, salvamento o rescate.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo \"E\" Operador de vehículo de seguridad pública, salvamento o rescate, que autoriza a su titular a conducir, además de los vehículos autorizados conforme a la licencia tipo \"B\", los vehículos de seguridad pública, salvamento o rescate; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp32",
+    "titulo": "Renovación de Licencia tipo \"G\" Adulto mayor.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo \"G\" Adulto mayor, que autoriza a su titular adulto mayor a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos."
+    
+  },
+  {
+    "id": "dirlicemp33",
+    "titulo": "Licencia tipo \"A\" Motociclista particular para menor de edad.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Únicamente se expedirá permiso de tipo \"A\" motociclista con una vigencia máxima de 2 años, cuando el solicitante haya cumplido 16 años de edad y menos de 18."
+    
+  },
+  {
+    "id": "dirlicemp34",
+    "titulo": "Licencia tipo \"B\" Automovilista para menor de edad.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "Únicamente se expedirá permiso de tipo \"B\" automovilista con una vigencia máxima de 2 años, cuando el solicitante haya cumplido 16 años de edad y menos de 18"
+    
+  },
+  {
+    "id": "dirlicemp35",
+    "titulo": "Reposición de licencia en todas las modalidades \"A\", \"B\", \"C\", \"D\", \"E\", \"F\" y \"G\".",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "La reposición de la licencia de manejo en cualquiera de sus tipos se realizará cuando sea extraviada o se encuentre en mal estado, cuando presenté más de 365 días a la fecha de su vencimiento."
+    
+  },
+  {
+    "id": "dirlicemp36",
+    "titulo": "Renovación de licencia para extranjero.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público."
+    
+  },
+  {
+    "id": "dirlicemp37",
+    "titulo": "Reposición de licencia para extranjero.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "La reposición de la licencia de manejo en cualquiera de sus tipos, se realizará cuando sea extraviada o se encuentre en mal estado, cuando presente más de 365 días a la fecha de vencimiento. En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público."
+    
+  },
+  {
+    "id": "dirlicemp38",
+    "titulo": "Licencia para extranjero.",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias",
+    "descripcion": "En caso de que la estancia del solicitante sea temporal solo se podrá expedir la licencia por dos años de vigencia y únicamente tipo \"A\" y \"B\". En caso de que la estancia en el país sea permanente, se expedirá cualquier tipo de licencia hasta por 5 años, excepto la licencia tipo \"C\" para servicio de transporte público."
+    
+  },
+  {
+    "id": "dirsismov3",
+    "titulo": "Registro de agrupación de transporte público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Sistema de Movilidad y Seguridad Vial",
+    "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
+    "descripcion": "El registro de agrupación es el proceso mediante el cual las personas morales constituidas por concesionarios del transporte público son registradas y reconocidas ante la Secretaría de Movilidad."
+    
+  },
+  {
+    "id": "diroperacion1",
+    "titulo": "Autorización de cromática, distintivos y aditamentos para vehículos del servicio del transporte público de pasajeros",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación del Transporte Público",
+    "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
+    "descripcion": "La autorización de cromática, distintivos y aditamentos para vehículos del servicio del transporte público de pasajeros es un trámite que únicamente se les autoriza a los concesionarios que ya cuenten con su registro de agrupación."
+    
+  },
+  {
+    "id": "diroperacion2",
+    "titulo": "Revista físico mecánica",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación del Transporte Público",
+    "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
+    "descripcion": "Revisión de la condición física y mecánica de todas las unidades que prestan el servicio público en todas sus modalidades."
+    
+  },
+  {
+    "id": "diroperacion3",
+    "titulo": "Cambio de agrupación por concesionario de transporte público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación del Transporte Público",
+    "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
+    "descripcion": "Se le autoriza un cambio de agrupación a un concesionario únicamente si cumple con todos los requisitos solicitados y si ha renunciado a la agrupación a la cual había pertenecido anteriormente."
+    
+  },
+  {
+    "id": "dirconcesion7",
+    "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Renovación de Concesión",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Multas y Sanciones",
+    "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por la Dirección de Concesiones, donde se indica el nombre del concesionario, el número de acuerdo de la concesión, los años de extemporaneidad y las UMAS correspondientes."
+    
+  },
+  {
+    "id": "dirconcesion8",
+    "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Cambio de Vehículo",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación de Concesiones",
+    "depto_responsable": "Departamento de Multas y Sanciones",
+    "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un memorándum enviado por el departamento de altas y actualizaciones de vehículo, donde se especifica el nombre, la fecha de baja y la fecha de acuse de recibo, a partir del cual se calculan las UMAS correspondientes para proceder a hacer la línea de pago."
+    
+  },
+  {
+    "id": "dirconcesion9",
+    "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Tenencia",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación de Concesiones",
+    "depto_responsable": "Departamento de Multas y Sanciones",
+    "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el departamento de altas y actualizaciones de vehículo, donde se incluye el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad."
+    
+  },
+  {
+    "id": "diroperacion4",
+    "titulo": "Inicio de procedimiento de Aplicación de Sanciones por faltas a la Ley de Movilidad y el Reglamento de Movilidad al Transporte Público",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación del Transporte Público",
+    "depto_responsable": "Departamento de Multas y Sanciones",
+    "descripcion": "Por medio de redes sociales, call center, y/o quejas por escrito, se reciben las denuncias ciudadanas en donde se hace del conocimiento a esta autoridad posibles faltas a la normatividad. Una vez evaluados los hechos, se procede a iniciar el procedimiento de aplicación de sanciones otorgando un número de expediente administrativo, citando los fundamentos legales vulnerados y notificando a los involucrados sobre el procedimiento iniciado en su contra."
+    
+  },
+  {
+    "id": "diroperacion5",
+    "titulo": "Liberación de unidades",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación del Transporte Público",
+    "depto_responsable": "Departamento de Multas y Sanciones",
+    "descripcion": "Por medio de memorándum se ponen a disposición del Departamento las unidades que no cumplen con los requisitos para circular y prestar el servicio de transporte público. Una vez que cumplen los requisitos, se les entrega un formato para rellenar, el cual se ingresa por medio de oficialía para comenzar el procedimiento respectivo para la liberación de la unidad."
+    
+  },
+  {
+    "id": "dirconcesion10",
+    "titulo": "Derechos ARCOP",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
+    "descripcion": "Es la solicitud para poder ejercer los Derechos de Acceso, Rectificación, Cancelación y Oposición al Tratamiento de Datos Personales."
+    
+  },
+  {
+    "id": "dirconcesion11",
+    "titulo": "Solicitud de acceso a la información",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Concesiones",
+    "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
+    "descripcion": "Existe el procedimiento del recurso de revisión en caso de que no esté conforme con la información entregada por parte de la Unidad de Transparencia."
+    
+  },
+  {
+    "id": "dirjuridica1",
+    "titulo": "Solicitud de desbloqueo de concesión por COCOBSI",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección Jurídica",
+    "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
+    "descripcion": "Procedimiento denominado: Comparecencia de Concesionarios Bloqueados en el Sistema (COCOBSI), con el objetivo de que los concesionarios que obtuvieron sus concesiones en los ejercicios fiscales 2014, 2015 y 2016, que no se encuentran dentro de los expedientes observados en la auditoría número SASO 17/SASO-B/2017, aporten los documentos relativos al procedimiento de otorgamiento de concesión, en estricto apego a los principios de audiencia y de la legalidad de todo procedimiento administrativo."
+    
+  },
+  {
+    "id": "dirjuridica2",
+    "titulo": "Solicitud de desbloqueo de concesión por folios extraviados y/o robados",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección Jurídica",
+    "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
+    "descripcion": "Procedimiento para la revisión de expedientes administrativos que se encuentran bloqueados en el Sistema de Control y Administración de Concesionarios (SICAC), con el objeto de revisar y acordar lo procedente sobre su desbloqueo, relacionado con la circular SEVITRA/DJ/JO2/2017. Todo concesionario que se encuentre bloqueado en el SICAC, por tener una o varias hojas de papel de seguridad cuyo folio esté reportado como extraviado o robado, podrá adherirse al procedimiento para la revisión de expedientes administrativos con la finalidad de revisar y acordar lo procedente sobre su desbloqueo de concesión."
+    
+  },
+  {
+    "id": "diroperacion6",
+    "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Alta de Vehículo",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación de Concesiones",
+    "depto_responsable": "Departamento de Multas y Sanciones",
+    "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un memorándum que envía el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica la fecha de baja y la fecha de recepción del oficio de acuse para calcular el monto de las UMAS y realizar la línea de pago."
+    
+  },
+  {
+    "id": "diroperacion7",
+    "titulo": "Expedición de líneas de pago por concepto de trámite extemporáneo de Tenencia",
+    "modalidad": "Presencial",
+    "tipo": "Trámite",
+    "area_responsable": "Dirección de Operación de Concesiones",
+    "depto_responsable": "Departamento de Multas y Sanciones",
+    "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad."
+    
+  }
+]

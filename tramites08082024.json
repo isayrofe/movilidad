@@ -5818,6 +5818,9 @@
     "area_responsable": "Dirección de Operación del Transporte Público",
     "depto_responsable": "Departamento de Supervisión y Control del Transporte Público",
     "descripcion": "Se le autoriza un cambio de agrupación a un concesionario únicamente si cumple con todos los requisitos solicitados y si ha renunciado a la agrupación a la cual había pertenecido anteriormente.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Licencias"
     },
@@ -6379,6 +6382,9 @@
     "area_responsable": "Dirección Jurídica",
     "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
     "descripcion": "Procedimiento denominado: Comparecencia de Concesionarios Bloqueados en el Sistema (COCOBSI), con el objetivo de que los concesionarios que obtuvieron sus concesiones en los ejercicios fiscales 2014, 2015 y 2016, que no se encuentran dentro de los expedientes observados en la auditoría número SASO 17/SASO-B/2017, aporten los documentos relativos al procedimiento de otorgamiento de concesión, en estricto apego a los principios de audiencia y de la legalidad de todo procedimiento administrativo.",
+    "quipuedehacerlo": [
+      "Interesado"
+    ],
     "contacto": {
       "modulo": "Juridico"
     },
@@ -6445,13 +6451,14 @@
     "fecha_actualizacion": "15-08-2024"
   },
   {
-    "id": "tramite64",
+    "id": "dirjuridica2",
     "titulo": "Solicitud de desbloqueo de concesión por folios extraviados y/o robados",
     "modalidad": "Presencial",
     "tipo": "Trámite",
     "area_responsable": "Dirección Jurídica",
     "depto_responsable": "Departamento de lo Contencioso Administrativo y Amparos",
     "descripcion": "Procedimiento para la revisión de expedientes administrativos que se encuentran bloqueados en el Sistema de Control y Administración de Concesionarios (SICAC), con el objeto de revisar y acordar lo procedente sobre su desbloqueo, relacionado con la circular SEVITRA/DJ/JO2/2017. Todo concesionario que se encuentre bloqueado en el SICAC, por tener una o varias hojas de papel de seguridad cuyo folio esté reportado como extraviado o robado, podrá adherirse al procedimiento para la revisión de expedientes administrativos con la finalidad de revisar y acordar lo procedente sobre su desbloqueo de concesión.",
+    
     "quipuedehacerlo": [
       "Interesado"
     ],
