@@ -6686,5 +6686,1040 @@
       }
     ],
     "fecha_actualizacion": "15-08-2024"
+  },
+  {
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias y Emplacamiento Vehicular",
+    "descripcion": "Emisión de Formatos de pago de pago de tenencia y tarjetas de circulación",
+    "tema": "Trámite",
+    "titulo": "Derechos de control vehicular (pago de tenencia y tarjetas de circulación)",
+    "contacto": {
+      "modulos": "Emplacamiento"
+    },
+    "informacion_adicional": {
+      "costo": "Este puede Variar",
+      "ubicacion_responsable": {
+        "correo": "Correo: direccion.planeacion@semovioaxaca.gob.mx",
+        "nombre": "Oficinas de Oaxaca SEMOVI"
+      },
+      "vigencia": "1 año",
+      "tiemporespuesta": "30 mins."
+    },
+    "criterios_soluciones": [
+      "Cuando un tercero realice el trámite, deberá presentar carta poder que lo faculte para tal fin, acompañada de fotocopia de la identificación oficial vigente de los firmantes.",
+      "Además de cumplir con los requisitos establecidos dentro de las leyes fiscales aplicables."
+    ],
+    "documentos": [
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Tarjeta de circulación vigente",
+            "presentacion": "Original",
+            "titulo": "Tarjeta de circulación"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          }
+        ],
+        "tema": "Personas Fisicas"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Tarjeta de circulación vigente",
+            "presentacion": "Original",
+            "titulo": "Tarjeta de circulación"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Original del acta constitutiva o copia certificada ante notario",
+            "presentacion": "Original",
+            "titulo": "Acta constitutiva"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento que acredite la personalidad del representante legal",
+            "presentacion": "Original",
+            "titulo": "Representante Legal"
+          }
+        ],
+        "tema": "Personas Morales"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Tarjeta de circulación vigente",
+            "presentacion": "Original",
+            "titulo": "Tarjeta de circulación"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Pago de derechos por concepto de permiso especial de transporte",
+            "presentacion": "Original",
+            "titulo": "Pago de derechos"
+          }
+        ],
+        "tema": "Servicio Especial de Transporte en sus modalidades de servicio escolar, servicio de personal y servicio de servicios"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Tarjeta de circulación vigente",
+            "presentacion": "Original",
+            "titulo": "Tarjeta de circulación"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Revista Físico Mecánica del ejercicio fiscal actual.",
+            "presentacion": "Original",
+            "titulo": "Revista Fisico Mecánica"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Póliza de seguro vigente",
+            "presentacion": "Original",
+            "titulo": "Poliza"
+          }
+        ],
+        "tema": "Servicio público"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Tarjeta de circulación vigente",
+            "presentacion": "Original",
+            "titulo": "Tarjeta de circulación"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente de quien realiza el trámite (Credencial para votar, pasaporte, cédula profesional).",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Gafete de identificación expedido por la dependencia gubernamental.",
+            "presentacion": "Original",
+            "titulo": "Gafete de identificación"
+          }
+        ],
+        "tema": "Dependencias gubernamentales"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Tarjeta de circulación vigente",
+            "presentacion": "Original",
+            "titulo": "Tarjeta de circulación"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente de quien realiza el trámite (Credencial para votar, pasaporte, cédula profesional).",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Constancia de situación fiscal del Registro Federal de Contribuyentes (RFC).",
+            "presentacion": "Original",
+            "titulo": "Constancia de situación fiscal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Acreditación expedida por parte de la Secretaría de Gobernación.",
+            "presentacion": "Original",
+            "titulo": "Acreditación"
+          }
+        ],
+        "tema": "Municipios"
+      }
+    ],
+    "fecha_actualizacion": "20-06-2024",
+    "fundamento_legal": [
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
+        "ley": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 01 de diciembre de 2010",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/11/LEY-DE-MOVILIDAD-ACTUALIZADA-AL-22.10.2022.pdf",
+        "ley": "Ley de Movilidad para el Estado de Oaxaca",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 22 de octubre de 2022",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "articulo": "Artículo 27, fracción XIII (Secretaría de Movilidad / Dirección de Desarrollo y Regulación de Sistemas de Movilidad / Departamento de Diseño y Estrategias de Movilidad)",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2021/08/EXT-REGLAMENTOSEMOVI-2021-08-092.pdf",
+        "ley": "Reglamento Interno de la Secretaría de Movilidad",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 07 de diciembre de 2019",
+        "ultima_reforma": ""
+      },
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/normatividad/MANUAL%20DE%20ORG%20DE%20LA%20SEVITRA-SEC27-08VA-2016-07-02.pdf",
+        "ley": "Manual de Organización de la Secretaría de Movilidad",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 30 de abril de 2022",
+        "ultima_reforma": ""
+      },
+      {
+        "articulo": "Artículo 28, fracción VII",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/02/Ley_Estatal_de_Derechos_del_Estado_de_Oaxaca_Dto_ref_10_aprob_LXV_Legis_9_dic_2021_PO_51_16a_secc_18_dic_2021.pdf",
+        "ley": "Ley Estatal de Derechos",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 30 de junio de 2018",
+        "ultima_reforma": ""
+      }
+    ],
+    "id": "destacados1",
+    "modalidad": "Presencial",
+    "queobtengo": "Copia de la tarjeta de circulación",
+    "quipuedehacerlo": [
+      "Representante legal",
+      "Interesado"
+    ],
+    "pasos_proceso_solicitud": [
+      "Solicitar por sí mismo o a través de apoderado legal el trámite",
+      "Presentar la Documentación correspondiente",
+      "Se emite el Formato de pago, mismo que deberá ser pagado por el propietario",
+      "Se asigna tarjeta de circulación y/o Placas de circulación"
+    ]
+  },
+  {
+    "area": "Dirección de Licencias y Emplacamiento Vehicular",
+    "consulta": 0,
+    "contacto": {
+      "modulos": "Emplacamiento"
+    },
+    "costo": [
+      "Puede Variar"
+    ],
+    "criterios": [
+      "En caso de vehículos del Servicio Especial de Transporte en sus modalidades de servicio escolar, servicio de personal y servicios de servicios, deberá presentar el pago de derechos por concepto de permiso especial.",
+      "En caso de vehículos a crédito, presentar carta factura original acompañada de la copia de la factura sin valor.",
+      "En caso de vehículos en arrendamiento, presentar factura o carta factura y el contrato de arrendamiento. ",
+      "En caso de vehículos en comodato, presentar factura o carta factura y el contrato de comodato.",
+      "En caso de vehículos con registro en otra entidad, presentar:",
+      "1.  Juego de placas y/o tarjeta de circulación y/o formato de baja de la otra entidad o recibo oficial del pago de derechos de la baja de placas.",
+      "2.  En caso de robo o extravío de las placas y/o tarjeta de circulación, presentar acta de hechos expedida por el Ministerio Público. ",
+      "3.  En caso de vehículos recuperados con reporte de robo, deberán presentar el formato de Registro Público Vehicular actualizado, o en su caso, el oficio donde conste la recuperación y/o liberación del vehículo por parte de la autoridad competente.",
+      "En el caso de que el vehículo sea propiedad de una persona con discapacidad, además de los requisitos señalados en los incisos anteriores, deberá presentar constancia médica expedida por una institución de Salud Pública en la que se haga constar la condición física del solicitante o tarjetón emitido por la Sistema para el Desarrollo Integral de la Familia (DIF) municipal o estatal. ",
+      "Cuando un tercero realice el trámite, deberá presentar carta poder simple que lo faculte para tal fin, acompañada de fotocopia de la identificación oficial vigente de los firmantes. ",
+      "Además de cumplir con los requisitos establecidos dentro de las leyes fiscales aplicables."
+    ],
+    "depto": "Departamento de Licencias y Emplacamiento Vehicular",
+    "descripcion": "Entrega de constancia del alta vehícular ",
+    "requisitos": [
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Juego de placas y/o tarjeta de circulación y/o formato de baja de la otra entidad o recibo oficial del pago de derechos de la baja de placas.",
+            "presentacion": "Original",
+            "titulo": "Juego de placas"
+          }
+        ],
+        "tema": "Personas Fisicas"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Constancia de situación fiscal del Registro Federal de Contribuyentes (RFC). ",
+            "presentacion": "Original",
+            "titulo": "Constancia de situación fiscal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Original del acta constitutiva de la empresa o copia certificada ante notario.",
+            "presentacion": "Original",
+            "titulo": "Acta constitutiva"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento que acredite la personalidad del representante legal.",
+            "presentacion": "Original",
+            "titulo": "Representante Legal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial del representante legal (credencial para votar vigente, pasaporte o cédula profesional). ",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial representante legal"
+          }
+        ],
+        "tema": "Personas Morales"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente del servidor público o representante que realice el trámite.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Constancia de situación fiscal del Registro Federal de Contribuyentes (RFC). ",
+            "presentacion": "Original",
+            "titulo": "Constancia de situación fiscal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Acreditación expedida por parte de la Secretaría de Gobernación.",
+            "presentacion": "Original",
+            "titulo": "Acreditación"
+          }
+        ],
+        "tema": "Municipios"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente del servidor público o representante que realice el trámite.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Oficio de designación expedido por la autoridad competente a la cual será asignado el vehículo.",
+            "presentacion": "Original",
+            "titulo": "Oficio de Designacion"
+          }
+        ],
+        "tema": "Dependencias gubernamentales estatales y federales"
+      }
+    ],
+    "fecha_actualizacion": "20-06-2024",
+    "fundamento": {
+      "ley": [
+        {
+          "articulo": "",
+          "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
+          "ley": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca",
+          "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 01 de diciembre de 2010",
+          "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+        },
+        {
+          "articulo": "",
+          "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/11/LEY-DE-MOVILIDAD-ACTUALIZADA-AL-22.10.2022.pdf",
+          "ley": "Ley de Movilidad para el Estado de Oaxaca",
+          "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 22 de octubre de 2022",
+          "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+        },
+        {
+          "articulo": "Artículo 27, fracción XIII (Secretaría de Movilidad / Dirección de Desarrollo y Regulación de Sistemas de Movilidad / Departamento de Diseño y Estrategias de Movilidad)",
+          "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2021/08/EXT-REGLAMENTOSEMOVI-2021-08-092.pdf",
+          "ley": "Reglamento Interno de la Secretaría de Movilidad",
+          "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 07 de diciembre de 2019",
+          "ultima_reforma": ""
+        },
+        {
+          "articulo": "",
+          "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/normatividad/MANUAL%20DE%20ORG%20DE%20LA%20SEVITRA-SEC27-08VA-2016-07-02.pdf",
+          "ley": "Manual de Organización de la Secretaría de Movilidad",
+          "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 30 de abril de 2022",
+          "ultima_reforma": ""
+        },
+        {
+          "articulo": "Artículo 28, fracción VII",
+          "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/02/Ley_Estatal_de_Derechos_del_Estado_de_Oaxaca_Dto_ref_10_aprob_LXV_Legis_9_dic_2021_PO_51_16a_secc_18_dic_2021.pdf",
+          "ley": "Ley Estatal de Derechos",
+          "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 30 de junio de 2018",
+          "ultima_reforma": ""
+        }
+      ]
+    },
+    "id": "destacados2",
+    "modalidad": "Presencial",
+    "queobtengo": "Constancia",
+    "quipuedehacerlo": [
+      "Propietario",
+      "Tenedores de Vehículos de Servicio Público y Privado"
+    ],
+    "documentos": [
+      {
+        "id": 0,
+        "pasos": [
+          "Solicitar por sí mismo o a través de apoderado legal el trámite",
+          "Presentar la Documentación correspondiente",
+          "Se emite el Formato de pago, mismo que deberá ser pagado por el propietario",
+          "Se asigna tarjeta de circulación y/o Placas de circulación"
+        ],
+        "tema": "Proceso de solicitud"
+      }
+    ],
+    "tiemporespuesta": "30 mins.",
+    "tema": "Trámite",
+    "titulo": "Alta de vehículos (Servicio Privado)",
+    "ubiresponsable": {
+      "correo": "Correo: direccion.planeacion@semovioaxaca.gob.mx",
+      "nombre": "Oficinas de Oaxaca SEMOVI"
+    },
+    "vigencia": "Permanente"
+  },
+  {
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias y Emplacamiento Vehicular",
+    "id": "destacados3",
+    "descripcion": "Entrega de constancia del alta vehicular",
+    "tema": "Trámite",
+    "titulo": "Alta de vehículos (Servicio Privado)",
+    "contacto": {
+      "modulos": "Emplacamiento"
+    },
+    "informacion_adicional": {
+      "costo": "Este puede variar",
+      "ubicacion_responsable": {
+        "correo": "Correo: direccion.planeacion@semovioaxaca.gob.mx",
+        "nombre": "Oficinas de Oaxaca SEMOVI"
+      },
+      "vigencia": "Permanente",
+      "tiemporespuesta": "30 mins."
+    },
+    "criterios_soluciones": [
+      "En caso de vehículos del Servicio Especial de Transporte en sus modalidades de servicio escolar, servicio de personal y servicios de servicios, deberá presentar el pago de derechos por concepto de permiso especial.",
+      "En caso de vehículos a crédito, presentar carta factura original acompañada de la copia de la factura sin valor.",
+      "En caso de vehículos en arrendamiento, presentar factura o carta factura y el contrato de arrendamiento.",
+      "En caso de vehículos en comodato, presentar factura o carta factura y el contrato de comodato.",
+      "En caso de vehículos con registro en otra entidad, presentar: 1. Juego de placas y/o tarjeta de circulación y/o formato de baja de la otra entidad o recibo oficial del pago de derechos de la baja de placas. 2. En caso de robo o extravío de las placas y/o tarjeta de circulación, presentar acta de hechos expedida por el Ministerio Público. 3. En caso de vehículos recuperados con reporte de robo, deberán presentar el formato de Registro Público Vehicular actualizado, o en su caso, el oficio donde conste la recuperación y/o liberación del vehículo por parte de la autoridad competente.",
+      "En el caso de que el vehículo sea propiedad de una persona con discapacidad, además de los requisitos señalados en los incisos anteriores, deberá presentar constancia médica expedida por una institución de Salud Pública en la que se haga constar la condición física del solicitante o tarjetón emitido por el Sistema para el Desarrollo Integral de la Familia (DIF) municipal o estatal.",
+      "Cuando un tercero realice el trámite, deberá presentar carta poder simple que lo faculte para tal fin, acompañada de fotocopia de la identificación oficial vigente de los firmantes.",
+      "Además de cumplir con los requisitos establecidos dentro de las leyes fiscales aplicables."
+    ],
+    "requisitos": [
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Juego de placas y/o tarjeta de circulación y/o formato de baja de la otra entidad o recibo oficial del pago de derechos de la baja de placas.",
+            "presentacion": "Original",
+            "titulo": "Juego de placas"
+          }
+        ],
+        "tema": "Personas Fisicas"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Constancia de situación fiscal del Registro Federal de Contribuyentes (RFC).",
+            "presentacion": "Original",
+            "titulo": "Constancia de situación fiscal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Original del acta constitutiva de la empresa o copia certificada ante notario.",
+            "presentacion": "Original",
+            "titulo": "Acta constitutiva"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento que acredite la personalidad del representante legal.",
+            "presentacion": "Original",
+            "titulo": "Representante Legal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial del representante legal (credencial para votar vigente, pasaporte o cédula profesional).",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial representante legal"
+          }
+        ],
+        "tema": "Personas Morales"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente del servidor público o representante que realice el trámite.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Constancia de situación fiscal del Registro Federal de Contribuyentes (RFC).",
+            "presentacion": "Original",
+            "titulo": "Constancia de situación fiscal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Acreditación expedida por parte de la Secretaría de Gobernación.",
+            "presentacion": "Original",
+            "titulo": "Acreditación"
+          }
+        ],
+        "tema": "Municipios"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente del servidor público o representante que realice el trámite.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Oficio de designación expedido por la autoridad competente a la cual será asignado el vehículo.",
+            "presentacion": "Original",
+            "titulo": "Oficio de Designacion"
+          }
+        ],
+        "tema": "Dependencias gubernamentales estatales y federales"
+      }
+    ],
+    "fecha_actualizacion": "20-06-2024",
+    "fundamento_legal": [
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
+        "ley": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 01 de diciembre de 2010",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/11/LEY-DE-MOVILIDAD-ACTUALIZADA-AL-22.10.2022.pdf",
+        "ley": "Ley de Movilidad para el Estado de Oaxaca",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 07 de junio de 2022",
+        "ultima_reforma": "Última reforma publicada el 10 de agosto de 2022"
+      }
+    ],
+    "pasos_proceso_solicitud": [
+      "Agendar cita a través del siguiente enlace: https://citas.semovioaxaca.gob.mx/cita",
+      "Descargar el Formato de pago desde la siguiente página: https://siox.finanzasoaxaca.gob.mx/pagos",
+      "Presentarse al Módulo de atención",
+      "Se realiza la Captura de datos, toma de fotografía y biométricos",
+      "Se realiza la emisión de la Licencia Correspondiente",
+      "Tratándose de Licencias Tipo C, para servicio Público, la línea de pago se debe obtener directamente en el Modulo de atención."
+    ]
+  },
+  {
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias y Emplacamiento Vehicular",
+    "descripcion": "Cambio de propietario vehicular",
+    "tema": "Trámite",
+    "titulo": "Cambio de propietario",
+    "contacto": {
+      "modulos": "Emplacamiento"
+    },
+    "informacion_adicional": {
+      "costo": "Variable",
+      "ubicacion_responsable": {
+        "correo": "direccion.planeacion@semovioaxaca.gob.mx",
+        "nombre": "Oficinas de Oaxaca SEMOVI"
+      },
+      "vigencia": "Permanente",
+      "tiemporespuesta": "30 mins."
+    },
+    "criterios_soluciones": [
+      "Cuando un tercero realice el trámite, deberá presentar carta poder que lo faculte para tal fin, acompañada de fotocopia de la identificación oficial vigente de los firmantes.",
+      "Además de cumplir con los requisitos establecidos dentro de las leyes fiscales aplicables."
+    ],
+    "requisitos": [
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento con el que se acredita la propiedad o posesión legal del vehículo",
+            "presentacion": "Original",
+            "titulo": "Posesión legal del vehículo"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente (Credencial para votar, pasaporte, cédula profesional. Para personas extranjeras, documento que acredite la estancia legal en el país (FM2 o FM3) de forma temporal o definitiva.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "titulo": "Comprobante de domicilio"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Para vehículos con factura impresa (anterior a la facturación electrónica) deberá presentar cesión de derechos del vehículo.",
+            "presentacion": "Original",
+            "titulo": "Cesión de Derechos"
+          },
+          {
+            "copias_requeridas": 1,
+            "descripcion": "Para vehículo con factura digital (CFD y CFDI) deberá presentar documento que acredite la transmisión legal de la propiedad.",
+            "presentacion": "Original",
+            "titulo": "Documento de transmisión legal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Juego de placas y/o tarjeta de circulación y/o formato de baja de la otra entidad o recibo oficial del pago de derechos de la baja de placas.",
+            "presentacion": "Original",
+            "titulo": "Juego de placas"
+          }
+        ],
+        "tema": "Personas Físicas"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Constancia de situación fiscal del Registro Federal de Contribuyentes (RFC).",
+            "presentacion": "Original",
+            "titulo": "Constancia de situación fiscal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Original del acta constitutiva de la empresa o copia certificada ante notario.",
+            "presentacion": "Original",
+            "titulo": "Acta constitutiva"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Documento que acredite la personalidad del representante legal.",
+            "presentacion": "Original",
+            "titulo": "Representante Legal"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial del representante legal (credencial para votar vigente, pasaporte o cédula profesional).",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial representante legal"
+          }
+        ],
+        "tema": "Personas Morales"
+      },
+      {
+        "documentos": [
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Identificación oficial vigente del servidor público o representante que realice el trámite.",
+            "presentacion": "Original",
+            "titulo": "Identificación oficial"
+          },
+          {
+            "copias_requeridas": 0,
+            "descripcion": "Acreditación expedida por parte de la Secretaría de Gobernación.",
+            "presentacion": "Original",
+            "titulo": "Acreditación"
+          }
+        ],
+        "tema": "Municipios"
+      }
+    ],
+    "fecha_actualizacion": "20-06-2024",
+    "fundamento_legal": [
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
+        "ley": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 01 de diciembre de 2010",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/11/LEY-DE-MOVILIDAD-ACTUALIZADA-AL-22.10.2022.pdf",
+        "ley": "Ley de Movilidad para el Estado de Oaxaca",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 22 de octubre de 2022",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "articulo": "Artículo 27, fracción XIII (Secretaría de Movilidad / Dirección de Desarrollo y Regulación de Sistemas de Movilidad / Departamento de Diseño y Estrategias de Movilidad)",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2021/08/EXT-REGLAMENTOSEMOVI-2021-08-092.pdf",
+        "ley": "Reglamento Interno de la Secretaría de Movilidad",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 07 de diciembre de 2019",
+        "ultima_reforma": ""
+      },
+      {
+        "articulo": "",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/normatividad/MANUAL%20DE%20ORG%20DE%20LA%20SEVITRA-SEC27-08VA-2016-07-02.pdf",
+        "ley": "Manual de Organización de la Secretaría de Movilidad",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 30 de abril de 2022",
+        "ultima_reforma": ""
+      },
+      {
+        "articulo": "Artículo 28, fracción VII",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/02/Ley_Estatal_de_Derechos_del_Estado_de_Oaxaca_Dto_ref_10_aprob_LXV_Legis_9_dic_2021_PO_51_16a_secc_18_dic_2021.pdf",
+        "ley": "Ley Estatal de Derechos",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 30 de junio de 2018",
+        "ultima_reforma": ""
+      }
+    ],
+    "pasos_proceso_solicitud": [
+      "1. Agendar cita a través del presente link: <a href='https://citas.semovioaxaca.gob.mx/cita'><i class='fa fa-address-book fa-3x' aria-hidden='true'></i></a>",
+      "2. Acudir al módulo de atención a realizar el trámite por sí mismo o a través de apoderado legal",
+      "3. Presentar la Documentación correspondiente",
+      "4. Se realiza la captura de datos y escaneo de documentación",
+      "5. Se emite la constancia de cambio de propietario, misma que deberá llevar firma autógrafa del propietario del vehículo",
+      "6. Se emite el Formato de pago, mismo que deberá ser pagado por el propietario",
+      "7. Se asignan placas y tarjeta de circulación."
+    ],
+    "id": "destacados4",
+    "modalidad": "Presencial",
+    "queobtengo": "Constancia",
+    "quipuedehacerlo": [
+      "Propietario",
+      "Tenedores de Vehículos de Servicio Público y Privado"
+    ]
+  },
+  {
+    "id": "destacados5",
+    "titulo": "Reposición de Licencias de Conducir",
+    "descripcion": "Emisión de Licencias de conducir vehículos del servicio público y privado",
+    "area": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto": "Departamento de Licencias y Emplacamiento Vehicular",
+    "modalidad": "Presencial",
+    "queobtengo": "Licencia de Conducción",
+    "criterios_soluciones": [
+      "Tratándose de Licencias Tipo C, para servicio Público, la línea de pago se debe obtener directamente en el Modulo de atención."
+    ],
+    "informacion_adicional": {
+      "vigencia_tramite": "Variable de acuerdo al tipo de Licencia y la vigencia requerida",
+      "ubicacion_responsable": {
+        "nombre": "Oficinas de Oaxaca SEMOVI",
+        "correo": "direccion.planeacion@semovioaxaca.gob.mx"
+      },
+      "tiempo_respuesta": "30 mins.",
+      "costo": "El costo es variable, de acuerdo al tipo de Licencia y la vigencia requerida"
+    },
+    "requisitos": [
+      {
+        "tema": "Licencias Tipo \"A\", \"B\", \"C\", \"D\", \"E\", \"F\" y \"G\"",
+        "documentos": [
+          {
+            "titulo": "Identificación oficial",
+            "descripcion": "Identificación oficial vigente: Credencial para votar con fotografía, pasaporte o cédula profesional.",
+            "presentacion": "Original",
+            "copias_requeridas": 0
+          }
+        ]
+      }
+    ],
+    "fundamento_legal": [
+      {
+        "ley": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 01 de diciembre de 2010",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "ley": "Ley de Movilidad para el Estado de Oaxaca",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/11/LEY-DE-MOVILIDAD-ACTUALIZADA-AL-22.10.2022.pdf",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 22 de octubre de 2022",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "ley": "Reglamento Interno de la Secretaría de Movilidad",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2021/08/EXT-REGLAMENTOSEMOVI-2021-08-092.pdf",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 07 de diciembre de 2019",
+        "ultima_reforma": ""
+      },
+      {
+        "ley": "Manual de Organización de la Secretaría de Movilidad",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/normatividad/MANUAL%20DE%20ORG%20DE%20LA%20SEVITRA-SEC27-08VA-2016-07-02.pdf",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 30 de abril de 2022",
+        "ultima_reforma": ""
+      },
+      {
+        "ley": "Ley Estatal de Derechos",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/02/Ley_Estatal_de_Derechos_del_Estado_de_Oaxaca_Dto_ref_10_aprob_LXV_Legis_9_dic_2021_PO_51_16a_secc_18_dic_2021.pdf",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 30 de junio de 2018",
+        "ultima_reforma": ""
+      }
+    ],
+    "pasos_proceso_solicitud": [
+      "1. Agendar cita a través del siguiente enlace: <a href='https://citas.semovioaxaca.gob.mx/cita'><i class='fa fa-address-book fa-3x' aria-hidden='true'></i></a>",
+      "2. Descargar el Formato de pago desde la siguiente página: https://siox.finanzasoaxaca.gob.mx/pagos",
+      "3. Presentarse al Módulo de atención",
+      "4. Se realiza la emisión de la Licencia Correspondiente"
+    ]
+  },
+  {
+    "id": "destacados6",
+    "titulo": "Expedición de Licencias de Conducir A, B, C y D",
+    "descripcion": "Emisión de Licencias de conducir vehículos del servicio público y privado",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "depto_responsable": "Departamento de Licencias y Emplacamiento Vehicular",
+    "modalidad": "Presencial",
+    "contacto": {
+      "modulo": "Licencias"
+    },
+    "queobtengo": "Licencia de Conducir",
+    "informacion_adicional": {
+      "costo": "El costo es variable, de acuerdo al tipo de Licencia y la vigencia requerida",
+      "vigencia_tramite": "2, 3, 5 años y permanente",
+      "ubiresponsable": {
+        "nombre": "Oficinas de Oaxaca SEMOVI",
+        "correo": "direccion.planeacion@semovioaxaca.gob.mx"
+      },
+      "tiempo_respuesta": "30 mins."
+    },
+    "criterios_soluciones": [
+      "Tratándose de Licencias Tipo C, para servicio Público, la línea de pago se debe obtener directamente en el Modulo de atención."
+    ],
+    "requisitos": [
+      {
+        "tema": "Licencias Tipo \"A\" y \"B\" con vigencias determinadas y/o permanentes",
+        "documentos": [
+          {
+            "titulo": "Acreditar el examen de manejo",
+            "descripcion": "Acreditar el examen de manejo aplicado por la Secretaría de Movilidad",
+            "presentacion": "Original",
+            "copias_requeridas": 0
+          },
+          {
+            "titulo": "Identificación oficial",
+            "descripcion": "Identificación oficial vigente: Credencial para votar con fotografía, pasaporte o cédula profesional.",
+            "presentacion": "Original",
+            "copias_requeridas": 0
+          },
+          {
+            "titulo": "Comprobante de domicilio",
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "copias_requeridas": 0
+          }
+        ]
+      },
+      {
+        "tema": "Licencia tipo \"C\"",
+        "documentos": [
+          {
+            "titulo": "Licencia",
+            "descripcion": "Licencia original vencida en caso de tenerla",
+            "presentacion": "Original",
+            "copias_requeridas": 0
+          },
+          {
+            "titulo": "Identificación oficial",
+            "descripcion": "Identificación oficial vigente: Credencial para votar con fotografía, pasaporte o cédula profesional.",
+            "presentacion": "Original",
+            "copias_requeridas": 0
+          },
+          {
+            "titulo": "Comprobante de domicilio",
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "copias_requeridas": 0
+          },
+          {
+            "titulo": "Copia de la concesión",
+            "descripcion": "Copia de la concesión con número único de concesionario y/o copia de la tarjeta de circulación vigente.",
+            "presentacion": "Copia",
+            "copias_requeridas": 0
+          }
+        ]
+      },
+      {
+        "tema": "Licencia tipo \"D\"",
+        "documentos": [
+          {
+            "titulo": "Licencia",
+            "descripcion": "Licencia original vencida en caso de tenerla",
+            "presentacion": "Original",
+            "copias_requeridas": 0
+          },
+          {
+            "titulo": "Identificación oficial",
+            "descripcion": "Identificación oficial vigente: Credencial para votar con fotografía, pasaporte o cédula profesional.",
+            "presentacion": "Original",
+            "copias_requeridas": 0
+          },
+          {
+            "titulo": "Comprobante de domicilio",
+            "descripcion": "Comprobante de domicilio no mayor a tres meses.",
+            "presentacion": "Copia",
+            "copias_requeridas": 0
+          }
+        ]
+      }
+    ],
+    "fundamento_legal": [
+      {
+        "ley": "Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2023/04/LEY-ORGANICA-DEL-PODER-EJECUTIVO-DELE-STADO-DE-OAXACA.pdf",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 01 de diciembre de 2010",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "ley": "Ley de Movilidad para el Estado de Oaxaca",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/11/LEY-DE-MOVILIDAD-ACTUALIZADA-AL-22.10.2022.pdf",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 22 de octubre de 2022",
+        "ultima_reforma": "Última reforma publicada el 12 de marzo de 2020"
+      },
+      {
+        "ley": "Reglamento Interno de la Secretaría de Movilidad",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2021/08/EXT-REGLAMENTOSEMOVI-2021-08-092.pdf",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 07 de diciembre de 2019",
+        "ultima_reforma": ""
+      },
+      {
+        "ley": "Manual de Organización de la Secretaría de Movilidad",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/normatividad/MANUAL%20DE%20ORG%20DE%20LA%20SEVITRA-SEC27-08VA-2016-07-02.pdf",
+        "publicacion": "Publicado en el Periódico Oficial del Gobierno del Estado el 30 de abril de 2022",
+        "ultima_reforma": ""
+      },
+      {
+        "ley": "Ley Estatal de Derechos",
+        "enlace": "https://www.oaxaca.gob.mx/semovi/wp-content/uploads/sites/34/2022/02/Ley_Estatal_de_Derechos_del_Estado_de_Oaxaca_Dto_ref_10_aprob_LXV_Legis_9_dic_2021_PO_51_16a_secc_18_dic_2021.pdf",
+        "publicacion": "Publicada en el Periódico Oficial del Gobierno del Estado el 30 de junio de 2018",
+        "ultima_reforma": ""
+      }
+    ],
+    "pasos_proceso_solicitud": [
+      "1. Agendar cita a través del siguiente enlace: <a href='https://citas.semovioaxaca.gob.mx/cita'><i class='fa fa-address-book fa-3x' aria-hidden='true'></i></a>",
+      "2. Descargar el Formato de pago desde la siguiente página: https://siox.finanzasoaxaca.gob.mx/pagos",
+      "3. Presentarse al Módulo de atención",
+      "4. Se realiza la emisión de la Licencia Correspondiente"
+    ]
   }
+
 ]
