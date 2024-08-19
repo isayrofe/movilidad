@@ -1,6 +1,6 @@
 [
     {
-        "id": "0",
+        "id": "destacados1",
         "modalidad": "Presencial",
         "tipo": "Trámite",
         "titulo": "Derechos de control vehicular (pago de tenencia y tarjetas de circulación)",
@@ -9,7 +9,7 @@
         "depto": "Departamento de Licencias y Emplacamiento Vehicular"
     },
     {
-        "id": "1",
+        "id": "destacados2",
         "modalidad": "Presencial",
         "tipo": "Trámite",
         "titulo": "Alta de vehículos (Servicio Privado)",
@@ -18,7 +18,7 @@
         "depto": "Departamento de Licencias y Emplacamiento Vehicular"
     },
     {
-        "id": "2",
+        "id": "destacados3",
         "modalidad": "Presencial",
         "tipo": "Trámite",
         "titulo": "Renovación de Licencias de Conducir",
@@ -27,7 +27,7 @@
         "depto": "Departamento de Licencias y Emplacamiento Vehicular"
     },
     {
-        "id": "3",
+        "id": "destacados4",
         "modalidad": "Presencial",
         "tipo": "Trámite",
         "titulo": "Cambio de propietario",
@@ -36,7 +36,7 @@
         "depto": "Departamento de Licencias y Emplacamiento Vehicular"
     },
     {
-        "id": "4",
+        "id": "destacados5",
         "modalidad": "Presencial",
         "tipo": "Trámite",
         "titulo": "Reposición de Licencias de Conducir",
@@ -45,7 +45,7 @@
         "depto": "Departamento de Licencias y Emplacamiento Vehicular"
     },
     {
-        "id": "5",
+        "id": "destacados6",
         "modalidad": "Presencial",
         "tipo": "Trámite",
         "titulo": "Expedición de Licencias de Conducir A, B, C y D",
