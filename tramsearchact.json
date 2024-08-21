@@ -684,6 +684,33 @@
     "descripcion": "El concesionario transfiere los derechos de la concesión, debido a que tiene una incapacidad física o mental que le impide seguir prestando el servicio; la misma debe ser acreditada con un dictamen médico y expediente clínico.",
     "verificado": true,
     "id": "dirconcesion12"
+  },
+  {
+    "titulo": "Pago anual de tenencia del servicio público federal",
+    "modalidad": "Presencial",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "departamento_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Para aquellos automóviles que circulen con placas de transporte público federal, el impuesto de Tenencia o uso de vehículos se pagará en los módulos de control vehicular en el Estado. Este es un cobro que se calcula en las oficinas a través del sistema de ingresos de Oaxaca. El impuesto será la cantidad que resulte de aplicar el 0.25 por ciento al valor total del vehículo.",
+    "verificado": "true",
+    "id": "dirlicemp39"
+  },
+  {
+    "titulo": "Cambio de entidad federativa servicio particular",
+    "modalidad": "Presencial",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "departamento_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Registro y emplacamiento en el estado de Oaxaca de un vehículo de servicio particular inscrito en una entidad federativa distinta.",
+    "verificado": "true",
+    "id": "dirlicemp40"
+  },
+  {
+    "titulo": "Reposición de placa servicio particular y público",
+    "modalidad": "Presencial",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "departamento_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
+    "descripcion": "Es obligación de los conductores que manejen vehículos verificar que el vehículo porte placas y tarjeta de circulación.",
+    "verificado": "true",
+    "id": "dirlicemp41"
   }
 
 ]
