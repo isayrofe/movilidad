@@ -657,5 +657,33 @@
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad."
     
+  },
+  {
+    "titulo": "Transferencia de Concesión en Vida",
+    "modalidad": "Presencial",
+    "area_responsable": "Dirección de Concesiones",
+    "departamento_responsable": "Departamento de Transferencia de Concesiones",
+    "descripcion": "El concesionario transfiere por su voluntad los derechos de la concesión por haber transcurrido un periodo de 10 años ininterrumpidos de estar prestando el servicio público.",
+    "verificado": true,
+    "id": "dirconcesion10"
+  },
+  {
+    "titulo": "Transferencia de Concesión por Fallecimiento",
+    "modalidad": "Presencial",
+    "area_responsable": "Dirección de Concesiones",
+    "departamento_responsable": "Departamento de Transferencia de Concesiones",
+    "descripcion": "La transferencia de concesión por fallecimiento procede cuando el concesionario falleció, y el beneficiario designado reclama los derechos de la concesión para continuar prestando el servicio.",
+    "verificado": true,
+    "id": "dirconcesion11"
+  },
+  {
+    "titulo": "Transferencia de Concesión por Incapacidad Física o Mental",
+    "modalidad": "Presencial",
+    "area_responsable": "Dirección de Concesiones",
+    "departamento_responsable": "Departamento de Transferencia de Concesiones",
+    "descripcion": "El concesionario transfiere los derechos de la concesión, debido a que tiene una incapacidad física o mental que le impide seguir prestando el servicio; la misma debe ser acreditada con un dictamen médico y expediente clínico.",
+    "verificado": true,
+    "id": "dirconcesion12"
   }
+
 ]
