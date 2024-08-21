@@ -599,27 +599,27 @@
     
   },
   {
-    "id": "dirconcesion10",
+    "id": "dirjuridica1",
     "titulo": "Derechos ARCOP",
     "modalidad": "Presencial",
     "tipo": "Trámite",
-    "area_responsable": "Dirección de Concesiones",
+    "area_responsable": "Dirección Jurídica",
     "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
     "descripcion": "Es la solicitud para poder ejercer los Derechos de Acceso, Rectificación, Cancelación y Oposición al Tratamiento de Datos Personales."
     
   },
   {
-    "id": "dirconcesion11",
+    "id": "dirjuridica2",
     "titulo": "Solicitud de acceso a la información",
     "modalidad": "Presencial",
     "tipo": "Trámite",
-    "area_responsable": "Dirección de Concesiones",
+    "area_responsable": "Dirección Jurídica",
     "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
     "descripcion": "Existe el procedimiento del recurso de revisión en caso de que no esté conforme con la información entregada por parte de la Unidad de Transparencia."
     
   },
   {
-    "id": "dirjuridica1",
+    "id": "dirjuridica3",
     "titulo": "Solicitud de desbloqueo de concesión por COCOBSI",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -629,7 +629,7 @@
     
   },
   {
-    "id": "dirjuridica2",
+    "id": "dirjuridica4",
     "titulo": "Solicitud de desbloqueo de concesión por folios extraviados y/o robados",
     "modalidad": "Presencial",
     "tipo": "Trámite",
