@@ -711,6 +711,16 @@
     "descripcion": "Es obligación de los conductores que manejen vehículos verificar que el vehículo porte placas y tarjeta de circulación.",
     "verificado": "true",
     "id": "dirlicemp41"
+  },
+  {
+    "titulo": "Renovación de Licencia tipo \"F\" Personas con discapacidad",
+    "modalidad": "Presencial",
+    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
+    "departamento_responsable": "Departamento de Licencias",
+    "descripcion": "Licencia tipo \"F\" Personas con discapacidad, que autoriza a su titular persona con discapacidad a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
+    "verificado": "true",
+    "id": "dirlicemp42"
   }
+
 
 ]
