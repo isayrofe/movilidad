@@ -7,7 +7,6 @@
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
     "descripcion": "Registro de vehículos nacionales del servicio público y privado al Padrón Vehicular del Estado de Oaxaca y Expedición de placa y tarjetas de circulación a favor del interesado."
-    
   },
   {
     "id": "dirlicemp2",
@@ -17,7 +16,6 @@
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
     "descripcion": "Registro de vehículos nuevos o seminuevos, nacionales o extranjeros del servicio público o privado (Moral, Física, Municipios, Dependencias gubernamentales, estatales y federales) al Padrón Vehicular del Estado de Oaxaca para la emisión del formato de pago de tenencia y expedición de placas y tarjeta de circulación."
-    
   },
   {
     "id": "dirlicemp3",
@@ -46,7 +44,6 @@
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
     "descripcion": "Los propietarios y/o tenedores de vehículos registrados en el padrón vehicular del Estado de Oaxaca deberán realizar el trámite de baja vehicular ante la Secretaría de Movilidad."
-    
   },
   {
     "id": "dirlicemp6",
@@ -55,8 +52,7 @@
     "tipo": "Trámite",
     "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
     "depto_responsable": "Departamento de Emplacamiento, Permisos y Tarjetas de Circulación",
-    "descripcion": "Canje de Placas Vehicular del Estado de Oaxaca."
-    
+    "descripcion": "Canje de Placas Vehicular del Estado de Oaxaca."    
   },
   {
     "id": "dirlicemp7",
@@ -599,27 +595,27 @@
     
   },
   {
-    "id": "dirjuridica1",
+    "id": "dirconcesion10",
     "titulo": "Derechos ARCOP",
     "modalidad": "Presencial",
     "tipo": "Trámite",
-    "area_responsable": "Dirección Jurídica",
+    "area_responsable": "Dirección de Concesiones",
     "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
     "descripcion": "Es la solicitud para poder ejercer los Derechos de Acceso, Rectificación, Cancelación y Oposición al Tratamiento de Datos Personales."
     
   },
   {
-    "id": "dirjuridica2",
+    "id": "dirconcesion11",
     "titulo": "Solicitud de acceso a la información",
     "modalidad": "Presencial",
     "tipo": "Trámite",
-    "area_responsable": "Dirección Jurídica",
+    "area_responsable": "Dirección de Concesiones",
     "depto_responsable": "Departamento de Asuntos Jurídicos y Derechos Humanos",
     "descripcion": "Existe el procedimiento del recurso de revisión en caso de que no esté conforme con la información entregada por parte de la Unidad de Transparencia."
     
   },
   {
-    "id": "dirjuridica3",
+    "id": "dirjuridica1",
     "titulo": "Solicitud de desbloqueo de concesión por COCOBSI",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -629,7 +625,7 @@
     
   },
   {
-    "id": "dirjuridica4",
+    "id": "dirjuridica2",
     "titulo": "Solicitud de desbloqueo de concesión por folios extraviados y/o robados",
     "modalidad": "Presencial",
     "tipo": "Trámite",
@@ -656,71 +652,5 @@
     "area_responsable": "Dirección de Operación de Concesiones",
     "depto_responsable": "Departamento de Multas y Sanciones",
     "descripcion": "Por medio del sistema SIOX se expiden las líneas de pago por trámite extemporáneo a nombre de cada concesionario, guiándonos de un formato enviado por el Departamento de Altas y Actualizaciones de Vehículo, donde se especifica el nombre del concesionario, el número de acuerdo de la concesión y los años de extemporaneidad."
-    
-  },
-  {
-    "titulo": "Transferencia de Concesión en Vida",
-    "modalidad": "Presencial",
-    "area_responsable": "Dirección de Concesiones",
-    "departamento_responsable": "Departamento de Transferencia de Concesiones",
-    "descripcion": "El concesionario transfiere por su voluntad los derechos de la concesión por haber transcurrido un periodo de 10 años ininterrumpidos de estar prestando el servicio público.",
-    "verificado": true,
-    "id": "dirconcesion10"
-  },
-  {
-    "titulo": "Transferencia de Concesión por Fallecimiento",
-    "modalidad": "Presencial",
-    "area_responsable": "Dirección de Concesiones",
-    "departamento_responsable": "Departamento de Transferencia de Concesiones",
-    "descripcion": "La transferencia de concesión por fallecimiento procede cuando el concesionario falleció, y el beneficiario designado reclama los derechos de la concesión para continuar prestando el servicio.",
-    "verificado": true,
-    "id": "dirconcesion11"
-  },
-  {
-    "titulo": "Transferencia de Concesión por Incapacidad Física o Mental",
-    "modalidad": "Presencial",
-    "area_responsable": "Dirección de Concesiones",
-    "departamento_responsable": "Departamento de Transferencia de Concesiones",
-    "descripcion": "El concesionario transfiere los derechos de la concesión, debido a que tiene una incapacidad física o mental que le impide seguir prestando el servicio; la misma debe ser acreditada con un dictamen médico y expediente clínico.",
-    "verificado": true,
-    "id": "dirconcesion12"
-  },
-  {
-    "titulo": "Pago anual de tenencia del servicio público federal",
-    "modalidad": "Presencial",
-    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-    "departamento_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-    "descripcion": "Para aquellos automóviles que circulen con placas de transporte público federal, el impuesto de Tenencia o uso de vehículos se pagará en los módulos de control vehicular en el Estado. Este es un cobro que se calcula en las oficinas a través del sistema de ingresos de Oaxaca. El impuesto será la cantidad que resulte de aplicar el 0.25 por ciento al valor total del vehículo.",
-    "verificado": "true",
-    "id": "dirlicemp39"
-  },
-  {
-    "titulo": "Cambio de entidad federativa servicio particular",
-    "modalidad": "Presencial",
-    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-    "departamento_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-    "descripcion": "Registro y emplacamiento en el estado de Oaxaca de un vehículo de servicio particular inscrito en una entidad federativa distinta.",
-    "verificado": "true",
-    "id": "dirlicemp40"
-  },
-  {
-    "titulo": "Reposición de placa servicio particular y público",
-    "modalidad": "Presencial",
-    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-    "departamento_responsable": "Departamento de Emplacamiento, permisos y tarjetas de circulación",
-    "descripcion": "Es obligación de los conductores que manejen vehículos verificar que el vehículo porte placas y tarjeta de circulación.",
-    "verificado": "true",
-    "id": "dirlicemp41"
-  },
-  {
-    "titulo": "Renovación de Licencia tipo 'F' Personas con discapacidad",
-    "modalidad": "Presencial",
-    "area_responsable": "Dirección de Licencias y Emplacamiento Vehicular",
-    "departamento_responsable": "Departamento de Licencias",
-    "descripcion": "Licencia tipo 'F' Personas con discapacidad, que autoriza a su titular persona con discapacidad a conducir vehículos de uso particular; con diferente vigencia las cuales varían en 2 años, 3 años y 5 años, los cuales generan diferentes tipos de costos.",
-    "verificado": "true",
-    "id": "dirlicemp42"
   }
-
-
 ]
