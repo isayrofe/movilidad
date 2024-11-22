@@ -230,7 +230,7 @@
             "region": "PAPALOAPAN",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
-            "direccion": "AV. BENITO JUAREZ S/N COL. CENTRO,  SECCIÓN 3RA.,  C.P. 68460,  SAN FELIPE JALAPA DE DÍAZ, OAX.",
+            "direccion": "AV. BENITO JUÁREZ S/N COL. CENTRO,  SECCIÓN 3RA.,  C.P. 68460,  SAN FELIPE JALAPA DE DÍAZ, OAX.",
             "latitud": "18.07489594",
             "longitud": "-96.53548642"
         },
@@ -311,7 +311,7 @@
             "region": "VALLES CENTRALES (Z. METROPOLITANA)",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
-            "direccion": "CALLE ESMERALDA # 103 COL.BUGAMBILIAS, SANTA ROSA PANZACOLA,  C.P. 68010, OAXACA DE JUAREZ, OAX. (A UN COSTADO DEL MERCADO ZONAL STA. ROSA)",
+            "direccion": "CALLE ESMERALDA # 103 COL.BUGAMBILIAS, SANTA ROSA PANZACOLA,  C.P. 68010, OAXACA DE JUÁREZ, OAX. (A UN COSTADO DEL MERCADO ZONAL STA. ROSA)",
             "latitud": "17.09421158",
             "longitud": "-96.74802399"
         },
@@ -610,7 +610,7 @@
             "region": "PAPALOAPAN",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
-            "direccion": "AV. BENITO JUAREZ S/N COL. CENTRO,  SECCIÓN 3RA.,  C.P. 68460,  SAN FELIPE JALAPA DE DÍAZ, OAX.",
+            "direccion": "AV. BENITO JUÁREZ S/N COL. CENTRO,  SECCIÓN 3RA.,  C.P. 68460,  SAN FELIPE JALAPA DE DÍAZ, OAX.",
             "latitud": "18.07489594",
             "longitud": "-96.53548642"
         },
@@ -664,7 +664,7 @@
             "region": "VALLES CENTRALES (Z. METROPOLITANA)",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
-            "direccion": "CALLE ESMERALDA # 103 COL.BUGAMBILIAS, SANTA ROSA PANZACOLA,  C.P. 68010, OAXACA DE JUAREZ, OAX. (A UN COSTADO DEL MERCADO ZONAL STA. ROSA)",
+            "direccion": "CALLE ESMERALDA # 103 COL.BUGAMBILIAS, SANTA ROSA PANZACOLA,  C.P. 68010, OAXACA DE JUÁREZ, OAX. (A UN COSTADO DEL MERCADO ZONAL STA. ROSA)",
             "latitud": "17.09421158",
             "longitud": "-96.74802399"
         },
@@ -754,11 +754,11 @@
     ],
     "Sistemas": [
         {
-            "nombre": "CARLOS GRACIDA",
+            "nombre": "HEROICO",
             "region": "VALLES CENTRALES (Z. METROPOLITANA)",
             "horario": "9:00 a 17:00 hrs",
             "telefono": "9512224568",
-            "direccion": "AV. CARLOS GRACIDA NÚMERO 9,  SAN ANTONIO DE LA CAL,  C.P. 71236, OAX",
+            "direccion": "AV. HERÓICO COLEGIO MILITAR # 317, COL. REFORMA, CENTRO, OAXACA DE JUÁREZ, C.P. 68000, OAX",
             "latitud": "17.03329379",
             "longitud": "-96.71296587"
         }
